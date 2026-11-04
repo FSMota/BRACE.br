@@ -328,10 +328,12 @@ reinstalar o sistema. Os vetores BERTimbau e bge-m3 e o ajuste fino exigem GPU.
 
 ## 9. Dados e licenças
 
-Os dados não vão para o git (o GitHub recusa arquivos acima de 100 MB). A
-distribuição prevista é o corpus em `.jsonl.gz` num repositório de dados com
-DOI (Zenodo); este repositório fica com o código, a documentação e os
-resultados.
+Os dados não vão para o git. A base está no Zenodo, versão 1.0.0:
+**https://doi.org/10.5281/zenodo.23932000**. Este repositório fica com o
+código, a documentação e os resultados; `scripts/exportar_publicacao.py` gera
+a versão publicada a partir da base usada nos experimentos.
+
+**Código:** licença MIT (ver `LICENSE`).
 
 - **Lado verdadeiro:** Agência Brasil, CC BY 3.0 BR.
 - **Lado falso:** transcrições feitas pelos portais de checagem, citadas para
