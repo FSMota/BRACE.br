@@ -32,12 +32,18 @@ execução.
 
 ### Números
 
-| | instâncias |
-|---|---:|
-| total | **28.002** (14.856 falsas + 13.146 verdadeiras) |
-| subconjunto pareado (tema × ano × parte da divisão) | **23.950** (11.975 + 11.975) |
-| treino / validação / teste (pareado) | 16.707 / 2.080 / 5.162 |
-| período | 2014 a 2026 |
+| | versão publicada (1.0.0) | versão dos experimentos (TCC) |
+|---|---:|---:|
+| total | **27.891** (14.745 falsas + 13.146 verdadeiras) | 28.002 (14.856 + 13.146) |
+| subconjunto pareado (tema × ano × parte da divisão) | **23.676** (11.838 + 11.838) | 23.950 (11.975 + 11.975) |
+| treino / validação / teste (pareado) | 16.572 / 2.070 / 5.034 | 16.707 / 2.080 / 5.162 |
+| período | 2014 a 2026 | 2014 a 2026 |
+
+A versão publicada retira as 111 entradas falsas inventadas pelo LLM na
+extração e exclui do pareado as checagens de discurso, reequilibrando as
+células afetadas. O pareado exato dos experimentos vai no atributo
+`subconjunto_pareado_tcc`; retirar as entradas inventadas altera a acurácia do
+modelo de referência em no máximo 0,15 ponto.
 
 Comparação com as maiores bases do levantamento:
 
@@ -46,7 +52,7 @@ Comparação com as maiores bases do levantamento:
 | Base COVID-19 | 13.087 | tema único; 21% falsas |
 | FakeRecogna | 11.902 | balanceada |
 | Fake.br | 7.200 | falsas de *sites* de desinformação |
-| **BRACE.br** | **28.002** | veredito por alegação e justificativa do checador |
+| **BRACE.br** | **27.891** | veredito por alegação e justificativa do checador |
 
 ### Perguntas de pesquisa
 
