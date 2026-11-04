@@ -228,7 +228,7 @@ def fig_fidelidade():
     """C3 adjudicada: categorias por classe."""
     adj = ler("fidelidade", "resultado_fidelidade.json")["adjudicado"]["por_classe"]
     cats = (("fiel", AZUL), ("perdeu_central", AMARELO), ("mudou_sentido", LARANJA), ("inventou", AQUA))
-    nomes = {"fiel": "fiel", "perdeu_central": "perdeu o central", "mudou_sentido": "mudou o sentido", "inventou": "inventou"}
+    nomes = {"fiel": "fiel", "perdeu_central": "perda do foco", "mudou_sentido": "alteração de sentido", "inventou": "alucinação"}
     fig, ax = plt.subplots(figsize=(LARGURA, 1.7))
     for i, cl in enumerate(("FALSO", "VERDADEIRO")):
         esq = 0
