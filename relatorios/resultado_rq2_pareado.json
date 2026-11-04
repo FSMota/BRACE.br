@@ -1,0 +1,462 @@
+{
+  "n_fila": 400,
+  "n_saida": 400,
+  "por_via": {
+    "todas": {
+      "M1_rendimento_llm": {
+        "n": 390,
+        "de": 400,
+        "pct": 97.5,
+        "ic95": [
+          95.5,
+          98.6
+        ]
+      },
+      "M2_literalidade_llm": {
+        "n": 379,
+        "de": 390,
+        "pct": 97.2,
+        "ic95": [
+          95.0,
+          98.4
+        ]
+      },
+      "M2_literalidade_det_mesmos": {
+        "n": 390,
+        "de": 390,
+        "pct": 100.0,
+        "ic95": [
+          99.0,
+          100.0
+        ]
+      },
+      "M3_igual": {
+        "n": 250,
+        "de": 400,
+        "pct": 62.5,
+        "ic95": [
+          57.7,
+          67.1
+        ]
+      },
+      "M3_parcial": {
+        "n": 50,
+        "de": 400,
+        "pct": 12.5,
+        "ic95": [
+          9.6,
+          16.1
+        ]
+      },
+      "M3_diferente": {
+        "n": 90,
+        "de": 400,
+        "pct": 22.5,
+        "ic95": [
+          18.7,
+          26.8
+        ]
+      },
+      "M3_sem_viral": {
+        "n": 10,
+        "de": 400,
+        "pct": 2.5,
+        "ic95": [
+          1.4,
+          4.5
+        ]
+      },
+      "M3_similaridade_mediana": 1.0,
+      "M4_bruto_prefixo_checador": {
+        "n": 2,
+        "de": 400,
+        "pct": 0.5,
+        "ic95": [
+          0.1,
+          1.8
+        ]
+      },
+      "M4_bruto_voz_checador": {
+        "n": 5,
+        "de": 400,
+        "pct": 1.2,
+        "ic95": [
+          0.5,
+          2.9
+        ]
+      },
+      "M4_bruto_degenerado": {
+        "n": 0,
+        "de": 400,
+        "pct": 0.0,
+        "ic95": [
+          0.0,
+          1.0
+        ]
+      },
+      "M4_bruto_veredito": {
+        "n": 10,
+        "de": 400,
+        "pct": 2.5,
+        "ic95": [
+          1.4,
+          4.5
+        ]
+      },
+      "M4_descartado_pela_limpeza": {
+        "n": 4,
+        "de": 400,
+        "pct": 1.0,
+        "ic95": [
+          0.4,
+          2.5
+        ]
+      },
+      "M5_titulo_copiado": {
+        "n": 7,
+        "de": 390,
+        "pct": 1.8,
+        "ic95": [
+          0.9,
+          3.7
+        ]
+      },
+      "viral_det_dentro_do_corte": {
+        "n": 392,
+        "de": 400,
+        "pct": 98.0,
+        "ic95": [
+          96.1,
+          99.0
+        ]
+      },
+      "M2_mcnemar": {
+        "so_det": 11,
+        "so_llm": 0,
+        "p": 0.0009765625
+      },
+      "sens_M1_rendimento_viral_no_corte": {
+        "n": 383,
+        "de": 392,
+        "pct": 97.7,
+        "ic95": [
+          95.7,
+          98.8
+        ]
+      },
+      "sens_M3_igual_viral_no_corte": {
+        "n": 250,
+        "de": 392,
+        "pct": 63.8,
+        "ic95": [
+          58.9,
+          68.4
+        ]
+      }
+    },
+    "html": {
+      "M1_rendimento_llm": {
+        "n": 191,
+        "de": 200,
+        "pct": 95.5,
+        "ic95": [
+          91.7,
+          97.6
+        ]
+      },
+      "M2_literalidade_llm": {
+        "n": 185,
+        "de": 191,
+        "pct": 96.9,
+        "ic95": [
+          93.3,
+          98.6
+        ]
+      },
+      "M2_literalidade_det_mesmos": {
+        "n": 191,
+        "de": 191,
+        "pct": 100.0,
+        "ic95": [
+          98.0,
+          100.0
+        ]
+      },
+      "M3_igual": {
+        "n": 92,
+        "de": 200,
+        "pct": 46.0,
+        "ic95": [
+          39.2,
+          52.9
+        ]
+      },
+      "M3_parcial": {
+        "n": 34,
+        "de": 200,
+        "pct": 17.0,
+        "ic95": [
+          12.4,
+          22.8
+        ]
+      },
+      "M3_diferente": {
+        "n": 65,
+        "de": 200,
+        "pct": 32.5,
+        "ic95": [
+          26.4,
+          39.3
+        ]
+      },
+      "M3_sem_viral": {
+        "n": 9,
+        "de": 200,
+        "pct": 4.5,
+        "ic95": [
+          2.4,
+          8.3
+        ]
+      },
+      "M3_similaridade_mediana": 0.872,
+      "M4_bruto_prefixo_checador": {
+        "n": 2,
+        "de": 200,
+        "pct": 1.0,
+        "ic95": [
+          0.3,
+          3.6
+        ]
+      },
+      "M4_bruto_voz_checador": {
+        "n": 4,
+        "de": 200,
+        "pct": 2.0,
+        "ic95": [
+          0.8,
+          5.0
+        ]
+      },
+      "M4_bruto_degenerado": {
+        "n": 0,
+        "de": 200,
+        "pct": 0.0,
+        "ic95": [
+          0.0,
+          1.9
+        ]
+      },
+      "M4_bruto_veredito": {
+        "n": 7,
+        "de": 200,
+        "pct": 3.5,
+        "ic95": [
+          1.7,
+          7.0
+        ]
+      },
+      "M4_descartado_pela_limpeza": {
+        "n": 3,
+        "de": 200,
+        "pct": 1.5,
+        "ic95": [
+          0.5,
+          4.3
+        ]
+      },
+      "M5_titulo_copiado": {
+        "n": 6,
+        "de": 191,
+        "pct": 3.1,
+        "ic95": [
+          1.4,
+          6.7
+        ]
+      },
+      "viral_det_dentro_do_corte": {
+        "n": 192,
+        "de": 200,
+        "pct": 96.0,
+        "ic95": [
+          92.3,
+          98.0
+        ]
+      },
+      "M2_mcnemar": {
+        "so_det": 6,
+        "so_llm": 0,
+        "p": 0.03125
+      },
+      "sens_M1_rendimento_viral_no_corte": {
+        "n": 184,
+        "de": 192,
+        "pct": 95.8,
+        "ic95": [
+          92.0,
+          97.9
+        ]
+      },
+      "sens_M3_igual_viral_no_corte": {
+        "n": 92,
+        "de": 192,
+        "pct": 47.9,
+        "ic95": [
+          41.0,
+          55.0
+        ]
+      }
+    },
+    "texto": {
+      "M1_rendimento_llm": {
+        "n": 199,
+        "de": 200,
+        "pct": 99.5,
+        "ic95": [
+          97.2,
+          99.9
+        ]
+      },
+      "M2_literalidade_llm": {
+        "n": 194,
+        "de": 199,
+        "pct": 97.5,
+        "ic95": [
+          94.3,
+          98.9
+        ]
+      },
+      "M2_literalidade_det_mesmos": {
+        "n": 199,
+        "de": 199,
+        "pct": 100.0,
+        "ic95": [
+          98.1,
+          100.0
+        ]
+      },
+      "M3_igual": {
+        "n": 158,
+        "de": 200,
+        "pct": 79.0,
+        "ic95": [
+          72.8,
+          84.1
+        ]
+      },
+      "M3_parcial": {
+        "n": 16,
+        "de": 200,
+        "pct": 8.0,
+        "ic95": [
+          5.0,
+          12.6
+        ]
+      },
+      "M3_diferente": {
+        "n": 25,
+        "de": 200,
+        "pct": 12.5,
+        "ic95": [
+          8.6,
+          17.8
+        ]
+      },
+      "M3_sem_viral": {
+        "n": 1,
+        "de": 200,
+        "pct": 0.5,
+        "ic95": [
+          0.1,
+          2.8
+        ]
+      },
+      "M3_similaridade_mediana": 1.0,
+      "M4_bruto_prefixo_checador": {
+        "n": 0,
+        "de": 200,
+        "pct": 0.0,
+        "ic95": [
+          0.0,
+          1.9
+        ]
+      },
+      "M4_bruto_voz_checador": {
+        "n": 1,
+        "de": 200,
+        "pct": 0.5,
+        "ic95": [
+          0.1,
+          2.8
+        ]
+      },
+      "M4_bruto_degenerado": {
+        "n": 0,
+        "de": 200,
+        "pct": 0.0,
+        "ic95": [
+          0.0,
+          1.9
+        ]
+      },
+      "M4_bruto_veredito": {
+        "n": 3,
+        "de": 200,
+        "pct": 1.5,
+        "ic95": [
+          0.5,
+          4.3
+        ]
+      },
+      "M4_descartado_pela_limpeza": {
+        "n": 1,
+        "de": 200,
+        "pct": 0.5,
+        "ic95": [
+          0.1,
+          2.8
+        ]
+      },
+      "M5_titulo_copiado": {
+        "n": 1,
+        "de": 199,
+        "pct": 0.5,
+        "ic95": [
+          0.1,
+          2.8
+        ]
+      },
+      "viral_det_dentro_do_corte": {
+        "n": 200,
+        "de": 200,
+        "pct": 100.0,
+        "ic95": [
+          98.1,
+          100.0
+        ]
+      },
+      "M2_mcnemar": {
+        "so_det": 5,
+        "so_llm": 0,
+        "p": 0.0625
+      },
+      "sens_M1_rendimento_viral_no_corte": {
+        "n": 199,
+        "de": 200,
+        "pct": 99.5,
+        "ic95": [
+          97.2,
+          99.9
+        ]
+      },
+      "sens_M3_igual_viral_no_corte": {
+        "n": 158,
+        "de": 200,
+        "pct": 79.0,
+        "ic95": [
+          72.8,
+          84.1
+        ]
+      }
+    }
+  }
+}

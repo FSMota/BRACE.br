@@ -1,0 +1,1213 @@
+{
+  "anotador": "Claude (Anthropic), Opus 5.5, nesta sessão do Claude Code",
+  "data": "2026-10-09",
+  "independencia": "anotado sem ver as respostas do anotador humano (a planilha no disco estava em branco). Ressalva: antes, nesta mesma sessão, foram vistas 8 observações de uma anotação anterior feita por outra IA (itens 11, 19, 24, 26, 36, 46, 50 e 56); nesses itens a independência em relação àquela anotação não é garantida.",
+  "por_categoria": {
+    "fiel": 169,
+    "mudou_sentido": 21,
+    "perdeu_central": 4,
+    "inventou": 6
+  },
+  "itens": [
+    {
+      "n": 1,
+      "id": "V67e6cc30b04c",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 2,
+      "id": "Vbfb68fe89f46",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 3,
+      "id": "F1ce9de654ade",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 4,
+      "id": "F2d308ad8f8de",
+      "categoria": "mudou_sentido",
+      "observacao": "a frase irônica atribuída vira preferência declarada ('afirma preferir o capitalismo')"
+    },
+    {
+      "n": 5,
+      "id": "F0bea3ce97be8",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 6,
+      "id": "Feca1b78f84b5",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 7,
+      "id": "V8b5443e3c4c5",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 8,
+      "id": "F0c53a5410a01",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 9,
+      "id": "F34ae55dd3268",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 10,
+      "id": "V9cc2236427c1",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 11,
+      "id": "F56fbaab1db73",
+      "categoria": "mudou_sentido",
+      "observacao": "alegação no presente ('estão no comando') virou hipótese futura ('se Lula falece')"
+    },
+    {
+      "n": 12,
+      "id": "V76a080be7d9a",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 13,
+      "id": "Vaef448e0efd4",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 14,
+      "id": "F31f51b7166ad",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 15,
+      "id": "Fef4970b0bf2b",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 16,
+      "id": "Fea9d6207be57",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 17,
+      "id": "Vb35a0a1e1712",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 18,
+      "id": "Vc142888eb86c",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 19,
+      "id": "F29e80dabee31",
+      "categoria": "mudou_sentido",
+      "observacao": "'volta dos direitos de elegibilidade' virou 'volta de Bolsonaro'"
+    },
+    {
+      "n": 20,
+      "id": "V09591c545942",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 21,
+      "id": "Fdb907ee4062c",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 22,
+      "id": "Vacc5ab51bcb0",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 23,
+      "id": "Va3dec32263b2",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 24,
+      "id": "Vc4554f6cd3ae",
+      "categoria": "perdeu_central",
+      "observacao": "omite a crítica a quem constrói 'muros', metade do título"
+    },
+    {
+      "n": 25,
+      "id": "Vf57c8e379cc5",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 26,
+      "id": "F3e9e35992087",
+      "categoria": "inventou",
+      "observacao": "'usar o PIX apenas por aplicativos oficiais' não está no texto"
+    },
+    {
+      "n": 27,
+      "id": "Fcee384803c2c",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 28,
+      "id": "V527d4e46ba62",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 29,
+      "id": "V18fa4178e90c",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 30,
+      "id": "V01a396f6ce93",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 31,
+      "id": "V3bd536d5edf9",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 32,
+      "id": "V863fac7e1fc6",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 33,
+      "id": "F52cf348ffac2",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 34,
+      "id": "F17c35b5420cd",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 35,
+      "id": "Fd56efb173abd",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 36,
+      "id": "Fb497aa597de6",
+      "categoria": "perdeu_central",
+      "observacao": "vira anúncio de 'empresa'; some o recrutamento para 'tomar o morro' com armamento"
+    },
+    {
+      "n": 37,
+      "id": "V205fa1303e5a",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 38,
+      "id": "V46c8255aa84a",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 39,
+      "id": "F8f64c8433fb6",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 40,
+      "id": "Vfb46beb712ae",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 41,
+      "id": "Fc7f460f3e07d",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 42,
+      "id": "Va37b18370fb5",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 43,
+      "id": "F4eeeb046a7a9",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 44,
+      "id": "F778eb860ae59",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 45,
+      "id": "V0847b77ae320",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 46,
+      "id": "Vaace44934f2c",
+      "categoria": "mudou_sentido",
+      "observacao": "a recontagem é do TRE, não do TJ"
+    },
+    {
+      "n": 47,
+      "id": "Fb9def14e5ad6",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 48,
+      "id": "V51730468b8b7",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 49,
+      "id": "V7d635ee80584",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 50,
+      "id": "Vfe2268990c5c",
+      "categoria": "mudou_sentido",
+      "observacao": "'traidor de Tiradentes' virou 'traidor Tiradentes'"
+    },
+    {
+      "n": 51,
+      "id": "F264c28b00e83",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 52,
+      "id": "F46a634b684e7",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 53,
+      "id": "F114b8d224761",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 54,
+      "id": "F21db0cc82730",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 55,
+      "id": "Fe3dca8726130",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 56,
+      "id": "Vaaf4a8e5e48f",
+      "categoria": "inventou",
+      "observacao": "'procurador-geral Paulo Gennaro Dino' não existe no texto"
+    },
+    {
+      "n": 57,
+      "id": "Fe0f6cb4ef7ef",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 58,
+      "id": "V18b3387579d1",
+      "categoria": "mudou_sentido",
+      "observacao": "'devem chegar a R$ 1 bilhão' virou 'mais de um bilhão'"
+    },
+    {
+      "n": 59,
+      "id": "F1c382e330d4c",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 60,
+      "id": "V533cf86c71c5",
+      "categoria": "inventou",
+      "observacao": "'Companhia de Teatro Sete' não existe; eram sete artistas"
+    },
+    {
+      "n": 61,
+      "id": "Vdeb7660558cd",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 62,
+      "id": "Fcedf197ae533",
+      "categoria": "mudou_sentido",
+      "observacao": "atribui ao STF o pedido de prisão contra Moraes ('Moraes do STF')"
+    },
+    {
+      "n": 63,
+      "id": "Fc2fda9470c29",
+      "categoria": "mudou_sentido",
+      "observacao": "'pode ter ligações com esquemas' virou 'revelando esquemas'"
+    },
+    {
+      "n": 64,
+      "id": "V415cc274bae9",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 65,
+      "id": "Vc7b43dcb76a2",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 66,
+      "id": "V3ecba18a85de",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 67,
+      "id": "Vdccd277eb7f6",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 68,
+      "id": "F958d9592cbf6",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 69,
+      "id": "Vb53dc8603ffb",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 70,
+      "id": "Fc9092f4ed794",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 71,
+      "id": "Vbf6388abcf31",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 72,
+      "id": "V5ec514604769",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 73,
+      "id": "F5b52b22de53f",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 74,
+      "id": "Vd5b5667391f5",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 75,
+      "id": "Fc8a0f48a40ca",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 76,
+      "id": "F8d46ebcc6fcc",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 77,
+      "id": "F2ad893d3c261",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 78,
+      "id": "Vc89f1ec72c21",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 79,
+      "id": "Fc36076222008",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 80,
+      "id": "Va3b3d62ab867",
+      "categoria": "mudou_sentido",
+      "observacao": "'pode permitir', 'se for aprovado' virou 'o projeto aprovado permitirá'"
+    },
+    {
+      "n": 81,
+      "id": "F1f9351c1c8d1",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 82,
+      "id": "V6fe51fe8ec4a",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 83,
+      "id": "Fd4e9d956e20f",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 84,
+      "id": "F1a530cd291c2",
+      "categoria": "mudou_sentido",
+      "observacao": "quem tentou fugir para o Uruguai foi Lulinha, não Lula"
+    },
+    {
+      "n": 85,
+      "id": "V1cb6e5cc61af",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 86,
+      "id": "Va91b4eec19e1",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 87,
+      "id": "Va4627a149031",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 88,
+      "id": "F38bd748af8e9",
+      "categoria": "mudou_sentido",
+      "observacao": "boato em forma de pergunta ('Confere?') virou fato ('lançou')"
+    },
+    {
+      "n": 89,
+      "id": "V6d93ce574d98",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 90,
+      "id": "Ffcae1a37f767",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 91,
+      "id": "F1fe694278546",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 92,
+      "id": "F3506a71ca63a",
+      "categoria": "perdeu_central",
+      "observacao": "some o Papa atual 'fazendo o L'; fica só o Papa Francisco"
+    },
+    {
+      "n": 93,
+      "id": "Fbc14ce0a5906",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 94,
+      "id": "F40b1775f442e",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 95,
+      "id": "V3d2dfcd91918",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 96,
+      "id": "Vdfc3eb4a8197",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 97,
+      "id": "Ve0eaca623efe",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 98,
+      "id": "F72c36e9c5908",
+      "categoria": "mudou_sentido",
+      "observacao": "o vocativo 'Patriotas' virou o nome do líder"
+    },
+    {
+      "n": 99,
+      "id": "Fc96f88e86e30",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 100,
+      "id": "V3646b4dbcb2b",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 101,
+      "id": "V92044f60d8ac",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 102,
+      "id": "V6ccc8bbb4f7f",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 103,
+      "id": "Ff169ad51455d",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 104,
+      "id": "V0239e54a05ba",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 105,
+      "id": "Vaad6f3acd6e0",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 106,
+      "id": "V24abafe90f64",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 107,
+      "id": "Vc9ea474643a7",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 108,
+      "id": "V9f679c10c5e8",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 109,
+      "id": "Vd6613cd82ef0",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 110,
+      "id": "F664d108b56f0",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 111,
+      "id": "F0ec7fc276fee",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 112,
+      "id": "V2b9a7391deb1",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 113,
+      "id": "Fbd658b5b11fb",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 114,
+      "id": "Va26ac2b854ea",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 115,
+      "id": "F0dc71544fa55",
+      "categoria": "inventou",
+      "observacao": "Janja virou 'apresentadora'"
+    },
+    {
+      "n": 116,
+      "id": "Vb3a0fc5f7140",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 117,
+      "id": "Vfd22c2fcbc30",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 118,
+      "id": "Vbd17add6951c",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 119,
+      "id": "Fe6d5174e2545",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 120,
+      "id": "Fc3154dcb99a1",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 121,
+      "id": "F0d7f864f34a9",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 122,
+      "id": "Vd2204972eaa8",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 123,
+      "id": "F2fda6dc4daab",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 124,
+      "id": "Fa6e8d2646563",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 125,
+      "id": "V1a3face98ed8",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 126,
+      "id": "F048d7b52d644",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 127,
+      "id": "V0ba8f57108fb",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 128,
+      "id": "V036385838e83",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 129,
+      "id": "F8427e78ae023",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 130,
+      "id": "Vf5b31744ea30",
+      "categoria": "mudou_sentido",
+      "observacao": "o que Lula já afirmou virou futuro ('chamará')"
+    },
+    {
+      "n": 131,
+      "id": "F5db87d60573e",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 132,
+      "id": "Ff876f1540b3e",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 133,
+      "id": "F53dfe5fee9f1",
+      "categoria": "inventou",
+      "observacao": "meme 'nosso representante no G7' virou participação oficial do Brasil"
+    },
+    {
+      "n": 134,
+      "id": "Ffeacd96c7565",
+      "categoria": "mudou_sentido",
+      "observacao": "'grávida de João Guilherme, filho do Leonardo' virou 'grávida de Leonardo'"
+    },
+    {
+      "n": 135,
+      "id": "V0f56ad1fdca9",
+      "categoria": "mudou_sentido",
+      "observacao": "inverte quem recebe: Lula recebe Xi, não o contrário"
+    },
+    {
+      "n": 136,
+      "id": "Fffdc2a637c96",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 137,
+      "id": "F71d136217b15",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 138,
+      "id": "V046cff91fc48",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 139,
+      "id": "V1c9cc372f54f",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 140,
+      "id": "F5a8a479a2f40",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 141,
+      "id": "F2642b35c7f57",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 142,
+      "id": "Vbb2b15b66ddf",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 143,
+      "id": "F2da420e4570e",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 144,
+      "id": "F4a17cbfcfc45",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 145,
+      "id": "V2291e24469f4",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 146,
+      "id": "F0040b7992895",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 147,
+      "id": "V8fa03d87f7f1",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 148,
+      "id": "Vdf9856d4013b",
+      "categoria": "mudou_sentido",
+      "observacao": "'promete ser a maior' virou 'será a maior'"
+    },
+    {
+      "n": 149,
+      "id": "F62552eb10453",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 150,
+      "id": "Fdda07d5284d2",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 151,
+      "id": "Vff897f56dcf5",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 152,
+      "id": "Veddb769dfc97",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 153,
+      "id": "Veb12f70066e9",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 154,
+      "id": "F2a98d831cb7e",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 155,
+      "id": "Fae38c54d9727",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 156,
+      "id": "F6cae730e6e74",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 157,
+      "id": "Vab30792f25e6",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 158,
+      "id": "F36bd0f1837f7",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 159,
+      "id": "Vc3445a82153f",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 160,
+      "id": "Fc82d431b92cb",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 161,
+      "id": "F41c758b524f5",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 162,
+      "id": "F659aea4d5b15",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 163,
+      "id": "Vd4b21e80dcfe",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 164,
+      "id": "Fc8b9b4ed4fbb",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 165,
+      "id": "V33a32d48d01e",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 166,
+      "id": "Fd84bd99634dd",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 167,
+      "id": "Va7f9132a1ee9",
+      "categoria": "mudou_sentido",
+      "observacao": "'20 anos de idade' virou '20 anos de vida profissional'; some o projeto"
+    },
+    {
+      "n": 168,
+      "id": "F2ffe31bc4283",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 169,
+      "id": "V4532eba2ec19",
+      "categoria": "inventou",
+      "observacao": "'Caracas' não está no texto; La Guaira é o adversário"
+    },
+    {
+      "n": 170,
+      "id": "V58b55d619119",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 171,
+      "id": "F5b0792684be9",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 172,
+      "id": "Vae98bb18dd57",
+      "categoria": "mudou_sentido",
+      "observacao": "o que 'a sociedade civil vê' virou fato causado pela conferência"
+    },
+    {
+      "n": 173,
+      "id": "Ff6c0b1d143a7",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 174,
+      "id": "Fb1695f84e062",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 175,
+      "id": "V15bff4db3281",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 176,
+      "id": "F19974236208e",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 177,
+      "id": "V8cd80bcebd17",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 178,
+      "id": "F4aea91b1b58f",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 179,
+      "id": "F9ddd48fab81d",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 180,
+      "id": "V2a9d0785a2e7",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 181,
+      "id": "V18db1a70eb5d",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 182,
+      "id": "F5cb2632ff750",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 183,
+      "id": "Vcae7867295fb",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 184,
+      "id": "F740665b05c9a",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 185,
+      "id": "V9e316a1b823e",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 186,
+      "id": "Fbb7b2008d572",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 187,
+      "id": "Fd7470cdb93ea",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 188,
+      "id": "Vb4f6e029d35a",
+      "categoria": "perdeu_central",
+      "observacao": "some a fala de Stiell ('gol contra'); a previsão do especialista vira fato"
+    },
+    {
+      "n": 189,
+      "id": "Vdccc2ee8f8cc",
+      "categoria": "mudou_sentido",
+      "observacao": "acrescenta 'suposta' a um fato que o texto afirma"
+    },
+    {
+      "n": 190,
+      "id": "Vd3b9377a1f4c",
+      "categoria": "mudou_sentido",
+      "observacao": "o CCBB do texto é no Rio, não em São Paulo"
+    },
+    {
+      "n": 191,
+      "id": "F7ae626858901",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 192,
+      "id": "F02651977880f",
+      "categoria": "mudou_sentido",
+      "observacao": "funde a 'ovada' com a decisão judicial: 'a justiça italiana expulsou'"
+    },
+    {
+      "n": 193,
+      "id": "Vf0bd46528f32",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 194,
+      "id": "F3cf9b31b04e6",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 195,
+      "id": "F432a6cde09b1",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 196,
+      "id": "F0ac080b9ea22",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 197,
+      "id": "Vdbb3a049baf8",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 198,
+      "id": "V68e25eb59f7d",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 199,
+      "id": "V2b818a100c00",
+      "categoria": "fiel",
+      "observacao": ""
+    },
+    {
+      "n": 200,
+      "id": "V29602c4b2061",
+      "categoria": "fiel",
+      "observacao": ""
+    }
+  ]
+}

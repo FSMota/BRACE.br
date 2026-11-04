@@ -1,0 +1,3331 @@
+{
+ "anotador": "assistente (Claude), segundo anotador declarado no §1 e no adendo 1",
+ "base": "planilha_recuperacao_antes_preenchimento.xlsx, colunas B, D e F; sem ver o anotador 1 nem a chave",
+ "itens": {
+  "1": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "2": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "3": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "4": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "5": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "6": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "7": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "8": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "9": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "10": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "11": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "12": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "13": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "14": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "15": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "16": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "17": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "18": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "19": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "20": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "21": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "22": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "23": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "24": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "25": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "26": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "27": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "28": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "29": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "30": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "31": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "32": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "33": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "34": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "35": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "36": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "37": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "38": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "39": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "40": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "41": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "42": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "43": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "44": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "45": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "46": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "47": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "48": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "49": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "50": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "51": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "52": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "53": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "54": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "55": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "56": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "57": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "58": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "59": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "60": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "61": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "62": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "63": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "64": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "65": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "66": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "67": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "68": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "69": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "70": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "71": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "72": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "73": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "74": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "75": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "76": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "77": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "78": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "79": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "80": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "81": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "82": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "83": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "84": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "85": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "86": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "87": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "88": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "89": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "90": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "91": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "92": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "93": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "94": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "95": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "96": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "97": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "98": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "99": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "100": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "101": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "102": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "103": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "104": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "105": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "106": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "107": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "108": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "109": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "110": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "111": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "112": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "113": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "114": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "115": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "116": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "117": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "118": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "119": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "120": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "121": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "122": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "123": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "124": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "125": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "126": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "127": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "128": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "129": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "130": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "131": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "132": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "133": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "134": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "135": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "136": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "137": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "138": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "139": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "140": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "141": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "142": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "143": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "144": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "145": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "146": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "147": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "148": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "149": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "150": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "151": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "152": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "153": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "154": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "155": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "156": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "157": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "158": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "159": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "160": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "161": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "162": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "163": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "164": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "165": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "166": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "167": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "168": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "169": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "170": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "171": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "172": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "173": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "174": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "175": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "176": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "177": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "178": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "179": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "180": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "181": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "182": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "183": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "184": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "185": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "186": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "187": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "188": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "189": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "190": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "191": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "192": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "193": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "194": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "195": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "196": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "197": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "198": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "199": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "200": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "201": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "202": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "203": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "204": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "205": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "206": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "207": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "208": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "209": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "210": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "211": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "212": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "213": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "214": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "215": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "216": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "217": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "218": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "219": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "220": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "221": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "222": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "223": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "224": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "225": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "226": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "227": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "228": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "229": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "230": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "231": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "232": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "233": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "234": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "235": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "236": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "237": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "238": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "239": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "240": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "241": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "242": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "243": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "244": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "245": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "246": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "247": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "248": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "249": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "250": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "251": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "252": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "253": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "254": {
+   "julgamento_1": "mesma_alegacao",
+   "julgamento_2": "em_parte",
+   "obs": "justificativa trata da Copel; a lógica (mudança de layout) não transfere direto para a EDP"
+  },
+  "255": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "256": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "257": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "258": {
+   "julgamento_1": "mesma_alegacao",
+   "julgamento_2": "em_parte",
+   "obs": "justificativa trata da Sabesp; a lógica não transfere direto para a EDP"
+  },
+  "259": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "260": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "261": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "262": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "263": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "264": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "265": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "266": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "267": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "268": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "269": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "270": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "271": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "272": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "273": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "274": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "275": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "276": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "277": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "278": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "279": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "280": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "281": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "282": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "283": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "284": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "285": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "286": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "287": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "288": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "289": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "290": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "291": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "292": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "293": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "294": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "295": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "296": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "297": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "298": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "299": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "300": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "301": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "302": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "303": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "304": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "305": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "306": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "307": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "308": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "309": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "310": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "311": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "312": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "313": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "314": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "315": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "316": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "317": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "318": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "319": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "320": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "321": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "322": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "323": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "324": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "325": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "326": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "327": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "328": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "329": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "330": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "331": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "332": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "333": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "334": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "335": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "336": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "337": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "338": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "339": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "340": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "341": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "342": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "343": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "344": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "345": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "346": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "347": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "348": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "349": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "350": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "351": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "352": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "353": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "354": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "355": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "356": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "357": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "358": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "359": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "360": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "361": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "362": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "363": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "364": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "365": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "366": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "367": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "368": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "369": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "370": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "371": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "372": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "373": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "374": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "375": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "376": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "377": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "378": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "379": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "380": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "381": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "382": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "383": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "384": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "385": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "386": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "387": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "388": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "389": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "390": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "391": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "392": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "393": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "394": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "395": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "396": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "397": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "398": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "399": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "400": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "401": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "402": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "403": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "404": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "405": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "406": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "407": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "408": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "409": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "410": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "411": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "412": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "413": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "414": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "415": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "416": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "417": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "418": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "419": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "420": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "421": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "422": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "423": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "424": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "425": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "426": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "427": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "428": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "429": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "430": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "431": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "432": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "433": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "434": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "435": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "436": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "437": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "438": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "439": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "440": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "441": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "442": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "443": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "444": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "445": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "446": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "447": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "448": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "449": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "450": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "451": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "452": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "453": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "454": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "455": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "456": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "457": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "458": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "459": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "460": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "461": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "462": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "463": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "464": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "465": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "466": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "467": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "468": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "469": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "470": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "471": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "472": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "473": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "474": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "475": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "476": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "477": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "478": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "479": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "480": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "481": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "482": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "483": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "484": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "485": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "486": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "487": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "488": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "489": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "490": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "491": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "492": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "493": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "494": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "495": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "496": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "497": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "498": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "499": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "500": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "501": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "502": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "503": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "504": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "505": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "506": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "507": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "508": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "509": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "510": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "511": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "512": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "513": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "514": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "515": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "516": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "517": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "518": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "519": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "520": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "521": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "522": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "523": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "524": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "525": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "526": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "527": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "528": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "529": {
+   "julgamento_1": "mesma_alegacao",
+   "julgamento_2": "em_parte",
+   "obs": "justificativa genérica sobre o rito da PGR; não trata de invasão do Alvorada"
+  },
+  "530": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "531": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "532": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "533": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "534": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "535": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "536": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "537": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "538": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "539": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "540": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "541": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "542": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "543": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "544": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "545": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "546": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "547": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "548": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "549": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "550": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "551": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "552": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "553": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "554": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "555": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "556": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "557": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "558": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "559": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "560": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "561": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "562": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "563": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "564": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "565": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "566": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "567": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "568": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "569": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "570": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "571": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "572": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "573": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "574": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "575": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "576": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "577": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "578": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "579": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "580": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "581": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "582": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "583": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "584": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "585": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "586": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "587": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "588": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "589": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "590": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "591": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "592": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "593": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "594": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "595": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "596": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "597": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "598": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "599": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "600": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "601": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "602": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "603": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "604": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "605": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "606": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "607": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "608": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "609": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "610": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "611": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "612": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "613": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "614": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "615": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "616": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "617": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "618": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "619": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "620": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "621": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "622": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "623": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "624": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "625": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "626": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "627": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "628": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "629": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "630": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "631": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "632": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "633": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "634": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "635": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "636": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "637": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "638": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "639": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "640": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "641": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "642": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "643": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "644": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "645": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "646": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "647": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "648": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "649": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "650": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "651": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "652": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "653": {
+   "julgamento_1": "relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "654": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "655": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "656": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "657": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "658": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "659": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "660": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "661": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "662": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "663": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "664": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  },
+  "665": {
+   "julgamento_1": "nao_relacionada",
+   "julgamento_2": null,
+   "obs": null
+  }
+ }
+}

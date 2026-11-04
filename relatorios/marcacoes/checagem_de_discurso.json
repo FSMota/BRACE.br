@@ -1,0 +1,528 @@
+{
+ "marcacao": "checagem_de_discurso",
+ "motivo": "checagem de discurso de político (frase a frase, vereditos mistos ou graduados), não de boato; extraída pela via llm; pode conter frase verdadeira ou texto do jornalista",
+ "n": 57,
+ "por_fonte": {
+  "G1 Fato ou Fake": 24,
+  "Lupa": 33
+ },
+ "por_split_pareado": {
+  "teste|True": 52,
+  "teste|False": 5
+ },
+ "itens": [
+  {
+   "id": "Faf9ca4874cec",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "É #FAKE vídeo de robô de entregas da Amazon se jogando no mar",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-14",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/14/e-fake-video-de-robo-de-entregas-da-amazon-se-jogando-no-mar.ghtml"
+  },
+  {
+   "id": "F64ee275579f8",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "É #FAKE lista de CPFs elegíveis para receber indenização de até R$ 5 mil; trata-se de golpe",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-13",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/13/e-fake-lista-de-cpfs-elegiveis-para-receber-indenizacao-de-ate-r-5-mil-trata-se-de-golpe.ghtml"
+  },
+  {
+   "id": "F4dcaf3b09e8e",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "É #FAKE vídeo de Drauzio Varella recomendando tratamento para disfunção erétil; imagens foram manipuladas com IA",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-12",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/12/e-fake-video-de-drauzio-varella-recomendando-tratamento-para-disfuncao-eretil-imagens-foram-manipuladas-com-ia.ghtml"
+  },
+  {
+   "id": "F9d4f15f5b4be",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "É #FAKE que eleições de 2026 terão novo modelo de urna eletrônica",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-12",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/12/e-fake-que-eleicoes-de-2026-terao-novo-modelo-de-urna-eletronica.ghtml"
+  },
+  {
+   "id": "F0c200657de32",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "É #FAKE que chips importados de Taiwan foram usados para fraudar urnas nas eleições",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-11",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/11/e-fake-que-chips-importados-de-taiwan-foram-usados-para-fraudar-urnas-nas-eleicoes.ghtml"
+  },
+  {
+   "id": "F0463cf201138",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "É #FAKE que Lula disse ter vencido Bolsonaro em 2022 'porque povo nordestino é analfabeto'",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-10",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/10/e-fake-que-lula-disse-ter-vencido-bolsonaro-em-2022-porque-povo-nordestino-e-analfabeto.ghtml"
+  },
+  {
+   "id": "Ff46030de020c",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "Veja o que é #FATO e o que é #FAKE na entrevista de Ronaldo Caiado ao g1 e à GloboNews",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-07",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/07/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-ronaldo-caiado-ao-g1-e-a-globonews.ghtml"
+  },
+  {
+   "id": "F4c69d92ae4e7",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "Veja o que é #FATO e o que é #FAKE na entrevista de Ronaldo Caiado ao g1 e à GloboNews",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-07",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/07/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-ronaldo-caiado-ao-g1-e-a-globonews.ghtml"
+  },
+  {
+   "id": "F3c9fe8868fc7",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "Veja o que é #FATO e o que é #FAKE na entrevista de Ronaldo Caiado ao g1 e à GloboNews",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-07",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/07/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-ronaldo-caiado-ao-g1-e-a-globonews.ghtml"
+  },
+  {
+   "id": "F7e7a50b77247",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "Veja o que é #FATO e o que é #FAKE na entrevista de Ronaldo Caiado ao g1 e à GloboNews",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-07",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/07/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-ronaldo-caiado-ao-g1-e-a-globonews.ghtml"
+  },
+  {
+   "id": "F7bdc18f13307",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "Veja o que é #FATO e o que é #FAKE na entrevista de Romeu Zema ao g1 e à GloboNews",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-06",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/06/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-romeu-zema-ao-g1-e-a-globonews.ghtml"
+  },
+  {
+   "id": "Fe6a5e56c7766",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "Veja o que é #FATO e o que é #FAKE na entrevista de Renan Santos ao g1 e à GloboNews",
+   "split": "teste",
+   "subconjunto_pareado": false,
+   "data_publicacao": "2026-08-05",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/05/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-renan-santos-ao-g1-e-a-globonews.ghtml"
+  },
+  {
+   "id": "F48c3c86e5762",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "Veja o que é #FATO e o que é #FAKE na entrevista de Ronaldo Caiado à Globo",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-25",
+   "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/25/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-ronaldo-caiado-a-globo.ghtml"
+  },
+  {
+   "id": "F27a96ed4bba6",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "Veja o que é #FATO e o que é #FAKE na sabatina de Romeu Zema a 'O Globo', 'Valor' e CBN",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-25",
+   "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/25/veja-o-que-e-fato-e-o-que-e-fake-na-sabatina-de-romeu-zema-a-o-globo-valor-e-cbn.ghtml"
+  },
+  {
+   "id": "F027eeabe9918",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "Veja o que é #FATO e o que é #FAKE na entrevista de Romeu Zema à Globo",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-24",
+   "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/24/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-romeu-zema-a-globo.ghtml"
+  },
+  {
+   "id": "F31119695d38b",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "Veja o que é #FATO e o que é #FAKE na entrevista de Romeu Zema à Globo",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-24",
+   "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/24/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-romeu-zema-a-globo.ghtml"
+  },
+  {
+   "id": "Fffdc2a637c96",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "É #FAKE que PF descobriu 'fábrica de fake news' criada para beneficiar Flávio Bolsonaro; foto foi feita com inteligência artificial",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-21",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/21/e-fake-que-pf-descobriu-fabrica-de-fake-news-criada-para-beneficiar-flavio-bolsonaro-foto-foi-feita-com-inteligencia-artificial.ghtml"
+  },
+  {
+   "id": "Fba50aef92a33",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "É #FAKE que Marinha detectou navios de guerra americanos no Brasil e emitiu 'alerta de vigilância'",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-21",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/21/e-fake-que-marinha-detectou-navios-de-guerra-americanos-no-brasil-e-emitiu-alerta-de-vigilancia.ghtml"
+  },
+  {
+   "id": "F85b6ff098541",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "É #FAKE que Marinha detectou navios de guerra americanos no Brasil e emitiu 'alerta de vigilância'",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-21",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/21/e-fake-que-marinha-detectou-navios-de-guerra-americanos-no-brasil-e-emitiu-alerta-de-vigilancia.ghtml"
+  },
+  {
+   "id": "Faa7525ee48bc",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "É #FAKE que Marinha detectou navios de guerra americanos no Brasil e emitiu 'alerta de vigilância'",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-21",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/21/e-fake-que-marinha-detectou-navios-de-guerra-americanos-no-brasil-e-emitiu-alerta-de-vigilancia.ghtml"
+  },
+  {
+   "id": "Fae9792f33ab7",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "Veja o que é #FATO e o que é #FAKE na entrevista de Tarcísio de Freitas ao 'Globo', 'Valor' e CBN",
+   "split": "teste",
+   "subconjunto_pareado": false,
+   "data_publicacao": "2026-08-20",
+   "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/20/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-tarcisio-de-freitas-ao-globo-valor-e-cbn.ghtml"
+  },
+  {
+   "id": "Fcb661ae67776",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "Veja o que é #FATO e o que é #FAKE na entrevista de Fernando Haddad ao 'Globo', 'Valor' e CBN",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-19",
+   "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/19/veja-o-que-e-fato-ou-fake-na-entrevista-de-fernando-haddad-ao-globo-valor-e-cbn.ghtml"
+  },
+  {
+   "id": "Fbcfcab7b922e",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "Veja o que é #FATO e o que é #FAKE na entrevista de Fernando Haddad ao 'Globo', 'Valor' e CBN",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-19",
+   "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/19/veja-o-que-e-fato-ou-fake-na-entrevista-de-fernando-haddad-ao-globo-valor-e-cbn.ghtml"
+  },
+  {
+   "id": "F3d054d130b76",
+   "fonte": "G1 Fato ou Fake",
+   "titulo_checagem": "É #FAKE que família de Luiz Carlos Barreto brigou na TV por causa de testamento; site falso impulsiona plataforma de criptomoeda",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-19",
+   "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/19/e-fake-que-familia-de-luiz-carlos-barreto-brigou-na-tv-por-causa-de-testamento-site-falso-impulsiona-plataforma-de-criptomoeda.ghtml"
+  },
+  {
+   "id": "Feb9c7e10166d",
+   "fonte": "Lupa",
+   "titulo_checagem": "No JN, Caiado erra ao falar sobre atuação da Europol e tira dados sobre facções de contexto",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-25",
+   "url": "https://www.agencialupa.org/checagem/2026/08/25/ao-vivo-checagem-da-entrevista-de-ronaldo-caiado-ao-jornal-nacional/"
+  },
+  {
+   "id": "F56f820398b9a",
+   "fonte": "Lupa",
+   "titulo_checagem": "No JN, Caiado erra ao falar sobre atuação da Europol e tira dados sobre facções de contexto",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-25",
+   "url": "https://www.agencialupa.org/checagem/2026/08/25/ao-vivo-checagem-da-entrevista-de-ronaldo-caiado-ao-jornal-nacional/"
+  },
+  {
+   "id": "F1a4e6cea63cb",
+   "fonte": "Lupa",
+   "titulo_checagem": "Em debate sem Lula, Flávio e Zema, candidatos erram sobre Master, Casas Bahia e segurança",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-23",
+   "url": "https://www.agencialupa.org/noticias/2026/08/23/ao-vivo-checagem-do-primeiro-debate-com-candidatos-a-presidencia-da-republica/"
+  },
+  {
+   "id": "Ff4ce8afc8ce5",
+   "fonte": "Lupa",
+   "titulo_checagem": "Em debate sem Lula, Flávio e Zema, candidatos erram sobre Master, Casas Bahia e segurança",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-23",
+   "url": "https://www.agencialupa.org/noticias/2026/08/23/ao-vivo-checagem-do-primeiro-debate-com-candidatos-a-presidencia-da-republica/"
+  },
+  {
+   "id": "F65b820f57173",
+   "fonte": "Lupa",
+   "titulo_checagem": "Em debate sem Lula, Flávio e Zema, candidatos erram sobre Master, Casas Bahia e segurança",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-23",
+   "url": "https://www.agencialupa.org/noticias/2026/08/23/ao-vivo-checagem-do-primeiro-debate-com-candidatos-a-presidencia-da-republica/"
+  },
+  {
+   "id": "Fc761d6d1bda1",
+   "fonte": "Lupa",
+   "titulo_checagem": "Em debate sem Lula, Flávio e Zema, candidatos erram sobre Master, Casas Bahia e segurança",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-23",
+   "url": "https://www.agencialupa.org/noticias/2026/08/23/ao-vivo-checagem-do-primeiro-debate-com-candidatos-a-presidencia-da-republica/"
+  },
+  {
+   "id": "Ff4ce8afc8ce5-2",
+   "fonte": "Lupa",
+   "titulo_checagem": "Em debate sem Lula, Flávio e Zema, candidatos erram sobre Master, Casas Bahia e segurança",
+   "split": "teste",
+   "subconjunto_pareado": false,
+   "data_publicacao": "2026-08-23",
+   "url": "https://www.agencialupa.org/noticias/2026/08/23/ao-vivo-checagem-do-primeiro-debate-com-candidatos-a-presidencia-da-republica/"
+  },
+  {
+   "id": "Fb83e1a260401",
+   "fonte": "Lupa",
+   "titulo_checagem": "Em pontapé da campanha, Flávio e Lula cometem erros sobre desempenho de gestões passadas",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-17",
+   "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/"
+  },
+  {
+   "id": "F270b7b055f0d",
+   "fonte": "Lupa",
+   "titulo_checagem": "Em pontapé da campanha, Flávio e Lula cometem erros sobre desempenho de gestões passadas",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-17",
+   "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/"
+  },
+  {
+   "id": "Fbb894d27252e",
+   "fonte": "Lupa",
+   "titulo_checagem": "Caiado erra ao falar sobre renda e greves e exagera dados de educação",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-07",
+   "url": "https://www.agencialupa.org/noticias/2026/08/07/ao-vivo-checagem-da-entrevista-de-ronaldo-caiado-ao-g1-e-globonews/"
+  },
+  {
+   "id": "F2db398612a26",
+   "fonte": "Lupa",
+   "titulo_checagem": "Caiado erra ao falar sobre renda e greves e exagera dados de educação",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-07",
+   "url": "https://www.agencialupa.org/noticias/2026/08/07/ao-vivo-checagem-da-entrevista-de-ronaldo-caiado-ao-g1-e-globonews/"
+  },
+  {
+   "id": "Fdd9436c4dbb9",
+   "fonte": "Lupa",
+   "titulo_checagem": "Caiado erra ao falar sobre renda e greves e exagera dados de educação",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-07",
+   "url": "https://www.agencialupa.org/noticias/2026/08/07/ao-vivo-checagem-da-entrevista-de-ronaldo-caiado-ao-g1-e-globonews/"
+  },
+  {
+   "id": "F45fda64a8329",
+   "fonte": "Lupa",
+   "titulo_checagem": "Caiado erra ao falar sobre renda e greves e exagera dados de educação",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-07",
+   "url": "https://www.agencialupa.org/noticias/2026/08/07/ao-vivo-checagem-da-entrevista-de-ronaldo-caiado-ao-g1-e-globonews/"
+  },
+  {
+   "id": "F95d7d18cc271",
+   "fonte": "Lupa",
+   "titulo_checagem": "Caiado erra ao falar sobre renda e greves e exagera dados de educação",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-07",
+   "url": "https://www.agencialupa.org/noticias/2026/08/07/ao-vivo-checagem-da-entrevista-de-ronaldo-caiado-ao-g1-e-globonews/"
+  },
+  {
+   "id": "Fe9a5fee00f55",
+   "fonte": "Lupa",
+   "titulo_checagem": "Zema erra ao falar de investigados no Novo e omite contexto sobre pesquisas e Banco Master",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-06",
+   "url": "https://www.agencialupa.org/checagem/2026/08/06/ao-vivo-checagem-da-entrevista-de-romeu-zema-ao-g1-e-globonews/"
+  },
+  {
+   "id": "F14c69ecca944",
+   "fonte": "Lupa",
+   "titulo_checagem": "Renan Santos erra ao falar de adversário e exagera sobre reincidência criminal",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-05",
+   "url": "https://www.agencialupa.org/checagem/2026/08/05/ao-vivo-checagem-da-entrevista-de-renan-santos-ao-g1-e-globonews/"
+  },
+  {
+   "id": "F0727432395b5",
+   "fonte": "Lupa",
+   "titulo_checagem": "Renan Santos erra ao falar de adversário e exagera sobre reincidência criminal",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-05",
+   "url": "https://www.agencialupa.org/checagem/2026/08/05/ao-vivo-checagem-da-entrevista-de-renan-santos-ao-g1-e-globonews/"
+  },
+  {
+   "id": "F61394b2f7caf",
+   "fonte": "Lupa",
+   "titulo_checagem": "Renan Santos erra ao falar de adversário e exagera sobre reincidência criminal",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-08-05",
+   "url": "https://www.agencialupa.org/checagem/2026/08/05/ao-vivo-checagem-da-entrevista-de-renan-santos-ao-g1-e-globonews/"
+  },
+  {
+   "id": "F9be1e6298a74",
+   "fonte": "Lupa",
+   "titulo_checagem": "Economia, educação e 8 de janeiro: checamos entrevistas de Renan Santos",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-07-01",
+   "url": "https://www.agencialupa.org/checagem/2026/07/01/economia-educacao-e-8-de-janeiro-checamos-entrevistas-de-renan-santos/"
+  },
+  {
+   "id": "Fdc196bda30c2",
+   "fonte": "Lupa",
+   "titulo_checagem": "Economia, educação e 8 de janeiro: checamos entrevistas de Renan Santos",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-07-01",
+   "url": "https://www.agencialupa.org/checagem/2026/07/01/economia-educacao-e-8-de-janeiro-checamos-entrevistas-de-renan-santos/"
+  },
+  {
+   "id": "Fc71531c35c73",
+   "fonte": "Lupa",
+   "titulo_checagem": "Economia, educação e 8 de janeiro: checamos entrevistas de Renan Santos",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-07-01",
+   "url": "https://www.agencialupa.org/checagem/2026/07/01/economia-educacao-e-8-de-janeiro-checamos-entrevistas-de-renan-santos/"
+  },
+  {
+   "id": "F41ed16caf976",
+   "fonte": "Lupa",
+   "titulo_checagem": "Economia, educação e 8 de janeiro: checamos entrevistas de Renan Santos",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-07-01",
+   "url": "https://www.agencialupa.org/checagem/2026/07/01/economia-educacao-e-8-de-janeiro-checamos-entrevistas-de-renan-santos/"
+  },
+  {
+   "id": "F0a3db6f820db",
+   "fonte": "Lupa",
+   "titulo_checagem": "Economia, educação e 8 de janeiro: checamos entrevistas de Renan Santos",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-07-01",
+   "url": "https://www.agencialupa.org/checagem/2026/07/01/economia-educacao-e-8-de-janeiro-checamos-entrevistas-de-renan-santos/"
+  },
+  {
+   "id": "Fbc4a023e365b",
+   "fonte": "Lupa",
+   "titulo_checagem": "Haddad e Tarcísio: checamos declarações dos pré-candidatos ao governo de SP",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-06-03",
+   "url": "https://www.agencialupa.org/noticias/2026/06/03/haddad-e-tarcisio-checamos-declaracoes-dos-pre-candidatos-ao-governo-de-sp/"
+  },
+  {
+   "id": "F3f8c88e21368",
+   "fonte": "Lupa",
+   "titulo_checagem": "Haddad e Tarcísio: checamos declarações dos pré-candidatos ao governo de SP",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-06-03",
+   "url": "https://www.agencialupa.org/noticias/2026/06/03/haddad-e-tarcisio-checamos-declaracoes-dos-pre-candidatos-ao-governo-de-sp/"
+  },
+  {
+   "id": "Fe726060aa3fb",
+   "fonte": "Lupa",
+   "titulo_checagem": "Flávio Bolsonaro distorce fatos e se contradiz sobre recursos para filme e relação com Vorcaro",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-05-15",
+   "url": "https://www.agencialupa.org/noticias/2026/05/15/flavio-bolsonaro-distorce-fatos-e-se-contradiz-sobre-recursos-para-filme-e-relacao-com-vorcaro/"
+  },
+  {
+   "id": "F5a7bfbf71917",
+   "fonte": "Lupa",
+   "titulo_checagem": "Em entrevista, Zema erra sobre segurança pública, salário e informalidade",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-05-08",
+   "url": "https://www.agencialupa.org/checagem/2026/05/08/zema-seguranca-salario-informalidade/"
+  },
+  {
+   "id": "Fd8df88ce6c84",
+   "fonte": "Lupa",
+   "titulo_checagem": "Em entrevista, Zema erra sobre segurança pública, salário e informalidade",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-05-08",
+   "url": "https://www.agencialupa.org/checagem/2026/05/08/zema-seguranca-salario-informalidade/"
+  },
+  {
+   "id": "F221b4b93cd94",
+   "fonte": "Lupa",
+   "titulo_checagem": "Lula exagera ao falar de empregos e erra sobre preço de combustíveis no Brasil",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-04-14",
+   "url": "https://www.agencialupa.org/checagem/2026/04/14/lula-exagera-ao-falar-de-empregos-e-erra-sobre-preco-de-combustiveis-no-brasil/"
+  },
+  {
+   "id": "Fbe924455767f",
+   "fonte": "Lupa",
+   "titulo_checagem": "Lula exagera ao falar de empregos e erra sobre preço de combustíveis no Brasil",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-04-14",
+   "url": "https://www.agencialupa.org/checagem/2026/04/14/lula-exagera-ao-falar-de-empregos-e-erra-sobre-preco-de-combustiveis-no-brasil/"
+  },
+  {
+   "id": "F0b84808f138c",
+   "fonte": "Lupa",
+   "titulo_checagem": "Caiado erra sobre fome e Ideb e exagera ao falar de economia em sabatina na Folha e UOL",
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "data_publicacao": "2026-04-07",
+   "url": "https://www.agencialupa.org/noticias/2026/04/07/caiado-erra-sobre-fome-e-ideb-e-exagera-ao-falar-de-economia-em-sabatina-na-folha-e-uol/"
+  },
+  {
+   "id": "F0b84808f138c-2",
+   "fonte": "Lupa",
+   "titulo_checagem": "Caiado erra sobre fome e Ideb e exagera ao falar de economia em sabatina na Folha e UOL",
+   "split": "teste",
+   "subconjunto_pareado": false,
+   "data_publicacao": "2026-04-07",
+   "url": "https://www.agencialupa.org/noticias/2026/04/07/caiado-erra-sobre-fome-e-ideb-e-exagera-ao-falar-de-economia-em-sabatina-na-folha-e-uol/"
+  },
+  {
+   "id": "F0b84808f138c-3",
+   "fonte": "Lupa",
+   "titulo_checagem": "Caiado erra sobre fome e Ideb e exagera ao falar de economia em sabatina na Folha e UOL",
+   "split": "teste",
+   "subconjunto_pareado": false,
+   "data_publicacao": "2026-04-07",
+   "url": "https://www.agencialupa.org/noticias/2026/04/07/caiado-erra-sobre-fome-e-ideb-e-exagera-ao-falar-de-economia-em-sabatina-na-folha-e-uol/"
+  }
+ ]
+}

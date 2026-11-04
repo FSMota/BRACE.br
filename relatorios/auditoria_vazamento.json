@@ -1,0 +1,537 @@
+{
+  "termos": [
+    {
+      "termo": "boatos org",
+      "pct_checador": 89.13,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.56
+    },
+    {
+      "termo": "uma sugestão",
+      "pct_checador": 83.12,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.49
+    },
+    {
+      "termo": "sugerir um",
+      "pct_checador": 83.12,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.49
+    },
+    {
+      "termo": "org entre",
+      "pct_checador": 83.12,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.49
+    },
+    {
+      "termo": "quiser sugerir",
+      "pct_checador": 82.84,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.48
+    },
+    {
+      "termo": "gente pelo",
+      "pct_checador": 82.84,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.48
+    },
+    {
+      "termo": "esse artigo",
+      "pct_checador": 82.84,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.48
+    },
+    {
+      "termo": "ps esse",
+      "pct_checador": 81.84,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.47
+    },
+    {
+      "termo": "sugestão de",
+      "pct_checador": 78.74,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.43
+    },
+    {
+      "termo": "artigo uma",
+      "pct_checador": 78.34,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.43
+    },
+    {
+      "termo": "do boatos",
+      "pct_checador": 77.84,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.42
+    },
+    {
+      "termo": "ao boatos",
+      "pct_checador": 75.79,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.4
+    },
+    {
+      "termo": "tema ao",
+      "pct_checador": 75.48,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.39
+    },
+    {
+      "termo": "leitores do",
+      "pct_checador": 74.83,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.38
+    },
+    {
+      "termo": "de leitores",
+      "pct_checador": 74.36,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.38
+    },
+    {
+      "termo": "matsuki",
+      "pct_checador": 71.66,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.34
+    },
+    {
+      "termo": "edgard matsuki",
+      "pct_checador": 71.66,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.34
+    },
+    {
+      "termo": "por edgard",
+      "pct_checador": 71.61,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.34
+    },
+    {
+      "termo": "matsuki boato",
+      "pct_checador": 68.87,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.3
+    },
+    {
+      "termo": "whatsapp no",
+      "pct_checador": 55.17,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.08
+    },
+    {
+      "termo": "facebook whatsapp",
+      "pct_checador": 52.33,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.03
+    },
+    {
+      "termo": "site facebook",
+      "pct_checador": 52.17,
+      "pct_boato_ref": 0.0,
+      "log_razao": 7.02
+    },
+    {
+      "termo": "org se",
+      "pct_checador": 75.06,
+      "pct_boato_ref": 0.05,
+      "log_razao": 6.69
+    },
+    {
+      "termo": "edgard",
+      "pct_checador": 71.67,
+      "pct_boato_ref": 0.05,
+      "log_razao": 6.65
+    },
+    {
+      "termo": "bit",
+      "pct_checador": 35.06,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.63
+    },
+    {
+      "termo": "siga nos",
+      "pct_checador": 35.05,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "bit ly",
+      "pct_checador": 35.05,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "zwz siga",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "zwz",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "twitter http",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "syhnyu",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "ou zwz",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "ot bek",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "ot",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "ly syhnyu",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "ly ou",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "ly ot",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "instagram http",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "http bit",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "facebook http",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "bek siga",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "bek",
+      "pct_checador": 35.04,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "syhnyu grupo",
+      "pct_checador": 35.0,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.62
+    },
+    {
+      "termo": "ke",
+      "pct_checador": 30.42,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.48
+    },
+    {
+      "termo": "youtube http",
+      "pct_checador": 30.41,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.48
+    },
+    {
+      "termo": "ly ahn",
+      "pct_checador": 30.41,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.48
+    },
+    {
+      "termo": "ke siga",
+      "pct_checador": 30.41,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.48
+    },
+    {
+      "termo": "ahn ke",
+      "pct_checador": 30.41,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.48
+    },
+    {
+      "termo": "ahn",
+      "pct_checador": 30.41,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.48
+    },
+    {
+      "termo": "sugerir",
+      "pct_checador": 83.53,
+      "pct_boato_ref": 0.09,
+      "log_razao": 6.39
+    },
+    {
+      "termo": "https bit",
+      "pct_checador": 27.8,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.39
+    },
+    {
+      "termo": "sugestão",
+      "pct_checador": 83.19,
+      "pct_boato_ref": 0.09,
+      "log_razao": 6.39
+    },
+    {
+      "termo": "um tema",
+      "pct_checador": 83.11,
+      "pct_boato_ref": 0.09,
+      "log_razao": 6.39
+    },
+    {
+      "termo": "no telegram",
+      "pct_checador": 27.59,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.39
+    },
+    {
+      "termo": "lista no",
+      "pct_checador": 27.24,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.37
+    },
+    {
+      "termo": "vslzwk",
+      "pct_checador": 27.17,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.37
+    },
+    {
+      "termo": "telegram https",
+      "pct_checador": 27.17,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.37
+    },
+    {
+      "termo": "ly vslzwk",
+      "pct_checador": 27.17,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.37
+    },
+    {
+      "termo": "wa",
+      "pct_checador": 25.21,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.3
+    },
+    {
+      "termo": "fontes confiáveis",
+      "pct_checador": 24.74,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.28
+    },
+    {
+      "termo": "alarmista",
+      "pct_checador": 24.72,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.28
+    },
+    {
+      "termo": "mail boatos",
+      "pct_checador": 24.5,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.27
+    },
+    {
+      "termo": "org gmail",
+      "pct_checador": 24.47,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.27
+    },
+    {
+      "termo": "wa me",
+      "pct_checador": 24.34,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.26
+    },
+    {
+      "termo": "https wa",
+      "pct_checador": 24.34,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.26
+    },
+    {
+      "termo": "link aqui",
+      "pct_checador": 24.21,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.25
+    },
+    {
+      "termo": "com whatsapp",
+      "pct_checador": 24.16,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.25
+    },
+    {
+      "termo": "circula online",
+      "pct_checador": 22.96,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.2
+    },
+    {
+      "termo": "vslzwk siga",
+      "pct_checador": 22.35,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.18
+    },
+    {
+      "termo": "tiktok https",
+      "pct_checador": 22.11,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.16
+    },
+    {
+      "termo": "whatsapp https",
+      "pct_checador": 21.45,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.13
+    },
+    {
+      "termo": "telefone siga",
+      "pct_checador": 21.35,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.13
+    },
+    {
+      "termo": "ps",
+      "pct_checador": 83.21,
+      "pct_boato_ref": 0.14,
+      "log_razao": 6.1
+    },
+    {
+      "termo": "você quiser",
+      "pct_checador": 83.03,
+      "pct_boato_ref": 0.14,
+      "log_razao": 6.1
+    },
+    {
+      "termo": "desmentido",
+      "pct_checador": 20.56,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.09
+    },
+    {
+      "termo": "no kwai",
+      "pct_checador": 20.44,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.09
+    },
+    {
+      "termo": "boato política",
+      "pct_checador": 20.18,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.07
+    },
+    {
+      "termo": "pelo site",
+      "pct_checador": 59.24,
+      "pct_boato_ref": 0.09,
+      "log_razao": 6.05
+    },
+    {
+      "termo": "resposta não",
+      "pct_checador": 19.13,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.02
+    },
+    {
+      "termo": "desmentiu",
+      "pct_checador": 19.05,
+      "pct_boato_ref": 0.0,
+      "log_razao": 6.02
+    }
+  ],
+  "presenca_pareado": {
+    "FALSO": {
+      ">=1": 0.9,
+      ">=2": 0.1,
+      ">=3": 0.0
+    },
+    "VERDADEIRO": {
+      ">=1": 0.3,
+      ">=2": 0.0,
+      ">=3": 0.0
+    }
+  },
+  "freq_entradas": {
+    "FALSO": {
+      "você quiser": 14,
+      "desmentido": 13,
+      "ps": 11,
+      "resposta não": 11,
+      "sugestão": 10,
+      "pelo site": 8,
+      "alarmista": 8,
+      "no telegram": 6,
+      "fontes confiáveis": 6,
+      "facebook whatsapp": 5,
+      "sugerir": 4,
+      "link aqui": 4,
+      "um tema": 3,
+      "desmentiu": 3,
+      "gente pelo": 3,
+      "sugestão de": 2,
+      "edgard": 2,
+      "uma sugestão": 2,
+      "leitores do": 1,
+      "com whatsapp": 1,
+      "bit ly": 1,
+      "https bit": 1,
+      "bit": 1,
+      "esse artigo": 1,
+      "siga nos": 1,
+      "org gmail": 1
+    },
+    "VERDADEIRO": {
+      "pelo site": 12,
+      "sugestão": 8,
+      "desmentiu": 4,
+      "um tema": 3,
+      "sugestão de": 3,
+      "whatsapp no": 1,
+      "no kwai": 1,
+      "sugerir": 1,
+      "no telegram": 1
+    }
+  }
+}

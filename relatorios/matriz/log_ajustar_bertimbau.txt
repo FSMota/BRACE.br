@@ -1,0 +1,35 @@
+﻿bruto: nossa direção
+python.exe : 
+No linha:1 caractere:373
++ ... t=Get-Date; & .venv\Scripts\python.exe scripts/ajustar_bertimbau.py * ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits 
+and faster downloads.
+    época 1: validação 99.62%
+    época 2: validação 99.52%
+    época 3: validação 99.28%
+bruto: direção Fake.br
+
+
+    época 1: validação 97.71%
+    época 2: validação 97.99%
+    época 3: validação 98.40%
+  bruto: época escolhida 1 / 3 | nosso→teste 99.05 | nosso→Fake.br 70.26 | Fake.br→nosso 76.87
+refinado: nossa direção
+
+
+    época 1: validação 89.95%
+    época 2: validação 88.17%
+    época 3: validação 91.15%
+refinado: direção Fake.br
+
+
+    época 1: validação 76.94%
+    época 2: validação 78.40%
+    época 3: validação 77.29%
+  refinado: época escolhida 3 / 2 | nosso→teste 88.11 | nosso→Fake.br 67.97 | Fake.br→nosso 76.60
+tempo total: 10 min

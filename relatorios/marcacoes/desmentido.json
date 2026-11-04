@@ -1,0 +1,509 @@
+{
+ "marcacao": "desmentido",
+ "n": 62,
+ "por_tipo": {
+  "nega_autoria": 10,
+  "nota_oficial": 9,
+  "texto_checador": 43
+ },
+ "pareado": 45,
+ "de_artigo_com_2_ou_mais": 42,
+ "itens": [
+  {
+   "id": "Fe90366c86550",
+   "tipo": "nega_autoria",
+   "registros_no_artigo": 2,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/entretenimento/bruno-que-faz-dupla-com-marrone-anunciou-que-esta-cancer-terminal.html"
+  },
+  {
+   "id": "F82eea2ff969f",
+   "tipo": "nota_oficial",
+   "registros_no_artigo": 2,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/brasil/copasa-alerta-que-nao-se-deve-consumir-agua-da-torneira-nos-proximos-7-dias-em-minas-gerais.html"
+  },
+  {
+   "id": "Fece35b77933f",
+   "tipo": "nota_oficial",
+   "registros_no_artigo": 2,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/saude/hospital-semiu-no-rj-foi-vendido-para-rede-casa-de-portugal.html"
+  },
+  {
+   "id": "Ff91567f389b6",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 5,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/cinco-textos-mais-lidos-do-boatos-org-em-2025.html"
+  },
+  {
+   "id": "F3a6972e0c6f9",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 5,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/cinco-textos-mais-lidos-do-boatos-org-em-2025.html"
+  },
+  {
+   "id": "F6d46e48c4369",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 5,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/o-melhor-de-2025-no-boatos-org-por-edgard-matsuki.html"
+  },
+  {
+   "id": "F1f3304bde113",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 5,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/o-melhor-de-2025-no-boatos-org-por-edgard-matsuki.html"
+  },
+  {
+   "id": "F99c6e190b0fc",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 5,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/o-melhor-de-2025-no-boatos-org-por-edgard-matsuki.html"
+  },
+  {
+   "id": "Fc060dbe28b38",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 5,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/o-melhor-de-2025-no-boatos-org-por-edgard-matsuki.html"
+  },
+  {
+   "id": "Fc130b672a9d6",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 7,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/o-melhor-de-2024-no-boatos-org-por-edgard-matsuki.html"
+  },
+  {
+   "id": "Fe3851e08a66c",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 7,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/o-melhor-de-2024-no-boatos-org-por-edgard-matsuki.html"
+  },
+  {
+   "id": "F7318a9cb1d55",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/esporte/final-do-boxe-feminino-sera-disputada-por-dois-homens-nas-olimpiadas.html"
+  },
+  {
+   "id": "F7938e11011d7",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "teste",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/esporte/governo-cobra-taxa-sobre-medalha-de-ouro-ganha-nas-olimpiadas.html"
+  },
+  {
+   "id": "F8956a95ef75e",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 10,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/10-fake-news-sobre-as-olimpiadas-de-paris.html"
+  },
+  {
+   "id": "F63f314495b98",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 10,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/10-fake-news-sobre-as-olimpiadas-de-paris.html"
+  },
+  {
+   "id": "Fd5cace4b500a",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 10,
+   "split": "teste",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/lista/10-fake-news-sobre-as-olimpiadas-de-paris.html"
+  },
+  {
+   "id": "F62f1b59af5ee",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 10,
+   "split": "teste",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/10-fake-news-sobre-as-olimpiadas-de-paris.html"
+  },
+  {
+   "id": "F42e85cb50289",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/entretenimento/felipe-neto-fez-publicacao-relacionando-queda-do-aviao-com-semente-do-odio-plantada-em-2018.html"
+  },
+  {
+   "id": "F3a6af11bae96",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/entretenimento/vidente-previu-morte-de-marilia-mendonca-enviou-carta.html"
+  },
+  {
+   "id": "F08afe8f4da2c",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/entretenimento/marilia-mendonca-sonhou-com-o-acidente-no-dia-anterior-ao-voo-boato.html"
+  },
+  {
+   "id": "Fd5a672006cc0",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/entretenimento/piloto-do-aviao-que-levava-marilia-mendonca-se-vacinou-um-dia-antes-da-tragedia-boato.html"
+  },
+  {
+   "id": "F0058d1f6712a",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/entretenimento/audio-mostra-dialogo-entre-piloto-e-co-piloto-de-aviao-de-marilia-mendonca.html"
+  },
+  {
+   "id": "Ff9b7927bd9bd",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/entretenimento/marilia-mendonca-nao-morreu-e-esta-bem.html"
+  },
+  {
+   "id": "F109e967e760b",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/saude/china-usar-vacina-oxford-em-vez-da-chinesa-toda-populacao.html"
+  },
+  {
+   "id": "F049be258e3c4",
+   "tipo": "nega_autoria",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/entretenimento/video-atriz-paolla-oliveira-vazou.html"
+  },
+  {
+   "id": "F3938a0b69d0a",
+   "tipo": "nota_oficial",
+   "registros_no_artigo": 2,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/brasil/rodizio-carro-sao-paulo-ampliado.html"
+  },
+  {
+   "id": "F7e5f74c266fa",
+   "tipo": "nega_autoria",
+   "registros_no_artigo": 6,
+   "split": "treino",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/brasil/morar-roraima-texto-dominado-americanos.html"
+  },
+  {
+   "id": "Fd73d69aade92",
+   "tipo": "nota_oficial",
+   "registros_no_artigo": 2,
+   "split": "treino",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/brasil/sepe-cestas-basicas.html"
+  },
+  {
+   "id": "Fc4470ecd6021",
+   "tipo": "nota_oficial",
+   "registros_no_artigo": 3,
+   "split": "treino",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/brasil/sorteio-range-rover-facebook.html"
+  },
+  {
+   "id": "F32f9114e60df",
+   "tipo": "nega_autoria",
+   "registros_no_artigo": 2,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/politica/roger-moreira-carta-ditadura.html"
+  },
+  {
+   "id": "Ff8631c726fc5",
+   "tipo": "nota_oficial",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/brasil/tam-sorteando-passagens-aniversario.html"
+  },
+  {
+   "id": "F989cf22c0f09",
+   "tipo": "nota_oficial",
+   "registros_no_artigo": 6,
+   "split": "treino",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/politica/dilma-sacrificio-cao-nego.html"
+  },
+  {
+   "id": "Fa8513b4f9818",
+   "tipo": "nega_autoria",
+   "registros_no_artigo": 2,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/politica/janaina-paschoal-intervencao-militar.html"
+  },
+  {
+   "id": "Fa03c7a6f663e",
+   "tipo": "nega_autoria",
+   "registros_no_artigo": 2,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/politica/cristiana-lobo-alerta-sobre-impeachment-em-audio-do-whatsapp-boato.html"
+  },
+  {
+   "id": "Fe85b0e21653c",
+   "tipo": "nega_autoria",
+   "registros_no_artigo": 2,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/politica/joaquim-barbosa-pede-apoio-moro.html"
+  },
+  {
+   "id": "Fae8b987c24bc",
+   "tipo": "nega_autoria",
+   "registros_no_artigo": 2,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/politica/mirian-leitao-pede-desculpas-por-lutar-contra-ditadura.html"
+  },
+  {
+   "id": "Fb2871ce40dc8",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/mundo/fake-mulher-morre-atropelada-apos-susto-brincadeira-idiota.html"
+  },
+  {
+   "id": "F46916efe09ff",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 2,
+   "split": "treino",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/entretenimento/video-momento-exato-da-queda-do-aviao-marilia-mendonca.html"
+  },
+  {
+   "id": "F4d7e5c8284ce",
+   "tipo": "nota_oficial",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/politica/joesley-batista-envenenado-laudo.html"
+  },
+  {
+   "id": "F660f85810b19",
+   "tipo": "nota_oficial",
+   "registros_no_artigo": 2,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/politica/dilma-abandonou-cachorro-sacrificado.html"
+  },
+  {
+   "id": "Fe7451bf545e3",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "teste",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/tecnologia/e-falso-que-o-gov-br-vai-bloquear-contas-ouro-prata-sem-2fa.html"
+  },
+  {
+   "id": "F0ba0fff049d4",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "teste",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/tecnologia/e-falso-que-fortune-tiger-tenha-horario-certo-para-pagar.html"
+  },
+  {
+   "id": "F7527dd44d7b7",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 3,
+   "split": "validacao",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/o-melhor-de-2023-no-boatos-org-por-edgard-matsuki.html"
+  },
+  {
+   "id": "F9799a777dc41",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 8,
+   "split": "treino",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/lista/principais-fake-news-do-dia-30-de-outubro-dia-do-2o-turno-das-eleicoes-2022.html"
+  },
+  {
+   "id": "F6ac46044271d",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 8,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/principais-fake-news-do-dia-30-de-outubro-dia-do-2o-turno-das-eleicoes-2022.html"
+  },
+  {
+   "id": "F73b5d24ed2e8",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 8,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/principais-fake-news-do-dia-30-de-outubro-dia-do-2o-turno-das-eleicoes-2022.html"
+  },
+  {
+   "id": "F40a49ddc31bb",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 13,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/politica/principais-fake-news-de-29-de-outubro-de-2022-vespera-do-2o-turno-das-eleicoes.html"
+  },
+  {
+   "id": "Fb7ffeb7ef783",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 13,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/politica/principais-fake-news-de-29-de-outubro-de-2022-vespera-do-2o-turno-das-eleicoes.html"
+  },
+  {
+   "id": "F810310b31a82",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 13,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/politica/principais-fake-news-de-29-de-outubro-de-2022-vespera-do-2o-turno-das-eleicoes.html"
+  },
+  {
+   "id": "Fcf009132e949",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 13,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/politica/principais-fake-news-de-29-de-outubro-de-2022-vespera-do-2o-turno-das-eleicoes.html"
+  },
+  {
+   "id": "F1853f0dc53de",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 13,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/politica/principais-fake-news-de-29-de-outubro-de-2022-vespera-do-2o-turno-das-eleicoes.html"
+  },
+  {
+   "id": "F707f1906a9ca",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 4,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/principais-fake-news-de-2-de-outubro-dia-das-eleicoes-de-2022.html"
+  },
+  {
+   "id": "F90339881febe",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 4,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/principais-fake-news-de-2-de-outubro-dia-das-eleicoes-de-2022.html"
+  },
+  {
+   "id": "Fd10815ae6cb0",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 4,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/principais-fake-news-de-2-de-outubro-dia-das-eleicoes-de-2022.html"
+  },
+  {
+   "id": "Fc45f8e2d8890",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/lista/31-fake-news-sobre-a-amazonia.html"
+  },
+  {
+   "id": "Fcf4bc9150543",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/politica/tempo-real-fake-news-2-turno-eleicoes.html"
+  },
+  {
+   "id": "F2291c6ac10e0",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/esporte/fake-news-copa-do-mundo-2018.html"
+  },
+  {
+   "id": "F9b085f2d0f48",
+   "tipo": "nega_autoria",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/entretenimento/luis-fernando-verissimo-mam.html"
+  },
+  {
+   "id": "Ff19d9b0052cf",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 2,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/tecnologia/video-dance-of-the-pope-virus.html"
+  },
+  {
+   "id": "F61d644ce81dd",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 2,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/tecnologia/video-dance-of-the-pope-virus.html"
+  },
+  {
+   "id": "Fb9fdf21d4ccd",
+   "tipo": "texto_checador",
+   "registros_no_artigo": 1,
+   "split": "treino",
+   "subconjunto_pareado": true,
+   "url": "https://www.boatos.org/politica/lula-levado-sirio-libanes-morte.html"
+  },
+  {
+   "id": "Fc5f1807a3f1d",
+   "tipo": "nega_autoria",
+   "registros_no_artigo": 2,
+   "split": "treino",
+   "subconjunto_pareado": false,
+   "url": "https://www.boatos.org/politica/sergio-reis-texto-ditadura.html"
+  }
+ ]
+}

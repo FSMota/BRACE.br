@@ -1,0 +1,68 @@
+{
+ "contagem": {
+  "a_propria_mensagem": 23,
+  "outro_post": 7
+ },
+ "pct_propria_mensagem": 76.7,
+ "atraso_nas_proprias": {
+  "n": 23,
+  "mediana": 5.0,
+  "pct_ate_30": 65.2
+ },
+ "confronto_T5": [
+  76.7,
+  true
+ ],
+ "atraso_nas_proprias_corrigido": {
+  "n": 23,
+  "mediana": 2.0,
+  "pct_ate_7": 69.6,
+  "pct_ate_30": 78.3,
+  "pct_ate_365": 95.7,
+  "blocos_com_varios_posts": [
+   {
+    "n": 3,
+    "posts": 2,
+    "post_usado": 1,
+    "atraso_original": 2,
+    "atraso_corrigido": 2
+   },
+   {
+    "n": 4,
+    "posts": 2,
+    "post_usado": 1,
+    "atraso_original": 424,
+    "atraso_corrigido": 1
+   },
+   {
+    "n": 8,
+    "posts": 2,
+    "post_usado": 1,
+    "atraso_original": 5,
+    "atraso_corrigido": 2
+   },
+   {
+    "n": 10,
+    "posts": 2,
+    "post_usado": 1,
+    "atraso_original": 39,
+    "atraso_corrigido": 16
+   },
+   {
+    "n": 24,
+    "posts": 2,
+    "post_usado": 1,
+    "atraso_original": 1,
+    "atraso_corrigido": 0
+   },
+   {
+    "n": 25,
+    "posts": 2,
+    "post_usado": 1,
+    "atraso_original": 49,
+    "atraso_corrigido": 1
+   }
+  ],
+  "suposicoes_post_1": 4
+ }
+}

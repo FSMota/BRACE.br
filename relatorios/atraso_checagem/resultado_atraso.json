@@ -1,0 +1,1776 @@
+{
+ "n": 248,
+ "sem_data_no_corpus": 10,
+ "mediana": 3.0,
+ "q1": 1.0,
+ "q3": 11.0,
+ "pct_ate_7": 70.6,
+ "pct_ate_30": 81.5,
+ "pct_ate_365": 93.1,
+ "pct_negativo": 0.0,
+ "pct_mesmo_dia_ou_seguinte": 31.9,
+ "faixas": {
+  ">365": 17,
+  "2-7": 96,
+  "0-1": 79,
+  "8-30": 27,
+  "31-365": 29
+ },
+ "leitura": "próxima da circulação na escala do pareamento",
+ "confronto": {
+  "T1": [
+   3.0,
+   true
+  ],
+  "T2": [
+   81.5,
+   true
+  ],
+  "T3": [
+   93.1,
+   true
+  ],
+  "T4": [
+   0.0,
+   true
+  ]
+ },
+ "itens": [
+  {
+   "url": "https://www.boatos.org/esporte/guardiola-se-recusou-a-cumprimentar-representante-de-israel-durante-mundial-de-clubes.html",
+   "data_post": "2024-05-27",
+   "data_checagem": "2025-07-14",
+   "atraso_dias": 413,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/governadora-do-rn-fatima-bezerra-fez-cerimonia-para-inaugurar-uma-bica.html",
+   "data_post": "2025-07-01",
+   "data_checagem": "2025-07-03",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/video-mostra-argentinos-comemorando-pedido-de-prisao-de-cristina-kirchner.html",
+   "data_post": "2025-06-11",
+   "data_checagem": "2025-06-13",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/video-mostra-ensaio-de-funcionarios-da-stellantis-antes-de-visita-de-lula-em-2025.html",
+   "data_post": "2025-03-12",
+   "data_checagem": "2025-03-14",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/cancelaram-o-nikolas-ferreira-em-todas-as-redes-sociais-em-2025.html",
+   "data_post": "2025-03-09",
+   "data_checagem": "2025-03-11",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/gleisi-hoffmann-foi-recebida-a-garrafadas-no-carnaval-de-2025-em-salvador.html",
+   "data_post": "2025-03-05",
+   "data_checagem": "2025-03-05",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/video-mostra-volodymyr-zelensky-dancando-apos-discutir-com-trump-na-casa-branca.html",
+   "data_post": "2025-02-28",
+   "data_checagem": "2025-03-05",
+   "atraso_dias": 5,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/video-mostra-arrastao-no-tunel-santa-barbara-no-rio-em-2025.html",
+   "data_post": "2025-02-22",
+   "data_checagem": "2025-02-23",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/emmanuel-macron-fez-gesto-nazista-igual-ao-de-elon-musk.html",
+   "data_post": "2025-01-24",
+   "data_checagem": "2025-01-29",
+   "atraso_dias": 5,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/haddad-disse-que-vai-taxar-tudo-e-anunciou-imposto-para-animais-de-estimacao-gravidas-e-bets.html",
+   "data_post": "2025-01-09",
+   "data_checagem": "2025-01-09",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/ministro-da-arabia-saudita-se-assustou-com-fogos-de-artificio-na-embaixada-da-china.html",
+   "data_post": "2019-12-12",
+   "data_checagem": "2025-01-07",
+   "atraso_dias": 1853,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/tecnologia/mulher-jovem-andando-nas-ruas-da-china-em-video-e-um-robo.html",
+   "data_post": "2024-12-08",
+   "data_checagem": "2024-12-11",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/helicoptero-da-pm-do-rio-de-janeiro-tino-jr-foi-derrubado-em-favela-por-traficantes.html",
+   "data_post": "2024-12-02",
+   "data_checagem": "2024-12-04",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/janja-danca-em-evento-de-macumba-na-catedral-de-brasilia.html",
+   "data_post": "2024-11-27",
+   "data_checagem": "2024-11-27",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/ciencia/3-planetas-mercurio-venus-e-saturno-se-alinharam-acima-das-piramides-de-gize-egito.html",
+   "data_post": "2024-11-19",
+   "data_checagem": "2024-11-19",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/claudio-castro-decreta-ponto-facultativo-em-14-11-no-rio-de-janeiro-por-causa-de-chuvas.html",
+   "data_post": "2024-11-13",
+   "data_checagem": "2024-11-13",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/william-bonner-foi-barrado-na-casa-branca-e-proibido-de-entrar.html",
+   "data_post": "2024-11-08",
+   "data_checagem": "2024-11-11",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/filho-de-messi-foi-flagrado-comemorando-gol-de-cristiano-ronaldo.html",
+   "data_post": "2019-08-26",
+   "data_checagem": "2024-11-03",
+   "atraso_dias": 1896,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/jovem-que-se-identifica-como-cobra-passa-por-mudanca-de-personalidade-no-metro.html",
+   "data_post": "2024-10-19",
+   "data_checagem": "2024-10-23",
+   "atraso_dias": 4,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/carro-da-byd-ressuscita-apos-pegar-fogo-e-atropela-pessoas.html",
+   "data_post": "2024-10-15",
+   "data_checagem": "2024-10-16",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/prefeito-de-porto-alegre-sebastiao-melo-grava-video-atacando-o-pt-e-a-esquerda.html",
+   "data_post": "2024-10-10",
+   "data_checagem": "2024-10-11",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/miss-venezuela-protesto-contra-maduro-tinta-vermelha.html",
+   "data_post": "2024-08-15",
+   "data_checagem": "2024-08-16",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/video-mostra-nicolas-maduro-e-celso-amorim-se-abracando-na-venezuela.html",
+   "data_post": "2024-07-30",
+   "data_checagem": "2024-08-16",
+   "atraso_dias": 17,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/boxeadora-imane-khelif-e-uma-mulher-trans-homem-e-fez-italiana-angela-carini-desistir-de-luta-na-olimpiadas-por-isso.html",
+   "data_post": "2024-08-01",
+   "data_checagem": "2024-08-12",
+   "atraso_dias": 11,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/video-mostra-exercito-da-venezuela-se-unindo-com-o-povo-contra-maduro.html",
+   "data_post": "2024-07-08",
+   "data_checagem": "2024-08-16",
+   "atraso_dias": 39,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/religiao/cristaos-sairam-as-ruas-de-paris-em-protesto-contra-abertura-das-olimpiadas.html",
+   "data_post": "2024-07-29",
+   "data_checagem": "2024-07-30",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/rebeca-andrade-escolheu-musica-em-homenagem-a-bolsonaro-nas-olimpiadas-de-paris.html",
+   "data_post": "2024-07-29",
+   "data_checagem": "2024-07-30",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/bandeira-do-brasil-de-cor-preta-e-colocada-em-estadio-das-olimpiadas.html",
+   "data_post": "2024-07-24",
+   "data_checagem": "2024-07-30",
+   "atraso_dias": 6,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/neil-diamond-esta-com-alzheimer-perdeu-a-memoria-e-relembrou-apenas-em-musical.html",
+   "data_post": "2024-05-01",
+   "data_checagem": "2024-07-21",
+   "atraso_dias": 81,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/tecnologia/elon-musk-vai-se-casar-com-noiva-robo-com-ia-chamada-katanela.html",
+   "data_post": "2024-07-13",
+   "data_checagem": "2024-07-21",
+   "atraso_dias": 8,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/reforma-tributaria-de-lula-vai-taxar-vendedoras-de-avon-natura-e-jequiti.html",
+   "data_post": "2024-07-16",
+   "data_checagem": "2024-07-20",
+   "atraso_dias": 4,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/trump-levou-tiro-no-peito-mas-foi-salvo-por-colete-a-prova-de-balas.html",
+   "data_post": "2024-07-14",
+   "data_checagem": "2024-07-14",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/video-mostra-tornado-terrivel-que-atingiu-dallas-nos-estados-unidos.html",
+   "data_post": "2024-06-24",
+   "data_checagem": "2024-07-03",
+   "atraso_dias": 9,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/policia-militar-de-minas-gerais-pmmg-canta-petista-e-maconheiro-durante-exercicio.html",
+   "data_post": "2024-07-02",
+   "data_checagem": "2024-07-03",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/flavio-bolsonaro-foi-flagrado-fumando-maconha-em-desfile-na-sapucai.html",
+   "data_post": "2024-06-26",
+   "data_checagem": "2024-07-02",
+   "atraso_dias": 6,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-disse-que-se-formou-em-medicina-em-universidade-de-minas-gerais.html",
+   "data_post": "2024-07-02",
+   "data_checagem": "2024-07-05",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/policia-apreendeu-carro-do-ministro-da-economia-com-30-kg-de-cocaina.html",
+   "data_post": "2024-06-29",
+   "data_checagem": "2024-06-30",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/agentes-do-governo-federal-estao-incendiando-a-amazonia-para-atender-a-interesses-mundiais.html",
+   "data_post": "2024-06-24",
+   "data_checagem": "2024-06-28",
+   "atraso_dias": 4,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/video-que-fala-que-somos-assaltados-pelo-judiciario-foi-gravado-ontem-em-brasilia-e-retirado-do-ar-pelo-youtube-e-globo.html",
+   "data_post": "2024-06-23",
+   "data_checagem": "2024-06-25",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-foi-expulso-por-seguranca-do-rei-durante-reuniao-do-g7-na-italia.html",
+   "data_post": "2024-06-18",
+   "data_checagem": "2024-06-19",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/giorgia-meloni-se-negou-a-cumprimentar-lula-em-reuniao-do-g7-na-italia.html",
+   "data_post": "2024-06-16",
+   "data_checagem": "2024-06-18",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/presidente-de-portugal-chama-lula-de-bandido-durante-convencao-no-pais.html",
+   "data_post": "2024-06-17",
+   "data_checagem": "2024-06-18",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/china-enviou-aviao-com-doacoes-para-gaza-e-contrariou-eua-e-israel.html",
+   "data_post": "2024-06-09",
+   "data_checagem": "2024-06-11",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/saude/video-mostra-fabricacao-sem-higiene-do-arroz-da-india-que-sera-importado-pelo-brasil.html",
+   "data_post": "2024-06-05",
+   "data_checagem": "2024-06-08",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/religiao/video-de-passaro-drone-e-da-reinauguracao-da-catedral-de-notre-dame.html",
+   "data_post": "2023-04-10",
+   "data_checagem": "2024-06-07",
+   "atraso_dias": 424,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/mundo/polvo-gigante-foi-encontrado-na-praia-de-bali-na-indonesia.html",
+   "data_post": "2024-06-04",
+   "data_checagem": "2024-06-05",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/taxa-do-pix-de-r-800-a-partir-de-julho-de-2024.html",
+   "data_post": "2024-05-28",
+   "data_checagem": "2024-05-30",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/video-de-flores-dancando-e-a-propaganda-oficial-das-olimpiadas-de-paris.html",
+   "data_post": "2024-05-26",
+   "data_checagem": "2024-05-28",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/show-de-diogo-nogueira-no-rio-ficou-vazio-por-causa-de-boicote-de-bolsonaristas.html",
+   "data_post": "2024-05-26",
+   "data_checagem": "2024-05-28",
+   "atraso_dias": 2,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/saude/acaros-sao-encontrados-em-analise-de-miojo-macarrao-instantaneo-no-microscopio.html",
+   "data_post": "2024-05-21",
+   "data_checagem": "2024-05-23",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/ciencia/aviao-da-latam-flagrou-meteoro-passando-no-ceu-entre-a-espanha-e-portugal.html",
+   "data_post": "2024-04-03",
+   "data_checagem": "2024-05-22",
+   "atraso_dias": 49,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/brasil/arroz-sintetico-da-china-sera-importado-pelo-governo-e-vendido-no-brasil.html",
+   "data_post": "2024-05-21",
+   "data_checagem": "2024-06-04",
+   "atraso_dias": 14,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/caminhoes-frigorificos-estao-sendo-usados-para-guardar-2-mil-mortos-das-enchentes-do-rs.html",
+   "data_post": "2024-05-13",
+   "data_checagem": "2024-05-23",
+   "atraso_dias": 10,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/tecnologia/foto-que-mostra-elon-musk-e-mark-zuckerberg-em-uma-banheira-e-real.html",
+   "data_post": "2024-05-15",
+   "data_checagem": "2024-05-21",
+   "atraso_dias": 6,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/paulo-pimenta-se-negou-a-beber-agua-de-purificador-doado-para-vitimas-das-enchentes-no-rio-grande-do-sul.html",
+   "data_post": "2024-05-16",
+   "data_checagem": "2024-05-18",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/governo-lula-esta-enviando-doacoes-mantimentos-vencidos-para-rio-grande-do-sul.html",
+   "data_post": "2024-05-07",
+   "data_checagem": "2024-05-18",
+   "atraso_dias": 11,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/bolsonaro-debochou-dos-gauchos-em-postagem-sobre-enchentes-no-rio-grande-do-sul.html",
+   "data_post": "2024-05-09",
+   "data_checagem": "2024-05-15",
+   "atraso_dias": 6,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/jairo-jorge-prefeito-de-canoas-rs-e-agredido-com-cadeiradas-em-ginasio-da-cidade.html",
+   "data_post": "2024-05-13",
+   "data_checagem": "2024-05-16",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/cavalo-caramelo-morreu-apos-ser-resgatado-de-telhado-de-casa-no-rs.html",
+   "data_post": "2024-05-10",
+   "data_checagem": "2024-05-11",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/vice-prefeito-de-porto-alegre-ricardo-gomes-gravou-um-video-com-criticas-ao-governo-lula-no-contexto-das-enchentes-do-rs.html",
+   "data_post": "2024-05-10",
+   "data_checagem": "2024-05-11",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/paulo-pimenta-ministro-de-lula-foi-recebido-a-cadeiradas-em-ginasio-de-esteio-canoas-no-rio-grande-do-sul.html",
+   "data_post": "2024-05-10",
+   "data_checagem": "2024-05-16",
+   "atraso_dias": 6,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/caminhoes-de-doacoes-estao-sendo-barrados-por-falta-de-nota-fiscal-no-rio-grande-do-sul.html",
+   "data_post": "2024-05-06",
+   "data_checagem": "2024-05-12",
+   "atraso_dias": 6,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/will-smith-fez-video-criticando-show-da-madonna-no-brasil.html",
+   "data_post": "2024-05-06",
+   "data_checagem": "2024-05-08",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/show-de-madonna-foi-pago-por-lula-com-dinheiro-da-lei-rouanet.html",
+   "data_post": "2024-05-05",
+   "data_checagem": "2024-05-06",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/video-mostra-cataratas-do-iguacu-com-cheia-recorde-apos-enchentes-no-rio-grande-do-sul.html",
+   "data_post": "2024-05-04",
+   "data_checagem": "2024-05-11",
+   "atraso_dias": 7,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/video-mostra-desmoronamento-em-tunel-da-rodovia-rota-do-sol-no-rio-grande-do-sul.html",
+   "data_post": "2024-05-03",
+   "data_checagem": "2024-05-11",
+   "atraso_dias": 8,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/bolsonaro-posou-para-foto-junto-com-andre-do-rap.html",
+   "data_post": "2024-04-17",
+   "data_checagem": "2024-04-21",
+   "atraso_dias": 4,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/alexandre-de-moraes-censurou-video-de-marco-aurelio-no-perfil-de-bolsonaro-em-redes-sociais.html",
+   "data_post": "2022-10-09",
+   "data_checagem": "2024-04-19",
+   "atraso_dias": 558,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/elon-musk-e-bolsonaro-tiraram-foto-em-1992-na-academia-das-agulhas-negras.html",
+   "data_post": "2024-04-16",
+   "data_checagem": "2024-04-17",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/predio-da-chrysler-em-nova-york-escreveu-o-mundo-precisa-de-lula-na-cadeia-the-world-needs-lula-in-jail-hoje.html",
+   "data_post": "2022-10-30",
+   "data_checagem": "2024-04-24",
+   "atraso_dias": 542,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/demetrio-magnoli-foi-demitido-da-globonews-apos-fala-sobre-moro.html",
+   "data_post": "2024-04-02",
+   "data_checagem": "2024-04-07",
+   "atraso_dias": 5,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/politica/evento-de-lula-no-recife-em-abril-de-2024-estava-vazio.html",
+   "data_post": "2024-04-06",
+   "data_checagem": "2024-04-06",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/exame-de-dna-provou-que-lula-nao-e-pai-de-lulinha.html",
+   "data_post": "2024-03-29",
+   "data_checagem": "2025-03-01",
+   "atraso_dias": 337,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/guerra-civil-comecou-a-tomar-corpo-na-bahia-com-o-povo-tocando-o-terror-e-queimando-bandeira-do-pt.html",
+   "data_post": "2024-01-20",
+   "data_checagem": "2024-03-28",
+   "atraso_dias": 68,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/flavio-dino-e-brazao-aparecem-abracados-em-video.html",
+   "data_post": "2024-03-24",
+   "data_checagem": "2024-03-26",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-paes-cabral-pedro-aparecem-foto-domingos-brazao.html",
+   "data_post": "2024-03-17",
+   "data_checagem": "2024-03-26",
+   "atraso_dias": 9,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/saude/red-bull-quebra-vidro-de-carro-por-causa-alta-energia.html",
+   "data_post": "2023-06-23",
+   "data_checagem": "2024-03-16",
+   "atraso_dias": 267,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-foi-recebido-por-zero-autoridades-visita-espanha-em-2024.html",
+   "data_post": "2024-03-04",
+   "data_checagem": "2024-03-10",
+   "atraso_dias": 6,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/aviao-da-emirates-atravessou-pista-de-aeroporto-quase-bateu-aeronave-qantas.html",
+   "data_post": "2023-12-29",
+   "data_checagem": "2024-03-05",
+   "atraso_dias": 67,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/pec-8-acaba-com-poderes-alexandre-de-moraes-acabou-de-ser-aprovada.html",
+   "data_post": "2024-02-28",
+   "data_checagem": "2024-03-02",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/afiliada-globo-escondeu-noticia-sobre-rombo-do-governo-lula-ao-vivo.html",
+   "data_post": "2024-02-01",
+   "data_checagem": "2024-02-26",
+   "atraso_dias": 25,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/alto-falante-aeroporto-amsterda-faz-anuncio-contra-israel-diz-holanda-esta-lado-errado-historia.html",
+   "data_post": "2024-02-16",
+   "data_checagem": "2024-02-25",
+   "atraso_dias": 9,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/bolsonaro-pediu-doacoes-pix-manifestacao-25-de-fevereiro.html",
+   "data_post": "2024-02-19",
+   "data_checagem": "2024-02-24",
+   "atraso_dias": 5,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/paulo-pimenta-admitiu-fraude-eleicoes-dizer-lula-39-votos.html",
+   "data_post": "2024-02-14",
+   "data_checagem": "2024-02-15",
+   "atraso_dias": 1,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/esporte/torcida-flamengo-gritou-volta-bolsonaro-durante-jogo-2024.html",
+   "data_post": "2024-02-07",
+   "data_checagem": "2024-02-12",
+   "atraso_dias": 5,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/esporte/vasco-exibiu-faixa-forca-jair-solidariedade-bolsonaro.html",
+   "data_post": "2024-02-09",
+   "data_checagem": "2024-02-12",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/itcmd-vai-ser-aumentado-8-para-30-governo-pt-simone-tebet.html",
+   "data_post": "2024-02-06",
+   "data_checagem": "2024-02-11",
+   "atraso_dias": 5,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/saude/drauzio-varella-disse-vacina-contra-dengue-qdenga-transgenica-altera-dna-causa-cancer.html",
+   "data_post": "2024-02-03",
+   "data_checagem": "2024-02-03",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/video-prova-que-houve-manipulacao-no-sorteio-da-1a-fase-da-copa-do-brasil-2024.html",
+   "data_post": "2024-01-31",
+   "data_checagem": "2024-01-31",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/notebook-abin-encontrado-carlos-bolsonaro-operacao-pf.html",
+   "data_post": "2024-01-30",
+   "data_checagem": "2024-01-30",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-chamado-ladrao-fabrica-jeep-goiania-goiana.html",
+   "data_post": "2023-06-06",
+   "data_checagem": "2024-01-29",
+   "atraso_dias": 237,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/politica/eduardo-paes-dancou-em-festa-durante-enchentes-no-rio-de-2024.html",
+   "data_post": "2024-01-16",
+   "data_checagem": "2024-01-19",
+   "atraso_dias": 3,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/brasil/tv-do-japao-alertou-brasil-de-risco-de-tsunami-em-nosso-pais.html",
+   "data_post": "2024-01-01",
+   "data_checagem": "2024-01-18",
+   "atraso_dias": 17,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/damon-imani-xingou-globalistas-durante-reuniao-do-forum-economico-mundial-de-davos.html",
+   "data_post": "2024-01-18",
+   "data_checagem": "2024-01-18",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/autor-cantor-musica-pode-mandar-o-choque-prender-e-meter-multa-preso-bahia-alexandre-de-moraes-hoje.html",
+   "data_post": "2024-01-12",
+   "data_checagem": "2024-01-14",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/religiao/papa-francisco-participou-festa-ano-novo-bebeu-fumou-beijou-garota.html",
+   "data_post": "2024-01-05",
+   "data_checagem": "2024-01-09",
+   "atraso_dias": 4,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/ets-de-3-metros-sao-vistos-em-morro-na-ilha-do-mel-pr.html",
+   "data_post": "2024-01-06",
+   "data_checagem": "2024-01-08",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/sergio-cabral-agrediu-mulher-com-cusparada-em-video.html",
+   "data_post": "2024-01-07",
+   "data_checagem": "2024-01-07",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/tribunal-internacional-stm-liberaram-presos-papuda.html",
+   "data_post": "2024-01-02",
+   "data_checagem": "2024-01-04",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/video-mostra-que-militares-participaram-de-armacao-do-08-01-a-mando-de-dino.html",
+   "data_post": "2023-12-29",
+   "data_checagem": "2023-12-30",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/saude/vacina-contra-covid-19-causa-cancer-de-mama.html",
+   "data_post": "2023-12-17",
+   "data_checagem": "2023-12-28",
+   "atraso_dias": 11,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/capa-da-time-com-benjamin-netanyahu-killer-of-the-year.html",
+   "data_post": "2023-12-22",
+   "data_checagem": "2023-12-23",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/show-de-ivete-sangalo-maracana-flopou-ficou-vazio-boicote.html",
+   "data_post": "2023-12-21",
+   "data_checagem": "2023-12-23",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/video-iluminacao-natal-metro-toquio-2023.html",
+   "data_post": "2023-12-15",
+   "data_checagem": "2023-12-17",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/bolsonaro-foi-expulso-restaurante-argentina-sob-gritos-lula.html",
+   "data_post": "2023-12-09",
+   "data_checagem": "2023-12-12",
+   "atraso_dias": 3,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/mundo/miss-colombia-armou-escandalo-causa-de-mulher-trans-miss-universo.html",
+   "data_post": "2023-11-28",
+   "data_checagem": "2023-12-05",
+   "atraso_dias": 7,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/religiao/foto-papa-francisco-beijando-dalai-lama.html",
+   "data_post": "2023-12-02",
+   "data_checagem": "2023-12-05",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/paul-mccartney-cantou-musica-homenagem-michelle-bolsonaro.html",
+   "data_post": "2023-12-02",
+   "data_checagem": "2023-12-04",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/general-mourao-resolveu-apoiar-flavio-dino-para-o-stf.html",
+   "data_post": "2023-11-30",
+   "data_checagem": "2023-12-01",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/xororo-dupla-chitaozinho-morreu.html",
+   "data_post": "2023-11-24",
+   "data_checagem": "2023-11-27",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/travesti-com-cara-lula-foi-presa-delegado-cara-bolsonaro.html",
+   "data_post": "2023-11-24",
+   "data_checagem": "2023-11-27",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/danca-picanha-fatiada-venceu-concurso-ministerio-da-cultura.html",
+   "data_post": "2023-11-26",
+   "data_checagem": "2023-11-26",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/guga-chacra-chorou-ao-vivo-globo-saber-vitoria-milei.html",
+   "data_post": "2023-11-20",
+   "data_checagem": "2023-11-21",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/religiao/janja-organizou-evento-da-umbanda-e-candomble-na-catedral-de-brasilia.html",
+   "data_post": "2023-11-17",
+   "data_checagem": "2023-11-20",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/taylor-swift-apareceu-arma-mao-favela-rio-de-janeiro.html",
+   "data_post": "2023-11-18",
+   "data_checagem": "2023-11-19",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/3-mulheres-bateram-10-muculmanos-interpelaram-por-causa-roupas-metro-paris.html",
+   "data_post": "2023-11-15",
+   "data_checagem": "2023-11-16",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/fast-checking/fake-news-incendio-no-shopping-nova-america-no-rio-de-janeiro.html",
+   "data_post": "2023-10-25",
+   "data_checagem": "2023-11-12",
+   "atraso_dias": 18,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/neymar-disse-para-lula-cachaca-nao-faz-um-bom-presidente.html",
+   "data_post": "2023-11-02",
+   "data_checagem": "2023-11-02",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/gal-gadot-alistou-exercito-de-israel-lutar-guerra-contra-hamas.html",
+   "data_post": "2023-11-01",
+   "data_checagem": "2023-11-02",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/messi-posou-foto-bandeira-palestina.html",
+   "data_post": "2023-10-24",
+   "data_checagem": "2023-10-25",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/haddad-gleisi-lula-tiraram-foto-khaled-mashal-lider-hamas.html",
+   "data_post": "2023-10-13",
+   "data_checagem": "2023-12-04",
+   "atraso_dias": 52,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/traficantes-mandaram-fechar-praia-porto-de-galinhas-muro-alto.html",
+   "data_post": "2023-10-05",
+   "data_checagem": "2023-10-05",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/muculmano-preso-transportar-25-criancas-seriam-traficadas-uzbequistao.html",
+   "data_post": "2023-09-24",
+   "data_checagem": "2023-09-30",
+   "atraso_dias": 6,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/idosa-foi-flagrada-fugindo-cuba-para-eua-alto-mar.html",
+   "data_post": "2023-09-26",
+   "data_checagem": "2023-09-26",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/motoboys-usar-fralda-trabalhar-entregadores-aplicativo.html",
+   "data_post": "2023-09-20",
+   "data_checagem": "2023-09-28",
+   "atraso_dias": 8,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/governo-lula-lancou-decreto-preve-banheiro-unissex-obrigatorio-brasil.html",
+   "data_post": "2023-09-23",
+   "data_checagem": "2023-09-26",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/biden-ignora-lula-vai-embora-sem-cumprimentar-presidente-brasil.html",
+   "data_post": "2023-09-21",
+   "data_checagem": "2023-09-22",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/video-mostra-migrantes-venezuela-atravessando-rio-para-brasil.html",
+   "data_post": "2023-09-19",
+   "data_checagem": "2023-09-21",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/fast-checking/fake-news-gigante-de-kandahar-foi-fotografado-no-afeganistao-em-1923.html",
+   "data_post": "2023-09-11",
+   "data_checagem": "2023-09-16",
+   "atraso_dias": 5,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/video-tornado-tufao-filipinas-hoje.html",
+   "data_post": "2023-09-16",
+   "data_checagem": "2023-09-19",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/marina-silva-flagrada-bolsa-hermes-r-52-mil.html",
+   "data_post": "2023-09-13",
+   "data_checagem": "2023-09-15",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/museu-de-toronto-tem-uma-estatua-com-o-rosto-de-lula.html",
+   "data_post": "2023-09-15",
+   "data_checagem": "2023-09-27",
+   "atraso_dias": 12,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-bebado-beijou-mulher-frente-janja.html",
+   "data_post": "2023-09-13",
+   "data_checagem": "2023-09-22",
+   "atraso_dias": 9,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-janja-roubaram-canetas-durante-reuniao-g20.html",
+   "data_post": "2023-09-14",
+   "data_checagem": "2023-09-20",
+   "atraso_dias": 6,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/biden-disse-voce-uma-crianca-sexy-menina-estava-filmando.html",
+   "data_post": "2023-09-08",
+   "data_checagem": "2023-09-08",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/neymar-exigiu-foto-bolsonaro-fosse-exibida-apresentacao-al-hilal-arabia-saudita.html",
+   "data_post": "2023-08-26",
+   "data_checagem": "2023-08-27",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/video-navios-britanicos-atacados-misseis-russos-ucrania.html",
+   "data_post": "2023-08-23",
+   "data_checagem": "2023-08-23",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/formigas-carregaram-imagem-jesus-cristo-casa-bombardeada-ucrania.html",
+   "data_post": "2021-10-20",
+   "data_checagem": "2023-08-21",
+   "atraso_dias": 670,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/tecnologia/onibus-cibernetico-neural-foi-visto-florianopolis-hoje.html",
+   "data_post": "2023-08-16",
+   "data_checagem": "2023-08-16",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/fast-checking/fake-news-brasileirao-pode-ser-paralisado-porque-120-jogadores-se-envolveram-em-esquema-de-apostas.html",
+   "data_post": "2023-05-10",
+   "data_checagem": "2023-08-15",
+   "atraso_dias": 97,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/musica-parodia-bella-ciao-novo-hino-direita-internacional.html",
+   "data_post": "2023-08-12",
+   "data_checagem": "2023-08-13",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/tecnologia/video-mostra-explosao-apos-acidente-com-carro-eletrico.html",
+   "data_post": "2023-08-02",
+   "data_checagem": "2023-08-03",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/pt-construiu-teatro-r-20-milhoes-cidade-crisopolis-ba.html",
+   "data_post": "2023-07-30",
+   "data_checagem": "2023-07-31",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/cientista-politica-norueguesa-frida-ruzzo-fala-fraude-eleitoral-brasil-video.html",
+   "data_post": "2023-07-16",
+   "data_checagem": "2023-07-21",
+   "atraso_dias": 5,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/video-mostra-biblioteca-marselha-franca-queimada-manifestantes.html",
+   "data_post": "2023-07-05",
+   "data_checagem": "2023-07-06",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/estatua-japao-mostra-menina-livros-pesando-mais-homem-celular.html",
+   "data_post": "2023-07-02",
+   "data_checagem": "2023-07-04",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/video-mostra-implosao-do-submarino-titan-no-fundo-do-mar.html",
+   "data_post": "2023-06-29",
+   "data_checagem": "2023-06-30",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/deltan-fugiu-para-eua-dinheiro-pix-recebeu.html",
+   "data_post": "2023-06-19",
+   "data_checagem": "2023-06-20",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-vaiado-chamado-ladrao-fabrica-jeep-mostra-video.html",
+   "data_post": "2023-06-06",
+   "data_checagem": "2023-06-10",
+   "atraso_dias": 4,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-e-janja-sao-vaiados-shopping-barra-salvador-2023.html",
+   "data_post": "2023-05-13",
+   "data_checagem": "2023-05-16",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/cristiano-ronaldo-ganhou-moto-ouro-sheik-arabia-saudita.html",
+   "data_post": "2023-05-12",
+   "data_checagem": "2023-05-14",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-e-vaiado-e-recebido-sob-gritos-de-ladrao-em-portugal-em-2023-mostra-video-boato.html",
+   "data_post": "2023-04-21",
+   "data_checagem": "2023-04-26",
+   "atraso_dias": 5,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/predio-da-pfizer-e-cercado-em-paris-em-protesto-contra-vacinas-em-2023-boato.html",
+   "data_post": "2023-03-26",
+   "data_checagem": "2023-03-26",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/saude/bill-gates-encerra-entrevista-apos-ser-questionado-sobre-vacinas-e-efeitos-colaterais.html",
+   "data_post": "2023-03-09",
+   "data_checagem": "2023-03-13",
+   "atraso_dias": 4,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/saude/video-da-imprensa-mostra-que-cloroquina-e-eficaz-contra-covid-19-vacina-nao-e-bolsonaro-tem-razao.html",
+   "data_post": "2023-03-08",
+   "data_checagem": "2023-03-09",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-tomou-vacina-bivalente-contra-covid-19-seringa-vazia.html",
+   "data_post": "2023-02-28",
+   "data_checagem": "2023-03-02",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-esta-sem-passaporte-proibido-deixar-pais-2023.html",
+   "data_post": "2023-02-22",
+   "data_checagem": "2023-02-25",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/video-mostra-como-funciona-a-mafia-do-engarrafamento-no-rio-de-janeiro-boato.html",
+   "data_post": "2023-02-16",
+   "data_checagem": "2023-02-17",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-faz-discurso-bebado-bahia-cita-wellington-dias-piaui.html",
+   "data_post": "2023-02-16",
+   "data_checagem": "2023-02-20",
+   "atraso_dias": 4,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/video-fuga-garimpeiros-terra-yanomami-roraima.html",
+   "data_post": "2023-01-20",
+   "data_checagem": "2023-02-08",
+   "atraso_dias": 19,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/greve-dos-caminhoneiros-de-2023-ja-comecou-em-paranavai-e-vai-parar-o-brasil.html",
+   "data_post": "2023-01-04",
+   "data_checagem": "2023-01-05",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/flavio-dino-aparece-video-abracando-terrorista-colocou-bomba-brasilia.html",
+   "data_post": "2022-12-30",
+   "data_checagem": "2022-12-31",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/print-randolfe-rodrigues-whatsapp-mostra-plano-contra-militares-manifestantes.html",
+   "data_post": "2022-11-14",
+   "data_checagem": "2022-11-15",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/video-mostra-discurso-de-lula-sobre-fome-na-copa-27.html",
+   "data_post": "2022-11-14",
+   "data_checagem": "2022-11-15",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/tse-acaba-informar-possibilidade-erro-grave-nas-eleicoes.html",
+   "data_post": "2022-11-02",
+   "data_checagem": "2022-11-05",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/petistas-invadiram-saquearam-loja-da-havan-chapeco-sc.html",
+   "data_post": "2022-10-31",
+   "data_checagem": "2022-11-02",
+   "atraso_dias": 2,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/politica/petistas-invadiram-depredaram-restaurante-coco-bambu-em-fortaleza-vitoria-durante-festa-vitoria-lula.html",
+   "data_post": "2022-10-30",
+   "data_checagem": "2022-10-31",
+   "atraso_dias": 1,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/globo-grava-vinheta-de-fim-de-ano-com-lula-janja.html",
+   "data_post": "2022-10-26",
+   "data_checagem": "2022-10-30",
+   "atraso_dias": 4,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-xinga-assessora-sofia-debate-band.html",
+   "data_post": "2022-10-17",
+   "data_checagem": "2022-10-19",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/tarcisio-gomes-de-freitas-sofreu-atentado-mando-do-pt-sao-paulo.html",
+   "data_post": "2022-10-17",
+   "data_checagem": "2022-10-17",
+   "atraso_dias": 0,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/politica/tarcisio-de-freitas-esta-sob-ameaca-de-atentado-terrorista-diz-general-heleno.html",
+   "data_post": "2022-10-15",
+   "data_checagem": "2022-10-16",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/neymar-gabriel-medina-bruninho-dancam-musica-do-bolsonaro-22.html",
+   "data_post": "2022-10-12",
+   "data_checagem": "2022-10-16",
+   "atraso_dias": 4,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/boletins-urna-minas-gerais-fraude.html",
+   "data_post": "2022-10-11",
+   "data_checagem": "2022-10-13",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/prefeito-alcobaca-pt-preso-corrupcao.html",
+   "data_post": "2022-10-10",
+   "data_checagem": "2022-10-12",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/alexandre-de-moraes-renunciou-passou-cargo-presidente-do-tse-dias-toffoli.html",
+   "data_post": "2022-10-07",
+   "data_checagem": "2022-10-13",
+   "atraso_dias": 6,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/saude/filho-de-luis-roberto-barroso-e-socio-da-rede-dor.html",
+   "data_post": "2022-09-12",
+   "data_checagem": "2022-09-15",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/salario-vera-magalhaes-tv-cultura-r-500-mil.html",
+   "data_post": "2020-03-21",
+   "data_checagem": "2022-08-31",
+   "atraso_dias": 893,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/vera-magalhaes-provocou-bolsonaro-proposito-debate-da-band-diz-jornalista.html",
+   "data_post": "2022-08-29",
+   "data_checagem": "2022-08-30",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/michael-schumacher-morreu-e-datena-deu-a-noticia-ao-vivo-na-band.html",
+   "data_post": "2022-08-29",
+   "data_checagem": "2022-08-30",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/doria-se-arrepende-anuncia-apoio-bolsonaro-nas-eleicoes-de-2022.html",
+   "data_post": "2022-08-27",
+   "data_checagem": "2022-08-28",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/pesquisa-ipec-jornal-nacional-globo-mostra-bolsonaro-na-frente-de-lula.html",
+   "data_post": "2022-08-17",
+   "data_checagem": "2022-08-19",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/bolsonaro-expulso-de-churrascaria-sao-paulo-mostra-video.html",
+   "data_post": "2022-08-07",
+   "data_checagem": "2022-08-10",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/tom-cruise-declara-apoio-a-bolsonaro-mostra-video.html",
+   "data_post": "2022-07-18",
+   "data_checagem": "2022-08-01",
+   "atraso_dias": 14,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/publico-grita-mito-mito-nando-reis-falar-fora-bolsonaro-show.html",
+   "data_post": "2022-07-18",
+   "data_checagem": "2022-08-08",
+   "atraso_dias": 21,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-e-vaiado-e-chamado-de-ladrao-sair-de-van-em-garanhuns-pernambuco.html",
+   "data_post": "2022-07-20",
+   "data_checagem": "2022-07-21",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/foto-tetsuya-yamagami-assassino-de-shinzo-abe-camiseta-che-guevara.html",
+   "data_post": "2022-07-09",
+   "data_checagem": "2022-07-10",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/foto-mostra-presidente-da-colombia-gustavo-petro-com-pablo-escobar.html",
+   "data_post": "2022-06-06",
+   "data_checagem": "2022-06-21",
+   "atraso_dias": 15,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/politica/foto-mostra-comicio-de-lula-em-natal-rio-grande-do-norte.html",
+   "data_post": "2019-11-17",
+   "data_checagem": "2022-06-19",
+   "atraso_dias": 945,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/taurus-comercial-arma-pabllo-vittar.html",
+   "data_post": "2022-06-16",
+   "data_checagem": "2022-06-16",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/lewis-hamilton-usou-camiseta-com-a-imagem-de-lula.html",
+   "data_post": "2022-06-11",
+   "data_checagem": "2022-06-12",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/foto-mostra-ciclone-yakecan-proximo-lagoa-dos-patos-rio-grande-do-sul.html",
+   "data_post": "2022-05-17",
+   "data_checagem": "2022-05-17",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/video-mostra-copacabana-lotada-durante-manifestacoes-1o-de-maio-2022.html",
+   "data_post": "2022-05-01",
+   "data_checagem": "2022-05-01",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/zelensky-flagrado-cocaina-mesa-de-trabalho-mostra-video.html",
+   "data_post": "2022-04-25",
+   "data_checagem": "2022-04-25",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/publico-grita-lula-na-cadeia-globo-lixo-durante-carnaval-marques-de-sapucai.html",
+   "data_post": "2022-04-23",
+   "data_checagem": "2022-06-04",
+   "atraso_dias": 42,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/joao-campos-ovada-durante-evento-recife-pe.html",
+   "data_post": "2022-04-17",
+   "data_checagem": "2022-06-04",
+   "atraso_dias": 48,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-convocou-15-advogados-para-tirar-do-ar-video-em-que-chama-dilma-de-cretina-e-diz-que-o-pt-e-uma-organizacao-criminosa.html",
+   "data_post": "2018-02-02",
+   "data_checagem": "2022-08-24",
+   "atraso_dias": 1664,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/tecnologia/elon-musk-reativou-conta-donald-trump-twitter-mostra-video.html",
+   "data_post": "2022-04-04",
+   "data_checagem": "2022-04-10",
+   "atraso_dias": 6,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/video-mostra-lancamento-candidatura-bolsonaro-ontem-brasilia.html",
+   "data_post": "2022-04-02",
+   "data_checagem": "2022-06-04",
+   "atraso_dias": 63,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/igrejas-foram-queimadas-no-chile-apos-vitoria-da-esquerda-mostra-video.html",
+   "data_post": "2022-03-25",
+   "data_checagem": "2022-08-23",
+   "atraso_dias": 151,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/torcida-selecao-xinga-lula-durante-jogo-brasil-x-chile-maracana-2022.html",
+   "data_post": "2022-03-25",
+   "data_checagem": "2022-06-04",
+   "atraso_dias": 71,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/ucraniano-morto-em-conflito-se-mexe-durante-reportagem-tv-mostra-video.html",
+   "data_post": "2022-03-08",
+   "data_checagem": "2022-03-09",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/gusttavo-lima-tem-show-interrompido-gritos-fora-bolsonaro.html",
+   "data_post": "2022-03-07",
+   "data_checagem": "2022-06-04",
+   "atraso_dias": 89,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/mauricio-meirelles-teve-um-caso-com-gabriel-medina-e-foi-pivo-de-separacao.html",
+   "data_post": "2022-02-02",
+   "data_checagem": "2022-02-04",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-diz-esta-falando-demonio-fez-pacto-com-diabo.html",
+   "data_post": "2022-01-24",
+   "data_checagem": "2022-07-16",
+   "atraso_dias": 173,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/aposentadoria-de-lula-r-45-mil-mostra-contracheque.html",
+   "data_post": "2022-01-21",
+   "data_checagem": "2022-07-07",
+   "atraso_dias": 167,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/nova-constituicao-da-venezuela-foi-promulgada-e-manifestantes-queimaram-motos-em-protesto.html",
+   "data_post": "2022-01-06",
+   "data_checagem": "2022-01-14",
+   "atraso_dias": 8,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/cazaquistao-caiu-presidente-fugiu-protestos-foram-motivados-pelo-passaporte-de-vacinacao.html",
+   "data_post": "2022-01-04",
+   "data_checagem": "2022-01-15",
+   "atraso_dias": 11,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/bolsonaro-mandou-instalar-paineis-solares-canal-do-sao-francisco-mostra-foto.html",
+   "data_post": "2021-06-17",
+   "data_checagem": "2021-12-30",
+   "atraso_dias": 196,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/presidente-do-chile-gabriel-boric-posa-com-foto-de-jesus-travesti.html",
+   "data_post": "2021-07-21",
+   "data_checagem": "2021-12-29",
+   "atraso_dias": 161,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/boleto-iptu-2022-porto-alegre-vencimento-04-01-falso.html",
+   "data_post": "2021-12-13",
+   "data_checagem": "2021-12-13",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/video-mostra-novas-cedulas-de-real-que-serao-distribuidas-bc-para-bancos.html",
+   "data_post": "2021-12-09",
+   "data_checagem": "2021-12-12",
+   "atraso_dias": 3,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/foto-bolsonaro-sargento-aristides-tempos-exercito.html",
+   "data_post": "2021-11-29",
+   "data_checagem": "2021-12-01",
+   "atraso_dias": 2,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/politica/foto-joao-doria-cabelos-compridos-juventude.html",
+   "data_post": "2021-05-21",
+   "data_checagem": "2021-11-28",
+   "atraso_dias": 191,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/caetano-veloso-cai-ouvir-e-bolsonaro-mostra-video.html",
+   "data_post": "2019-07-25",
+   "data_checagem": "2021-11-15",
+   "atraso_dias": 844,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/revista-exame-publicou-fake-news-sobre-vacina-aids-lida-bolsonaro-live.html",
+   "data_post": "2021-10-24",
+   "data_checagem": "2025-03-01",
+   "atraso_dias": 1224,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/bolsonaro-recebido-multidao-aeroporto-jfk-nova-york.html",
+   "data_post": "2017-06-08",
+   "data_checagem": "2021-09-22",
+   "atraso_dias": 1567,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/religiao/argentina-retira-imagens-igrejas-da-inicio-modelo-avancado-comunismo.html",
+   "data_post": "2021-09-03",
+   "data_checagem": "2021-09-07",
+   "atraso_dias": 4,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-ameaca-padres-pastores.html",
+   "data_post": "2021-08-28",
+   "data_checagem": "2021-09-04",
+   "atraso_dias": 7,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/marcelo-queiroga-demitido-ministerio-da-saude.html",
+   "data_post": "2021-09-03",
+   "data_checagem": "2021-09-03",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/lula-recebido-em-recife-sob-gritos-ladrao-chegou-video.html",
+   "data_post": "2021-08-15",
+   "data_checagem": "2021-08-16",
+   "atraso_dias": 1,
+   "n_posts": 2
+  },
+  {
+   "url": "https://www.boatos.org/brasil/em-bento-goncalves-rs-produtores-colocam-fogo-toneis-para-nao-congelar-uvas.html",
+   "data_post": "2021-04-13",
+   "data_checagem": "2021-07-31",
+   "atraso_dias": 109,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/brasil/foto-mostra-rodovia-asfaltada-sp-321-pelo-governo-bolsonaro.html",
+   "data_post": "2021-06-03",
+   "data_checagem": "2021-07-26",
+   "atraso_dias": 53,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/joice-hasselmann-bateu-carro-depois-de-ir-festa-clandestina.html",
+   "data_post": "2021-07-24",
+   "data_checagem": "2021-07-30",
+   "atraso_dias": 6,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/motociata-bolsonaro-arrecadou-700-toneladas-alimentos-em-doacoes.html",
+   "data_post": "2021-06-12",
+   "data_checagem": "2021-06-18",
+   "atraso_dias": 6,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/saude/luana-araujo-e-contra-o-uso-de-mascaras-no-combate-covid-19.html",
+   "data_post": "2021-06-02",
+   "data_checagem": "2021-06-07",
+   "atraso_dias": 5,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/bolsonaro-ovacionado-ao-chegar-aeroporto-no-equador-mostra-video.html",
+   "data_post": "2017-06-08",
+   "data_checagem": "2021-05-26",
+   "atraso_dias": 1448,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/filho-marcelo-freixo-saiu-travestis-nao-pagou-foi-exposto-video.html",
+   "data_post": "2021-04-03",
+   "data_checagem": "2021-04-05",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/mariana-gross-comemora-flamengo-aglomeracao.html",
+   "data_post": "2019-11-22",
+   "data_checagem": "2021-02-27",
+   "atraso_dias": 463,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/karol-conka-fuma-maconha-edicao-bbb-21.html",
+   "data_post": "2021-01-26",
+   "data_checagem": "2021-02-26",
+   "atraso_dias": 31,
+   "n_posts": 3
+  },
+  {
+   "url": "https://www.boatos.org/politica/enfermeira-tomou-vacina-mostrou-bilhete-chora-bolsonaro.html",
+   "data_post": "2021-01-17",
+   "data_checagem": "2021-01-18",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/doria-sem-mascara-primeiro-tomar-vacina-chinesa-contra-covid-19.html",
+   "data_post": "2020-03-23",
+   "data_checagem": "2020-09-22",
+   "atraso_dias": 183,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/doria-assinou-acordo-vacina-contra-covid-19-agosto-2019.html",
+   "data_post": "2020-06-11",
+   "data_checagem": "2021-01-06",
+   "atraso_dias": 209,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/ciencia/vespa-assassina-chegou-eua-criada-laboratorio-china.html",
+   "data_post": "2020-05-09",
+   "data_checagem": "2020-09-22",
+   "atraso_dias": 136,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/entretenimento/fabio-assuncao-doria-canalha-defende-bolsonaro-critica-isolamento-video.html",
+   "data_post": "2020-04-04",
+   "data_checagem": "2021-08-12",
+   "atraso_dias": 495,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/saude/alexandre-garcia-texto-coronavirus-quarentena-bolsonaro-sociedade-escolheu-sacrificar-almas.html",
+   "data_post": "2020-04-05",
+   "data_checagem": "2020-04-11",
+   "atraso_dias": 6,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/saude/rita-mundim-audio-defendendo-bolsonaro-e-fim-da-quarentena.html",
+   "data_post": "2020-03-31",
+   "data_checagem": "2020-04-02",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/saude/oms-volta-atras-da-razao-bolsonaro-pede-fim-isolamento-social-quer-pessoas-voltem-trabalho.html",
+   "data_post": "2020-03-31",
+   "data_checagem": "2020-04-28",
+   "atraso_dias": 28,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/ricardo-amorim-grava-audio-pedindo-fim-da-quarentena-apoiando-bolsonaro.html",
+   "data_post": "2020-03-27",
+   "data_checagem": "2020-03-29",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/ministro-educacao-abraham-weintraub-pede-criancas-voltem-aulas.html",
+   "data_post": "2020-03-25",
+   "data_checagem": "2020-07-09",
+   "atraso_dias": 106,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/vera-magalhaes-recebe-r-500-mil-mes-doria-tv-cultura-bolsonaro.html",
+   "data_post": "2020-03-21",
+   "data_checagem": "2020-03-22",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/luis-roberto-barroso-ministro-stf-sai-defesa-bolsonaro.html",
+   "data_post": "2020-03-17",
+   "data_checagem": "2020-03-18",
+   "atraso_dias": 1,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/argentina-anuncia-expropriar-terras-reforma-agraria.html",
+   "data_post": "2020-02-24",
+   "data_checagem": "2020-10-24",
+   "atraso_dias": 243,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/saude/bombeiro-alerta-coronavirus-espalhou-minas-gerais-hospital-construido.html",
+   "data_post": "2020-02-28",
+   "data_checagem": "2020-03-18",
+   "atraso_dias": 19,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/tecnologia/celular-libera-radiacao-que-faz-bombril-palha-de-aco-pegar-fogo-video.html",
+   "data_post": "2020-01-10",
+   "data_checagem": "2020-02-06",
+   "atraso_dias": 27,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/mundo/greta-thunberg-flagrada-atirando-fuzil-video.html",
+   "data_post": "2019-12-07",
+   "data_checagem": "2019-12-17",
+   "atraso_dias": 10,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/esporte/tite-e-marquinhos-nao-cumprimentam-bolsonaro-premiacao.html",
+   "data_post": "2019-07-07",
+   "data_checagem": "2019-07-09",
+   "atraso_dias": 2,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/damares-alves-pede-demissao.html",
+   "data_post": "2019-05-03",
+   "data_checagem": "2019-05-03",
+   "atraso_dias": 0,
+   "n_posts": 1
+  },
+  {
+   "url": "https://www.boatos.org/politica/bonner-debocha-lula-renata-vasconcellos.html",
+   "data_post": "2015-06-23",
+   "data_checagem": "2018-04-11",
+   "atraso_dias": 1023,
+   "n_posts": 1
+  }
+ ]
+}

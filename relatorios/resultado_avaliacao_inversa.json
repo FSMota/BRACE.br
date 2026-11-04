@@ -1,0 +1,211 @@
+{
+  "sobreposicao": {
+    "fakebr_identicos_na_nossa_base": 0,
+    "fakebr_mesmos_100_primeiros": 4,
+    "pct_identicos": 0.0
+  },
+  "n": {
+    "fakebr": 7200,
+    "teste": 5162,
+    "pareado": 23949,
+    "controle_tamanho_treino": 7200
+  },
+  "por_braco": {
+    "bruto": {
+      "C_fakebr": 10.0,
+      "C_nosso": 10.0,
+      "C_tamanho": 10.0,
+      "fakebr_fakebr": {
+        "n": 7200,
+        "bal": 89.57,
+        "ic95": [
+          88.84,
+          90.26
+        ],
+        "rev_falso": 89.25,
+        "rev_verdadeiro": 89.89,
+        "por_dobra": [
+          89.24,
+          89.79,
+          89.1,
+          89.58,
+          90.14
+        ]
+      },
+      "fakebr_nosso_teste": {
+        "n": 5162,
+        "bal": 78.07,
+        "ic95": [
+          76.91,
+          79.2
+        ],
+        "rev_falso": 74.16,
+        "rev_verdadeiro": 81.98
+      },
+      "fakebr_nosso_pareado": {
+        "n": 23949,
+        "bal": 78.06,
+        "ic95": [
+          77.54,
+          78.57
+        ],
+        "rev_falso": 77.18,
+        "rev_verdadeiro": 78.93
+      },
+      "nosso_nosso_conferencia": {
+        "n": 5162,
+        "bal": 91.19,
+        "ic95": [
+          90.42,
+          91.97
+        ],
+        "rev_falso": 92.48,
+        "rev_verdadeiro": 89.89
+      },
+      "nosso_fakebr_conferencia": {
+        "n": 7200,
+        "bal": 73.53,
+        "ic95": [
+          72.51,
+          74.61
+        ],
+        "rev_falso": 73.14,
+        "rev_verdadeiro": 73.92
+      },
+      "nosso7200_fakebr": {
+        "n": 7200,
+        "bal": 72.62,
+        "ic95": [
+          71.67,
+          73.66
+        ],
+        "rev_falso": 72.0,
+        "rev_verdadeiro": 73.25
+      },
+      "queda_mesmos_itens_pp": {
+        "valor": 16.04,
+        "ic95": [
+          14.94,
+          17.14
+        ]
+      },
+      "assimetria_pp": -5.45,
+      "leitura_assimetria": "o Fake.br transfere melhor",
+      "leitura_principal": "transferência parcial"
+    },
+    "refinado": {
+      "C_fakebr": 1.0,
+      "C_nosso": 10.0,
+      "C_tamanho": 10.0,
+      "fakebr_fakebr": {
+        "n": 7200,
+        "bal": 74.24,
+        "ic95": [
+          73.21,
+          75.21
+        ],
+        "rev_falso": 72.19,
+        "rev_verdadeiro": 76.28,
+        "por_dobra": [
+          74.1,
+          74.65,
+          74.38,
+          74.24,
+          73.82
+        ]
+      },
+      "fakebr_nosso_teste": {
+        "n": 5162,
+        "bal": 69.2,
+        "ic95": [
+          67.99,
+          70.47
+        ],
+        "rev_falso": 59.71,
+        "rev_verdadeiro": 78.69
+      },
+      "fakebr_nosso_pareado": {
+        "n": 23949,
+        "bal": 70.2,
+        "ic95": [
+          69.64,
+          70.74
+        ],
+        "rev_falso": 60.11,
+        "rev_verdadeiro": 80.29
+      },
+      "nosso_nosso_conferencia": {
+        "n": 5162,
+        "bal": 81.73,
+        "ic95": [
+          80.66,
+          82.79
+        ],
+        "rev_falso": 82.64,
+        "rev_verdadeiro": 80.82
+      },
+      "nosso_fakebr_conferencia": {
+        "n": 7200,
+        "bal": 66.31,
+        "ic95": [
+          65.28,
+          67.44
+        ],
+        "rev_falso": 68.39,
+        "rev_verdadeiro": 64.22
+      },
+      "nosso7200_fakebr": {
+        "n": 7200,
+        "bal": 65.26,
+        "ic95": [
+          64.2,
+          66.35
+        ],
+        "rev_falso": 67.22,
+        "rev_verdadeiro": 63.31
+      },
+      "queda_mesmos_itens_pp": {
+        "valor": 7.93,
+        "ic95": [
+          6.67,
+          9.08
+        ]
+      },
+      "assimetria_pp": -3.94,
+      "leitura_assimetria": "simétrica",
+      "leitura_principal": "transferência parcial"
+    }
+  },
+  "refinado_menos_bruto_fakebr_nosso": {
+    "pp": -8.87,
+    "mcnemar_so_refinado_acerta": 544,
+    "mcnemar_so_bruto_acerta": 1002,
+    "p": 1.1383178960827745e-31
+  },
+  "confronto_previsoes": {
+    "I1": [
+      78.07,
+      false
+    ],
+    "I2": [
+      7.82,
+      false
+    ],
+    "I3": [
+      89.57,
+      true
+    ],
+    "I4": [
+      -8.87,
+      false
+    ],
+    "I5": [
+      -0.89,
+      true
+    ],
+    "I6": [
+      0.0,
+      true
+    ]
+  }
+}

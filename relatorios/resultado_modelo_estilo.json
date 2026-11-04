@@ -1,0 +1,42 @@
+{
+  "regressao_logistica": {
+    "interno": 0.8468,
+    "fakebr": 0.6479,
+    "fakebr_ic95": [
+      0.6386,
+      0.6572
+    ],
+    "rev_falso": 0.3956,
+    "rev_verdadeiro": 0.9003
+  },
+  "gradient_boosting": {
+    "interno": 0.8721,
+    "fakebr": 0.6518,
+    "fakebr_ic95": [
+      0.6418,
+      0.6617
+    ],
+    "rev_falso": 0.7664,
+    "rev_verdadeiro": 0.5372
+  },
+  "pesos_rl": {
+    "exclamacao_100c": 7.579,
+    "palavras": 6.157,
+    "reticencias": 3.95,
+    "interrogacao_100c": 3.138,
+    "pct_maiusculas": 2.002,
+    "hashtags": 1.043,
+    "voce_100p": 0.922,
+    "emojis": 0.686,
+    "mencoes_arroba": 0.636,
+    "pct_palavras_caixa_alta": 0.405,
+    "aspas": 0.298,
+    "links": 0.21,
+    "pontuacao_repetida": -0.108,
+    "tam_medio_palavra": -0.427,
+    "pct_digitos": -0.531,
+    "tam_medio_frase": -0.833,
+    "log_caracteres": -5.565
+  },
+  "leitura": "o estilo explica boa parte da transferência; o resto é léxico/conteúdo."
+}

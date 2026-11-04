@@ -1,0 +1,167 @@
+{
+  "rotulo": "EXPLORATÓRIO -- decidido depois de ver o resultado do experimento pareado; não pré-registrado",
+  "amostra": "20 dos 90 casos com similaridade < 0,50 (14 de 65 html, 6 de 25 texto), semente 20261009",
+  "classificador": "Claude (Anthropic), sem cegamento; conferir antes de citar",
+  "contagem": {
+    "estrutura_errou_llm_certo": 10,
+    "ambos_erraram": 1,
+    "llm_errou_estrutura_certa": 3,
+    "ambos_validos": 3,
+    "llm_parcial": 3
+  },
+  "por_via": {
+    "html": {
+      "estrutura_errou_llm_certo": 8,
+      "ambos_erraram": 1,
+      "llm_errou_estrutura_certa": 2,
+      "ambos_validos": 3
+    },
+    "texto": {
+      "llm_parcial": 3,
+      "llm_errou_estrutura_certa": 1,
+      "estrutura_errou_llm_certo": 2
+    }
+  },
+  "itens": [
+    {
+      "k": 1,
+      "id": "F491b065ee916",
+      "via": "html",
+      "classe": "estrutura_errou_llm_certo",
+      "nota": "estrutura pegou a assinatura de um tweet embutido"
+    },
+    {
+      "k": 2,
+      "id": "Fd4ec96beccbb",
+      "via": "html",
+      "classe": "estrutura_errou_llm_certo",
+      "nota": "estrutura pegou o tweet dos Bombeiros que desmente o áudio (evidência do checador)"
+    },
+    {
+      "k": 3,
+      "id": "F16c8ea696ff1",
+      "via": "html",
+      "classe": "estrutura_errou_llm_certo",
+      "nota": "estrutura pegou a legenda com hashtags; o LLM, a transcrição da mensagem"
+    },
+    {
+      "k": 4,
+      "id": "F3c6d11de749b",
+      "via": "html",
+      "classe": "ambos_erraram",
+      "nota": "estrutura pegou a citação de um especialista; LLM pegou o texto do checador, com veredito"
+    },
+    {
+      "k": 5,
+      "id": "F0ffb110ac3f9",
+      "via": "html",
+      "classe": "llm_errou_estrutura_certa",
+      "nota": "LLM copiou só o título da mensagem; a estrutura tem a mensagem inteira"
+    },
+    {
+      "k": 6,
+      "id": "F1e74722f4c63",
+      "via": "html",
+      "classe": "ambos_validos",
+      "nota": "legenda do post × transcrição da narração do vídeo"
+    },
+    {
+      "k": 7,
+      "id": "F7b835ce6b367",
+      "via": "html",
+      "classe": "estrutura_errou_llm_certo",
+      "nota": "estrutura pegou o tweet do próprio Doria, citado como evidência"
+    },
+    {
+      "k": 8,
+      "id": "F786b35d1bd6b",
+      "via": "html",
+      "classe": "ambos_validos",
+      "nota": "mesma chamada; a estrutura com as hashtags"
+    },
+    {
+      "k": 9,
+      "id": "F67910814ca12",
+      "via": "html",
+      "classe": "estrutura_errou_llm_certo",
+      "nota": "estrutura juntou duas versões; a regra do projeto manda ficar só com a primeira, como fez o LLM"
+    },
+    {
+      "k": 10,
+      "id": "F592b9b7d4582",
+      "via": "html",
+      "classe": "estrutura_errou_llm_certo",
+      "nota": "estrutura pegou um link promocional do site ('20 fake news...')"
+    },
+    {
+      "k": 11,
+      "id": "Fb772edda0686",
+      "via": "html",
+      "classe": "llm_errou_estrutura_certa",
+      "nota": "LLM copiou o título do artigo de checagem"
+    },
+    {
+      "k": 12,
+      "id": "Fb592f9248500",
+      "via": "html",
+      "classe": "estrutura_errou_llm_certo",
+      "nota": "estrutura pegou o tweet do Metrópoles citado como evidência"
+    },
+    {
+      "k": 13,
+      "id": "F30c853539792",
+      "via": "html",
+      "classe": "ambos_validos",
+      "nota": "post no X × transcrição do vídeo, ambos a mensagem que circulou"
+    },
+    {
+      "k": 14,
+      "id": "F109e967e760b",
+      "via": "html",
+      "classe": "estrutura_errou_llm_certo",
+      "nota": "estrutura pegou um link promocional ('6 fake news sobre vacinas')"
+    },
+    {
+      "k": 15,
+      "id": "F85ac065746e5",
+      "via": "texto",
+      "classe": "llm_parcial",
+      "nota": "mesmo início; o LLM parou antes, sem o texto do blog"
+    },
+    {
+      "k": 16,
+      "id": "Fcba706fe641d",
+      "via": "texto",
+      "classe": "llm_errou_estrutura_certa",
+      "nota": "LLM pegou uma frase-resumo da alegação, não a mensagem"
+    },
+    {
+      "k": 17,
+      "id": "Ff8467125d3e7",
+      "via": "texto",
+      "classe": "estrutura_errou_llm_certo",
+      "nota": "marcador textual pegou as perguntas e respostas do checador ('A Embraer fez um filme? Não.')"
+    },
+    {
+      "k": 18,
+      "id": "F4c62d25889ed",
+      "via": "texto",
+      "classe": "llm_parcial",
+      "nota": "LLM pegou só o post, sem a transcrição do áudio que vem junto"
+    },
+    {
+      "k": 19,
+      "id": "Fcc1ed29f5bf7",
+      "via": "texto",
+      "classe": "llm_parcial",
+      "nota": "mesmo início; o LLM parou antes"
+    },
+    {
+      "k": 20,
+      "id": "F6e1763ec1af7",
+      "via": "texto",
+      "classe": "estrutura_errou_llm_certo",
+      "nota": "marcador textual pegou as perguntas e respostas do checador ('Pepe Mujica morreu? Não')"
+    }
+  ]
+}

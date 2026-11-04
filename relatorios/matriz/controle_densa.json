@@ -1,0 +1,56 @@
+{
+  "Bc+LR|bruto": {
+    "h": 1.0,
+    "acuracias": [
+      51.84,
+      53.82,
+      48.0
+    ],
+    "dentro_45_55": true
+  },
+  "Bc+SVM|bruto": {
+    "h": 0.1,
+    "acuracias": [
+      51.69,
+      54.2,
+      47.66
+    ],
+    "dentro_45_55": true
+  },
+  "Bc+NB|bruto": {
+    "h": null,
+    "acuracias": [
+      47.68,
+      77.66,
+      55.37
+    ],
+    "dentro_45_55": false
+  },
+  "Ol+LR|bruto": {
+    "h": 10.0,
+    "acuracias": [
+      54.61,
+      53.55,
+      52.73
+    ],
+    "dentro_45_55": true
+  },
+  "Ol+SVM|bruto": {
+    "h": 1.0,
+    "acuracias": [
+      54.88,
+      53.18,
+      50.66
+    ],
+    "dentro_45_55": true
+  },
+  "Ol+NB|bruto": {
+    "h": null,
+    "acuracias": [
+      64.96,
+      64.37,
+      58.81
+    ],
+    "dentro_45_55": false
+  }
+}

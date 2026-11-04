@@ -1,0 +1,8 @@
+datasets/
+*.json.gz
+.venv/
+__pycache__/
+relatorios/coleta/urls_sitemap.json
+
+# travas de editores de planilha (LibreOffice/ONLYOFFICE)
+.~lock.*#

@@ -1,0 +1,4742 @@
+{
+ "1": {
+  "consulta": "F9cd805770481",
+  "candidato": "Fbbb8c0e87f0b",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "2": {
+  "consulta": "F9cd805770481",
+  "candidato": "F66d860dd9920",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "3": {
+  "consulta": "F9cd805770481",
+  "candidato": "Ff92ddec3284e",
+  "sistemas": {
+   "S3": 1,
+   "S4": 2
+  }
+ },
+ "4": {
+  "consulta": "F9cd805770481",
+  "candidato": "F631c47fb7c29",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "5": {
+  "consulta": "F9cd805770481",
+  "candidato": "F75d655331681",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "6": {
+  "consulta": "F9cd805770481",
+  "candidato": "F252af7037cab",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "7": {
+  "consulta": "F9cd805770481",
+  "candidato": "Fbea6a0b42201",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "8": {
+  "consulta": "F9cd805770481",
+  "candidato": "Ff95190339c9e",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "9": {
+  "consulta": "F9cd805770481",
+  "candidato": "F63e475c8e36c",
+  "sistemas": {
+   "S1": 1,
+   "S3": 3,
+   "S4": 1
+  }
+ },
+ "10": {
+  "consulta": "F9cd805770481",
+  "candidato": "Ff35f6aaf77a7",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "11": {
+  "consulta": "F9cd805770481",
+  "candidato": "Fd4309f91a871",
+  "sistemas": {
+   "S1": 2,
+   "S2": 3
+  }
+ },
+ "12": {
+  "consulta": "Faae9e609c850",
+  "candidato": "F9e47e0bee851",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "13": {
+  "consulta": "Faae9e609c850",
+  "candidato": "F3e2cd2c9b2ce",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "14": {
+  "consulta": "Faae9e609c850",
+  "candidato": "F60ffcd6e6159",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "15": {
+  "consulta": "Faae9e609c850",
+  "candidato": "F6e693eaa02c4",
+  "sistemas": {
+   "S1": 1,
+   "S2": 3,
+   "S4": 2
+  }
+ },
+ "16": {
+  "consulta": "Faae9e609c850",
+  "candidato": "F342e031cd925",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "17": {
+  "consulta": "Faae9e609c850",
+  "candidato": "F15c225aa3ea7",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "18": {
+  "consulta": "Faae9e609c850",
+  "candidato": "Fd16fe8ea97bd",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "19": {
+  "consulta": "Faae9e609c850",
+  "candidato": "Ff67e15d96457",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "20": {
+  "consulta": "Faae9e609c850",
+  "candidato": "Fcac705152f63",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "21": {
+  "consulta": "Faae9e609c850",
+  "candidato": "F1b0111a50ab1",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "22": {
+  "consulta": "Faae9e609c850",
+  "candidato": "F837b40b2aa1a",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "23": {
+  "consulta": "Faae9e609c850",
+  "candidato": "F7019a8219be0",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "24": {
+  "consulta": "Faae9e609c850",
+  "candidato": "Fdc89162a3db8",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "25": {
+  "consulta": "F0ec7fc276fee",
+  "candidato": "Fe38750795180",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "26": {
+  "consulta": "F0ec7fc276fee",
+  "candidato": "Fc4d43717e636",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "27": {
+  "consulta": "F0ec7fc276fee",
+  "candidato": "F758c1abe6109",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "28": {
+  "consulta": "F0ec7fc276fee",
+  "candidato": "Fc996cf8fa97f",
+  "sistemas": {
+   "S3": 1,
+   "S4": 1
+  }
+ },
+ "29": {
+  "consulta": "F0ec7fc276fee",
+  "candidato": "F9950f8dd7627",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "30": {
+  "consulta": "F0ec7fc276fee",
+  "candidato": "F5f4baa5b1527",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "31": {
+  "consulta": "F0ec7fc276fee",
+  "candidato": "F1e536e594a12",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "32": {
+  "consulta": "F0ec7fc276fee",
+  "candidato": "F07f1aea82b31",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "33": {
+  "consulta": "F0ec7fc276fee",
+  "candidato": "F588ca1022db6",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "34": {
+  "consulta": "F0ec7fc276fee",
+  "candidato": "F66341c817af6",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "35": {
+  "consulta": "F0ec7fc276fee",
+  "candidato": "Fafccf6c19a55",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "36": {
+  "consulta": "F0ec7fc276fee",
+  "candidato": "F4bfe4d924980",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "37": {
+  "consulta": "F0ec7fc276fee",
+  "candidato": "F46cf54dfa7c0",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "38": {
+  "consulta": "F0ec7fc276fee",
+  "candidato": "Fad08de2ef53f",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "39": {
+  "consulta": "F66c45064ad03",
+  "candidato": "Fbcb41e9b81d8",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "40": {
+  "consulta": "F66c45064ad03",
+  "candidato": "Fb14608abd93d",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "41": {
+  "consulta": "F66c45064ad03",
+  "candidato": "F49811e0a83a8",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "42": {
+  "consulta": "F66c45064ad03",
+  "candidato": "Feeff38ee775c",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "43": {
+  "consulta": "F66c45064ad03",
+  "candidato": "F2aeeedbb663f",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "44": {
+  "consulta": "F66c45064ad03",
+  "candidato": "F1370dd9924d1",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "45": {
+  "consulta": "F66c45064ad03",
+  "candidato": "F06375c9f0642",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "46": {
+  "consulta": "F66c45064ad03",
+  "candidato": "Fc13cfcebff90",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "47": {
+  "consulta": "F66c45064ad03",
+  "candidato": "F5a15a529f4d8",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "48": {
+  "consulta": "F66c45064ad03",
+  "candidato": "F5dbf679ff9b6",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "49": {
+  "consulta": "F66c45064ad03",
+  "candidato": "F836cc8dd7575",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "50": {
+  "consulta": "F66c45064ad03",
+  "candidato": "Fb8871e53e388",
+  "sistemas": {
+   "S3": 1,
+   "S4": 1
+  }
+ },
+ "51": {
+  "consulta": "F66c45064ad03",
+  "candidato": "F1d9dec750767",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "52": {
+  "consulta": "F66c45064ad03",
+  "candidato": "F44c4e283b072",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "53": {
+  "consulta": "Fd01044bee7ff",
+  "candidato": "Fd2896fe9cd69",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "54": {
+  "consulta": "Fd01044bee7ff",
+  "candidato": "F96f58d5d55b4",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "55": {
+  "consulta": "Fd01044bee7ff",
+  "candidato": "F63eea01aca1c",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "56": {
+  "consulta": "Fd01044bee7ff",
+  "candidato": "Fa741392a8a40",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "57": {
+  "consulta": "Fd01044bee7ff",
+  "candidato": "Fbe01e5330904",
+  "sistemas": {
+   "S1": 1,
+   "S3": 1,
+   "S4": 3
+  }
+ },
+ "58": {
+  "consulta": "Fd01044bee7ff",
+  "candidato": "Fc85f67c1137c",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "59": {
+  "consulta": "Fd01044bee7ff",
+  "candidato": "Fc674b6b3fefb",
+  "sistemas": {
+   "S1": 3,
+   "S4": 1
+  }
+ },
+ "60": {
+  "consulta": "Fd01044bee7ff",
+  "candidato": "F6b8abc5c3166",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "61": {
+  "consulta": "Fd01044bee7ff",
+  "candidato": "F600dd6ff3c8a",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "62": {
+  "consulta": "Fd01044bee7ff",
+  "candidato": "F49d1731ea471",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "63": {
+  "consulta": "Fd01044bee7ff",
+  "candidato": "F837b40b2aa1a",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "64": {
+  "consulta": "Fd01044bee7ff",
+  "candidato": "Faf2e3071f759",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "65": {
+  "consulta": "Fc3e5680a5d5a",
+  "candidato": "Fe20ae34d00be",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "66": {
+  "consulta": "Fc3e5680a5d5a",
+  "candidato": "F611095fac640",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "67": {
+  "consulta": "Fc3e5680a5d5a",
+  "candidato": "F4009351dafd3",
+  "sistemas": {
+   "S1": 3,
+   "S4": 2
+  }
+ },
+ "68": {
+  "consulta": "Fc3e5680a5d5a",
+  "candidato": "F8f0519b4526d",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "69": {
+  "consulta": "Fc3e5680a5d5a",
+  "candidato": "F638eb3e8d1b8",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "70": {
+  "consulta": "Fc3e5680a5d5a",
+  "candidato": "F2e544d874ebe",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "71": {
+  "consulta": "Fc3e5680a5d5a",
+  "candidato": "F1e77cd190ec7",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "72": {
+  "consulta": "Fc3e5680a5d5a",
+  "candidato": "F791cc2d67ef7",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "73": {
+  "consulta": "Fc3e5680a5d5a",
+  "candidato": "F70c73539d25d",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "74": {
+  "consulta": "Fc3e5680a5d5a",
+  "candidato": "Fc35f81864270",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "75": {
+  "consulta": "Fc3e5680a5d5a",
+  "candidato": "F817255f26cfa",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "76": {
+  "consulta": "Fc3e5680a5d5a",
+  "candidato": "F2aef139a83df",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "77": {
+  "consulta": "Fc3e5680a5d5a",
+  "candidato": "Fc40dbdb8246f",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "78": {
+  "consulta": "Fc3e5680a5d5a",
+  "candidato": "F77931d8f55a2",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "79": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "F6672a39cc776",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "80": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "F4a51b324450a",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "81": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "F994553c07291",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "82": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "Fa852e4414fc6",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "83": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "F38fb422b3767",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "84": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "F22ed9bc109aa",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "85": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "F170e1af1757d",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "86": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "Fbf0da66029ff",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "87": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "F1dadb713c49c",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "88": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "F8100e2c8e40e",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "89": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "F8caec2c4ff39",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "90": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "F5c39de178b67",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "91": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "Fa4d6efa716ef",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "92": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "Fc2e61559bde2",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "93": {
+  "consulta": "Fa47062f3cded",
+  "candidato": "Fc1d3b94aeb76",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "94": {
+  "consulta": "F78e0e9f66849",
+  "candidato": "Fdd92042c6b95",
+  "sistemas": {
+   "S2": 2,
+   "S3": 3
+  }
+ },
+ "95": {
+  "consulta": "F78e0e9f66849",
+  "candidato": "Fd14bdf944a0c",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "96": {
+  "consulta": "F78e0e9f66849",
+  "candidato": "F7bdc4572497b",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "97": {
+  "consulta": "F78e0e9f66849",
+  "candidato": "Ff3fbb3dbd419",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "98": {
+  "consulta": "F78e0e9f66849",
+  "candidato": "F1db2913361fe",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "99": {
+  "consulta": "F78e0e9f66849",
+  "candidato": "Ffedfb0c6e79b",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "100": {
+  "consulta": "F78e0e9f66849",
+  "candidato": "F659fd1316bb1",
+  "sistemas": {
+   "S1": 2,
+   "S3": 2
+  }
+ },
+ "101": {
+  "consulta": "F78e0e9f66849",
+  "candidato": "F3b08c9464d06",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "102": {
+  "consulta": "F78e0e9f66849",
+  "candidato": "F7d7a67409c67",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "103": {
+  "consulta": "F78e0e9f66849",
+  "candidato": "Fddd2ca73054a",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "104": {
+  "consulta": "F78e0e9f66849",
+  "candidato": "F1d5c39edc2aa",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "105": {
+  "consulta": "F78e0e9f66849",
+  "candidato": "Ff13e2ea80687",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "106": {
+  "consulta": "F78e0e9f66849",
+  "candidato": "F760bf21c5162",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "107": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "F2ff795530190",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "108": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "Fd7421016badd",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "109": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "F62906d488490",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "110": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "F53c68af356a5",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "111": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "F1370dd9924d1",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "112": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "F1423eb219d2f",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "113": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "F7d01122588ee",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "114": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "F03d84eae1999",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "115": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "Fa6e8782dec0c",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "116": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "F61b4298cc255",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "117": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "Fe78cd8594ca2",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "118": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "F16ce10181e15",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "119": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "F836cc8dd7575",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "120": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "F5ac830606e27",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "121": {
+  "consulta": "Fc1145dcae9e9",
+  "candidato": "F5a306e855a02",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "122": {
+  "consulta": "F8fbcde4bd651",
+  "candidato": "F4a9ea99c6904",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "123": {
+  "consulta": "F8fbcde4bd651",
+  "candidato": "Fa15fdbd3d9c5",
+  "sistemas": {
+   "S1": 3,
+   "S3": 1,
+   "S4": 1
+  }
+ },
+ "124": {
+  "consulta": "F8fbcde4bd651",
+  "candidato": "F7b6f3ec707b3",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "125": {
+  "consulta": "F8fbcde4bd651",
+  "candidato": "F2cd7b9e1a1c3",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "126": {
+  "consulta": "F8fbcde4bd651",
+  "candidato": "Ffe9e4d520e48",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "127": {
+  "consulta": "F8fbcde4bd651",
+  "candidato": "F05c66e49a7db",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "128": {
+  "consulta": "F8fbcde4bd651",
+  "candidato": "F17a314757f42",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "129": {
+  "consulta": "F8fbcde4bd651",
+  "candidato": "Fb8a504f120f1",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "130": {
+  "consulta": "F8fbcde4bd651",
+  "candidato": "Fc8b5c244ea2b",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "131": {
+  "consulta": "F8fbcde4bd651",
+  "candidato": "F61c0cbd6db10",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "132": {
+  "consulta": "F8fbcde4bd651",
+  "candidato": "F1c31b899db1b",
+  "sistemas": {
+   "S2": 1,
+   "S4": 2
+  }
+ },
+ "133": {
+  "consulta": "F8fbcde4bd651",
+  "candidato": "F705299853893",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "134": {
+  "consulta": "Fed9cf8f0a75d",
+  "candidato": "F74a9ef035d27",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "135": {
+  "consulta": "Fed9cf8f0a75d",
+  "candidato": "F2f1fa589551a",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "136": {
+  "consulta": "Fed9cf8f0a75d",
+  "candidato": "Feab14a0ca484",
+  "sistemas": {
+   "S2": 3,
+   "S3": 2
+  }
+ },
+ "137": {
+  "consulta": "Fed9cf8f0a75d",
+  "candidato": "F1c84d7ad9bf2",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "138": {
+  "consulta": "Fed9cf8f0a75d",
+  "candidato": "F7486ba0d0802",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "139": {
+  "consulta": "Fed9cf8f0a75d",
+  "candidato": "Fff2a8d189d48",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "140": {
+  "consulta": "Fed9cf8f0a75d",
+  "candidato": "F638ba30889e6",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "141": {
+  "consulta": "Fed9cf8f0a75d",
+  "candidato": "F24e3e5d8c119",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "142": {
+  "consulta": "Fed9cf8f0a75d",
+  "candidato": "F58daa3e3c092",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "143": {
+  "consulta": "Fed9cf8f0a75d",
+  "candidato": "F667430eb4461",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "144": {
+  "consulta": "Fed9cf8f0a75d",
+  "candidato": "Fdadd970de58c",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "145": {
+  "consulta": "Fed9cf8f0a75d",
+  "candidato": "F8af57b740990",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "146": {
+  "consulta": "Fed9cf8f0a75d",
+  "candidato": "F914dcfb9b06b",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "147": {
+  "consulta": "Fed9cf8f0a75d",
+  "candidato": "F2fffb1968869",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "148": {
+  "consulta": "F578567ba699b",
+  "candidato": "Faffb957487f0",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "149": {
+  "consulta": "F578567ba699b",
+  "candidato": "Fbd98d6ea7942",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "150": {
+  "consulta": "F578567ba699b",
+  "candidato": "Fc57bc1c10e8a",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "151": {
+  "consulta": "F578567ba699b",
+  "candidato": "F4e2f96ca7a7a",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "152": {
+  "consulta": "F578567ba699b",
+  "candidato": "F1e77cd190ec7",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "153": {
+  "consulta": "F578567ba699b",
+  "candidato": "F081384284e56",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "154": {
+  "consulta": "F578567ba699b",
+  "candidato": "Feb366d9ab7e0",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "155": {
+  "consulta": "F578567ba699b",
+  "candidato": "Fafc33331dce2",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "156": {
+  "consulta": "F578567ba699b",
+  "candidato": "F9d5d226a1905",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "157": {
+  "consulta": "F578567ba699b",
+  "candidato": "F5a558b7cbdaf",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "158": {
+  "consulta": "F578567ba699b",
+  "candidato": "F1d2af1395d8d",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "159": {
+  "consulta": "F578567ba699b",
+  "candidato": "F5637ad144597",
+  "sistemas": {
+   "S3": 1,
+   "S4": 1
+  }
+ },
+ "160": {
+  "consulta": "F578567ba699b",
+  "candidato": "F96fc98b8e152",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "161": {
+  "consulta": "F578567ba699b",
+  "candidato": "F58a0d79d3cce",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "162": {
+  "consulta": "Fccdd8bd4908b",
+  "candidato": "F6a786cc155c4",
+  "sistemas": {
+   "S1": 2,
+   "S2": 3
+  }
+ },
+ "163": {
+  "consulta": "Fccdd8bd4908b",
+  "candidato": "F6e4119b244cd",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "164": {
+  "consulta": "Fccdd8bd4908b",
+  "candidato": "F627f37e72089",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "165": {
+  "consulta": "Fccdd8bd4908b",
+  "candidato": "F8e0b6ee2aeff",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "166": {
+  "consulta": "Fccdd8bd4908b",
+  "candidato": "Fe9a298f1471d",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "167": {
+  "consulta": "Fccdd8bd4908b",
+  "candidato": "Fe9a5458b8860",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "168": {
+  "consulta": "Fccdd8bd4908b",
+  "candidato": "Fcd1a828adcaf",
+  "sistemas": {
+   "S1": 1,
+   "S2": 1
+  }
+ },
+ "169": {
+  "consulta": "Fccdd8bd4908b",
+  "candidato": "F0664bb3e4d73",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "170": {
+  "consulta": "Fccdd8bd4908b",
+  "candidato": "F2d281cbabcab",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "171": {
+  "consulta": "Fccdd8bd4908b",
+  "candidato": "Fd558d11d4b95",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "172": {
+  "consulta": "Fccdd8bd4908b",
+  "candidato": "Fa9b59b33914a",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "173": {
+  "consulta": "Fccdd8bd4908b",
+  "candidato": "F84b697e387ed",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "174": {
+  "consulta": "Fccdd8bd4908b",
+  "candidato": "F9187a47df332",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "175": {
+  "consulta": "F381a9e32c8ee",
+  "candidato": "Facbbf53bb8df",
+  "sistemas": {
+   "S3": 1,
+   "S4": 1
+  }
+ },
+ "176": {
+  "consulta": "F381a9e32c8ee",
+  "candidato": "F6bac42f472a3",
+  "sistemas": {
+   "S2": 1,
+   "S4": 2
+  }
+ },
+ "177": {
+  "consulta": "F381a9e32c8ee",
+  "candidato": "Fcae373f3fd81",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "178": {
+  "consulta": "F381a9e32c8ee",
+  "candidato": "F4ed4f0c91764",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "179": {
+  "consulta": "F381a9e32c8ee",
+  "candidato": "Ffae44fabbded",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "180": {
+  "consulta": "F381a9e32c8ee",
+  "candidato": "F31b342ab3723",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "181": {
+  "consulta": "F381a9e32c8ee",
+  "candidato": "Ffdc7deb840e9",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "182": {
+  "consulta": "F381a9e32c8ee",
+  "candidato": "F544e1b43442d",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "183": {
+  "consulta": "F381a9e32c8ee",
+  "candidato": "F3531f949ff5e",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "184": {
+  "consulta": "F381a9e32c8ee",
+  "candidato": "F286eeedf4edf",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "185": {
+  "consulta": "F381a9e32c8ee",
+  "candidato": "F56172d057d55",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "186": {
+  "consulta": "F381a9e32c8ee",
+  "candidato": "F33b8dba0a937",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "187": {
+  "consulta": "F381a9e32c8ee",
+  "candidato": "Fc615ce3c24cc",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "188": {
+  "consulta": "F6ffaccadae56",
+  "candidato": "Fbdd2a04308f2",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "189": {
+  "consulta": "F6ffaccadae56",
+  "candidato": "F903d5efd6303",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "190": {
+  "consulta": "F6ffaccadae56",
+  "candidato": "F7b57fab72a32",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "191": {
+  "consulta": "F6ffaccadae56",
+  "candidato": "F13528337875b",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "192": {
+  "consulta": "F6ffaccadae56",
+  "candidato": "F291fa8222f93",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "193": {
+  "consulta": "F6ffaccadae56",
+  "candidato": "Fcb0e0dfbfc26",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "194": {
+  "consulta": "F6ffaccadae56",
+  "candidato": "F922d6dcff23a",
+  "sistemas": {
+   "S2": 1,
+   "S3": 2,
+   "S4": 1
+  }
+ },
+ "195": {
+  "consulta": "F6ffaccadae56",
+  "candidato": "Fdfb7791fd81f",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "196": {
+  "consulta": "F6ffaccadae56",
+  "candidato": "Ff266d417e418",
+  "sistemas": {
+   "S2": 3,
+   "S3": 3,
+   "S4": 2
+  }
+ },
+ "197": {
+  "consulta": "F6ffaccadae56",
+  "candidato": "Faf60989846fe",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "198": {
+  "consulta": "F6ffaccadae56",
+  "candidato": "F946766614012",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "199": {
+  "consulta": "F383fd9fe5994",
+  "candidato": "F492d36939f5c",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "200": {
+  "consulta": "F383fd9fe5994",
+  "candidato": "F0191afaf64c7",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "201": {
+  "consulta": "F383fd9fe5994",
+  "candidato": "F2abfd933873b",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "202": {
+  "consulta": "F383fd9fe5994",
+  "candidato": "F13d1a1bd2179",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "203": {
+  "consulta": "F383fd9fe5994",
+  "candidato": "F914f4bab1eb6",
+  "sistemas": {
+   "S3": 1,
+   "S4": 1
+  }
+ },
+ "204": {
+  "consulta": "F383fd9fe5994",
+  "candidato": "Ffbcae531b510",
+  "sistemas": {
+   "S1": 3,
+   "S2": 1
+  }
+ },
+ "205": {
+  "consulta": "F383fd9fe5994",
+  "candidato": "F2e33cbcc1e63",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "206": {
+  "consulta": "F383fd9fe5994",
+  "candidato": "F9d90b0267852",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "207": {
+  "consulta": "F383fd9fe5994",
+  "candidato": "Ffff83bb9167b",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "208": {
+  "consulta": "F383fd9fe5994",
+  "candidato": "F3e3e5e4cc4a0",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "209": {
+  "consulta": "F383fd9fe5994",
+  "candidato": "Fc8f1686be564",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "210": {
+  "consulta": "F383fd9fe5994",
+  "candidato": "F60c2e1b2a10a",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "211": {
+  "consulta": "F383fd9fe5994",
+  "candidato": "F0fa8c7cc56e7",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "212": {
+  "consulta": "F24db2ed71bfd",
+  "candidato": "Fb88f7f0990e5",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "213": {
+  "consulta": "F24db2ed71bfd",
+  "candidato": "F241d8658bae1",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "214": {
+  "consulta": "F24db2ed71bfd",
+  "candidato": "F2b15e0d42c06",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "215": {
+  "consulta": "F24db2ed71bfd",
+  "candidato": "F95c2b40ceeb9",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "216": {
+  "consulta": "F24db2ed71bfd",
+  "candidato": "Fca39f9c45939",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "217": {
+  "consulta": "F24db2ed71bfd",
+  "candidato": "F8adc772a9f0b",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "218": {
+  "consulta": "F24db2ed71bfd",
+  "candidato": "F3e222463bb4d",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "219": {
+  "consulta": "F24db2ed71bfd",
+  "candidato": "Ffa3faa0e6f79",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "220": {
+  "consulta": "F24db2ed71bfd",
+  "candidato": "Fcacd5c713fd7",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "221": {
+  "consulta": "F24db2ed71bfd",
+  "candidato": "F51f4c143d29d",
+  "sistemas": {
+   "S3": 1,
+   "S4": 1
+  }
+ },
+ "222": {
+  "consulta": "F24db2ed71bfd",
+  "candidato": "F4265e4908e9e",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "223": {
+  "consulta": "F24db2ed71bfd",
+  "candidato": "Fadc7a9db8bde",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "224": {
+  "consulta": "F24db2ed71bfd",
+  "candidato": "F418b4850a71e",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "225": {
+  "consulta": "F24db2ed71bfd",
+  "candidato": "F31f22f55b872",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "226": {
+  "consulta": "Ffbeaa742d0a4",
+  "candidato": "F62dc78568bc4",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "227": {
+  "consulta": "Ffbeaa742d0a4",
+  "candidato": "F11f925e9af90",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "228": {
+  "consulta": "Ffbeaa742d0a4",
+  "candidato": "Feb606bd6c0b5",
+  "sistemas": {
+   "S3": 1,
+   "S4": 1
+  }
+ },
+ "229": {
+  "consulta": "Ffbeaa742d0a4",
+  "candidato": "F83b08048115f",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "230": {
+  "consulta": "Ffbeaa742d0a4",
+  "candidato": "F618d78f9846e",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "231": {
+  "consulta": "Ffbeaa742d0a4",
+  "candidato": "F3c9890dc0843",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "232": {
+  "consulta": "Ffbeaa742d0a4",
+  "candidato": "F6876ef5e202b",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "233": {
+  "consulta": "Ffbeaa742d0a4",
+  "candidato": "F27286d723eab",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "234": {
+  "consulta": "Ffbeaa742d0a4",
+  "candidato": "Ffff97839ca97",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "235": {
+  "consulta": "Ffbeaa742d0a4",
+  "candidato": "Fee0faebe77cc",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "236": {
+  "consulta": "Ffbeaa742d0a4",
+  "candidato": "F5513b6f624a0",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "237": {
+  "consulta": "Ffbeaa742d0a4",
+  "candidato": "F66fb78804f32",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "238": {
+  "consulta": "Ffbeaa742d0a4",
+  "candidato": "F880f97661077",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "239": {
+  "consulta": "Ffbeaa742d0a4",
+  "candidato": "Fc27db52421fe",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "240": {
+  "consulta": "F647498e932dc",
+  "candidato": "F734160e556ac",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "241": {
+  "consulta": "F647498e932dc",
+  "candidato": "F8d41599b2f87",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "242": {
+  "consulta": "F647498e932dc",
+  "candidato": "Fa0b332dcbd03",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "243": {
+  "consulta": "F647498e932dc",
+  "candidato": "Ff0467d0239d8",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "244": {
+  "consulta": "F647498e932dc",
+  "candidato": "Fba858fccedfd",
+  "sistemas": {
+   "S1": 2,
+   "S3": 2
+  }
+ },
+ "245": {
+  "consulta": "F647498e932dc",
+  "candidato": "F5f4baa5b1527",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "246": {
+  "consulta": "F647498e932dc",
+  "candidato": "F12c2dff3cf8f",
+  "sistemas": {
+   "S3": 1,
+   "S4": 2
+  }
+ },
+ "247": {
+  "consulta": "F647498e932dc",
+  "candidato": "F7d01122588ee",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "248": {
+  "consulta": "F647498e932dc",
+  "candidato": "Fd1248f6b262f",
+  "sistemas": {
+   "S1": 1,
+   "S4": 3
+  }
+ },
+ "249": {
+  "consulta": "F647498e932dc",
+  "candidato": "F45bf7ea76d5b",
+  "sistemas": {
+   "S2": 3,
+   "S3": 3
+  }
+ },
+ "250": {
+  "consulta": "F647498e932dc",
+  "candidato": "Fd3ac265b4bca",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "251": {
+  "consulta": "Fd8f8705b0e2a",
+  "candidato": "F884872a946fe",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "252": {
+  "consulta": "Fd8f8705b0e2a",
+  "candidato": "Feda8dacb9c9c",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "253": {
+  "consulta": "Fd8f8705b0e2a",
+  "candidato": "Ffab441aa6361",
+  "sistemas": {
+   "S3": 3,
+   "S4": 2
+  }
+ },
+ "254": {
+  "consulta": "Fd8f8705b0e2a",
+  "candidato": "Fa93e726c3b29",
+  "sistemas": {
+   "S1": 1,
+   "S3": 1,
+   "S4": 3
+  }
+ },
+ "255": {
+  "consulta": "Fd8f8705b0e2a",
+  "candidato": "F68f310692a6f",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "256": {
+  "consulta": "Fd8f8705b0e2a",
+  "candidato": "F9972c83e5013",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "257": {
+  "consulta": "Fd8f8705b0e2a",
+  "candidato": "F3bec07bac4c7",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "258": {
+  "consulta": "Fd8f8705b0e2a",
+  "candidato": "F88142050f47a",
+  "sistemas": {
+   "S1": 2,
+   "S2": 1,
+   "S3": 2,
+   "S4": 1
+  }
+ },
+ "259": {
+  "consulta": "Fd8f8705b0e2a",
+  "candidato": "F63fb96e97bac",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "260": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "Ff39377515e5a",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "261": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "Fdec7f92ead01",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "262": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "F01dec8714691",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "263": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "Fe55420a14053",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "264": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "F18c4217370f9",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "265": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "Fef893d92ae98",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "266": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "F500f82832a89",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "267": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "F43c8868c465c",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "268": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "F90119273555f",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "269": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "F3a1100191166",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "270": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "Fe96b310b6485",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "271": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "Fd0767e03c5ba",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "272": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "Fa88eaa98c2ef",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "273": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "F3e474f113677",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "274": {
+  "consulta": "Ff4c61b26d6c9",
+  "candidato": "F956202a64b56",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "275": {
+  "consulta": "F39cc0122eac6",
+  "candidato": "F0d9027d5c234",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "276": {
+  "consulta": "F39cc0122eac6",
+  "candidato": "F04eeabff4db7",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "277": {
+  "consulta": "F39cc0122eac6",
+  "candidato": "F7b3d3f28c194",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "278": {
+  "consulta": "F39cc0122eac6",
+  "candidato": "F6293c74b69ad",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "279": {
+  "consulta": "F39cc0122eac6",
+  "candidato": "F60752df3361e",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "280": {
+  "consulta": "F39cc0122eac6",
+  "candidato": "F005e7c1f2c99",
+  "sistemas": {
+   "S2": 2,
+   "S3": 1,
+   "S4": 1
+  }
+ },
+ "281": {
+  "consulta": "F39cc0122eac6",
+  "candidato": "Fa65a1320391c",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "282": {
+  "consulta": "F39cc0122eac6",
+  "candidato": "F50b7a5ea1ac7",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "283": {
+  "consulta": "F39cc0122eac6",
+  "candidato": "F13b3cf5eef91",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "284": {
+  "consulta": "F39cc0122eac6",
+  "candidato": "Fceb78c294818",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "285": {
+  "consulta": "F39cc0122eac6",
+  "candidato": "Fb8ea58c3366c",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "286": {
+  "consulta": "F39cc0122eac6",
+  "candidato": "Ff4ff9a2ffbf2",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "287": {
+  "consulta": "F39cc0122eac6",
+  "candidato": "Fd02a8d3fa266",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "288": {
+  "consulta": "F7b67ea679304",
+  "candidato": "F081384284e56",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "289": {
+  "consulta": "F7b67ea679304",
+  "candidato": "Fb4bd284c260a",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "290": {
+  "consulta": "F7b67ea679304",
+  "candidato": "F542b6c4c6ba5",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "291": {
+  "consulta": "F7b67ea679304",
+  "candidato": "F0af44ff18bda",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "292": {
+  "consulta": "F7b67ea679304",
+  "candidato": "F631c47fb7c29",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "293": {
+  "consulta": "F7b67ea679304",
+  "candidato": "F844e8cd2b2d8",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "294": {
+  "consulta": "F7b67ea679304",
+  "candidato": "F741c6b9046de",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "295": {
+  "consulta": "F7b67ea679304",
+  "candidato": "Fed0843bdf11b",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "296": {
+  "consulta": "F7b67ea679304",
+  "candidato": "F0f132bed3661",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "297": {
+  "consulta": "F7b67ea679304",
+  "candidato": "F1b2242a0252b",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "298": {
+  "consulta": "F7b67ea679304",
+  "candidato": "F0664bb3e4d73",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "299": {
+  "consulta": "F7b67ea679304",
+  "candidato": "Fa8863766e7fc",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "300": {
+  "consulta": "F7b67ea679304",
+  "candidato": "F7d3f14d7f19d",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "301": {
+  "consulta": "F7b67ea679304",
+  "candidato": "Fc298a1d87e9a",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "302": {
+  "consulta": "F7b67ea679304",
+  "candidato": "F8b0b291ffebb",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "303": {
+  "consulta": "F2711a7d58d18",
+  "candidato": "Fe2a8696b627e",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "304": {
+  "consulta": "F2711a7d58d18",
+  "candidato": "Feba8d098b042",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "305": {
+  "consulta": "F2711a7d58d18",
+  "candidato": "F0dfa46378c41",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "306": {
+  "consulta": "F2711a7d58d18",
+  "candidato": "F0a3b2d41dba2",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "307": {
+  "consulta": "F2711a7d58d18",
+  "candidato": "F98877e0625de",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "308": {
+  "consulta": "F2711a7d58d18",
+  "candidato": "Fd5530dee6a20",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "309": {
+  "consulta": "F2711a7d58d18",
+  "candidato": "F24ce5e371971",
+  "sistemas": {
+   "S1": 2,
+   "S3": 3
+  }
+ },
+ "310": {
+  "consulta": "F2711a7d58d18",
+  "candidato": "Fdfd1a42d34de",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "311": {
+  "consulta": "F2711a7d58d18",
+  "candidato": "Fe58645202bf5",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "312": {
+  "consulta": "F2711a7d58d18",
+  "candidato": "F3f353aee7a09",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "313": {
+  "consulta": "F2711a7d58d18",
+  "candidato": "F9a6786d999c3",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "314": {
+  "consulta": "F2711a7d58d18",
+  "candidato": "Fa4bd332ba5e8",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "315": {
+  "consulta": "F2711a7d58d18",
+  "candidato": "F3aca716ac67f",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "316": {
+  "consulta": "F2711a7d58d18",
+  "candidato": "F345dae3270f8",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "317": {
+  "consulta": "F1da1f6f37b24",
+  "candidato": "Fa7fd2a54c545",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "318": {
+  "consulta": "F1da1f6f37b24",
+  "candidato": "F802d85f2f935",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "319": {
+  "consulta": "F1da1f6f37b24",
+  "candidato": "F1b3db88565a7",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "320": {
+  "consulta": "F1da1f6f37b24",
+  "candidato": "Fd9b2b1580852",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "321": {
+  "consulta": "F1da1f6f37b24",
+  "candidato": "F6556632a66c5",
+  "sistemas": {
+   "S3": 3,
+   "S4": 1
+  }
+ },
+ "322": {
+  "consulta": "F1da1f6f37b24",
+  "candidato": "Faad82ac9f5fc",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "323": {
+  "consulta": "F1da1f6f37b24",
+  "candidato": "F6886cf5af0a2",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "324": {
+  "consulta": "F1da1f6f37b24",
+  "candidato": "F491f75e1e527",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "325": {
+  "consulta": "F1da1f6f37b24",
+  "candidato": "F680ec2005072",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "326": {
+  "consulta": "F1da1f6f37b24",
+  "candidato": "Fa586bb5b6356",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "327": {
+  "consulta": "F1da1f6f37b24",
+  "candidato": "F63302ce2bab7",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "328": {
+  "consulta": "F1da1f6f37b24",
+  "candidato": "Fa7e39258404c",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "329": {
+  "consulta": "F1da1f6f37b24",
+  "candidato": "F8924657324d2",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "330": {
+  "consulta": "F1da1f6f37b24",
+  "candidato": "Fc71e61598926",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "331": {
+  "consulta": "F83dde4922b33",
+  "candidato": "F90119273555f",
+  "sistemas": {
+   "S3": 2,
+   "S4": 1
+  }
+ },
+ "332": {
+  "consulta": "F83dde4922b33",
+  "candidato": "Fa37216848e01",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "333": {
+  "consulta": "F83dde4922b33",
+  "candidato": "Fcacd5c713fd7",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "334": {
+  "consulta": "F83dde4922b33",
+  "candidato": "F62ad3363a4d3",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "335": {
+  "consulta": "F83dde4922b33",
+  "candidato": "Fc48ac12a2d77",
+  "sistemas": {
+   "S1": 1,
+   "S2": 3,
+   "S4": 2
+  }
+ },
+ "336": {
+  "consulta": "F83dde4922b33",
+  "candidato": "Fa625aa41b219",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "337": {
+  "consulta": "F83dde4922b33",
+  "candidato": "F57e728b25d16",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "338": {
+  "consulta": "F83dde4922b33",
+  "candidato": "Fcfeb88752960",
+  "sistemas": {
+   "S1": 2,
+   "S2": 2
+  }
+ },
+ "339": {
+  "consulta": "F83dde4922b33",
+  "candidato": "Ffe4f3965a39b",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "340": {
+  "consulta": "F83dde4922b33",
+  "candidato": "F1291077f2449",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "341": {
+  "consulta": "F83dde4922b33",
+  "candidato": "F2652485bceea",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "342": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "Faa38cd305726",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "343": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "F2fc5cef37275",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "344": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "F63302ce2bab7",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "345": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "F13261077617c",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "346": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "Fe2689d136526",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "347": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "F302c0946803e",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "348": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "F14db51809da7",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "349": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "F808018674860",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "350": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "F5008dd5e622f",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "351": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "F6c6406f9a4d7",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "352": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "F012aa99a8c2f",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "353": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "Fcafd6cf3b5e5",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "354": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "F19cdb522f147",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "355": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "Ffb219bd02742",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "356": {
+  "consulta": "Fbfe37febd527",
+  "candidato": "F26fd8855f324",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "357": {
+  "consulta": "Fe46c518eb593",
+  "candidato": "F5637ad144597",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "358": {
+  "consulta": "Fe46c518eb593",
+  "candidato": "F61d6d281ba53",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "359": {
+  "consulta": "Fe46c518eb593",
+  "candidato": "F5aae1a858f19",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "360": {
+  "consulta": "Fe46c518eb593",
+  "candidato": "F798a9aa0c123",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "361": {
+  "consulta": "Fe46c518eb593",
+  "candidato": "Fc80827ee86f7",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "362": {
+  "consulta": "Fe46c518eb593",
+  "candidato": "F2d4b28548ab6",
+  "sistemas": {
+   "S3": 1,
+   "S4": 1
+  }
+ },
+ "363": {
+  "consulta": "Fe46c518eb593",
+  "candidato": "F87293ae8df3d",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "364": {
+  "consulta": "Fe46c518eb593",
+  "candidato": "Ff6e58e05c18f",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "365": {
+  "consulta": "Fe46c518eb593",
+  "candidato": "Fc8b5c244ea2b",
+  "sistemas": {
+   "S3": 3,
+   "S4": 2
+  }
+ },
+ "366": {
+  "consulta": "Fe46c518eb593",
+  "candidato": "Fe88f2be69f46",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "367": {
+  "consulta": "Fe46c518eb593",
+  "candidato": "Fb510e0adbe93",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "368": {
+  "consulta": "Fe46c518eb593",
+  "candidato": "Fe20ae34d00be",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "369": {
+  "consulta": "Fe46c518eb593",
+  "candidato": "Fb1e8910f9524",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "370": {
+  "consulta": "F27eb89c86463",
+  "candidato": "Faa84198e6a76",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "371": {
+  "consulta": "F27eb89c86463",
+  "candidato": "Fd480c88b0760",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "372": {
+  "consulta": "F27eb89c86463",
+  "candidato": "F0b6ba077adfa",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "373": {
+  "consulta": "F27eb89c86463",
+  "candidato": "F5267e757af52",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "374": {
+  "consulta": "F27eb89c86463",
+  "candidato": "F1809b7f2e039",
+  "sistemas": {
+   "S1": 2,
+   "S3": 1,
+   "S4": 2
+  }
+ },
+ "375": {
+  "consulta": "F27eb89c86463",
+  "candidato": "F1a1cefa2cd8f",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "376": {
+  "consulta": "F27eb89c86463",
+  "candidato": "F51633789c4f1",
+  "sistemas": {
+   "S1": 1,
+   "S2": 3
+  }
+ },
+ "377": {
+  "consulta": "F27eb89c86463",
+  "candidato": "F26677d1afb7e",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "378": {
+  "consulta": "F27eb89c86463",
+  "candidato": "Fd8a3d856f0df",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "379": {
+  "consulta": "F27eb89c86463",
+  "candidato": "F1c1e30855214",
+  "sistemas": {
+   "S3": 3,
+   "S4": 1
+  }
+ },
+ "380": {
+  "consulta": "F27eb89c86463",
+  "candidato": "F57d49b5aa951",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "381": {
+  "consulta": "F8e1287bbb8d0",
+  "candidato": "F2b40e9bd0628",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "382": {
+  "consulta": "F8e1287bbb8d0",
+  "candidato": "Fec05b2c9e9b3",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "383": {
+  "consulta": "F8e1287bbb8d0",
+  "candidato": "Fb1d054d32bfd",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "384": {
+  "consulta": "F8e1287bbb8d0",
+  "candidato": "F2ccf55707255",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "385": {
+  "consulta": "F8e1287bbb8d0",
+  "candidato": "F1181a0c374af",
+  "sistemas": {
+   "S1": 1,
+   "S3": 1,
+   "S4": 2
+  }
+ },
+ "386": {
+  "consulta": "F8e1287bbb8d0",
+  "candidato": "Ff885f115bc03",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "387": {
+  "consulta": "F8e1287bbb8d0",
+  "candidato": "Ffae13daa97cc",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "388": {
+  "consulta": "F8e1287bbb8d0",
+  "candidato": "F9da5dd6a2fee",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "389": {
+  "consulta": "F8e1287bbb8d0",
+  "candidato": "F922229805fe3",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "390": {
+  "consulta": "F8e1287bbb8d0",
+  "candidato": "Fc6f40aee6fa7",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "391": {
+  "consulta": "F8e1287bbb8d0",
+  "candidato": "Ffa5a3535814c",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "392": {
+  "consulta": "F8e1287bbb8d0",
+  "candidato": "F82e1d4913950",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "393": {
+  "consulta": "F8e1287bbb8d0",
+  "candidato": "Fe785a0761082",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "394": {
+  "consulta": "Fb0d1686d6b11",
+  "candidato": "Fa981d09f93b1",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "395": {
+  "consulta": "Fb0d1686d6b11",
+  "candidato": "Fdf4c69dfd7cd",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "396": {
+  "consulta": "Fb0d1686d6b11",
+  "candidato": "Fd87be3c9c18f",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "397": {
+  "consulta": "Fb0d1686d6b11",
+  "candidato": "F1c5ac0a90202",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "398": {
+  "consulta": "Fb0d1686d6b11",
+  "candidato": "F953cda4a805a",
+  "sistemas": {
+   "S3": 1,
+   "S4": 1
+  }
+ },
+ "399": {
+  "consulta": "Fb0d1686d6b11",
+  "candidato": "F9d2e57849f12",
+  "sistemas": {
+   "S1": 3,
+   "S2": 3
+  }
+ },
+ "400": {
+  "consulta": "Fb0d1686d6b11",
+  "candidato": "Fe2cffe9a26c5",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "401": {
+  "consulta": "Fb0d1686d6b11",
+  "candidato": "Ffaf45d62f7a3",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "402": {
+  "consulta": "Fb0d1686d6b11",
+  "candidato": "Fbce94688195e",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "403": {
+  "consulta": "Fb0d1686d6b11",
+  "candidato": "Fd0aa0d75ae51",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "404": {
+  "consulta": "Fb0d1686d6b11",
+  "candidato": "Fdcf98f7c93f9",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "405": {
+  "consulta": "Fb0d1686d6b11",
+  "candidato": "Fb20b53fa345a",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "406": {
+  "consulta": "Fb0d1686d6b11",
+  "candidato": "F6ad6e01cc808",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "407": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "F928e5f6d2ffa",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "408": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "F8710d421254b",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "409": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "F3f984334fc08",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "410": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "Fd3d335e694a7",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "411": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "Fc71e61598926",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "412": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "F6ab58c127aec",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "413": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "F5fa83d645fa4",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "414": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "F243de8447a12",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "415": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "F1e9c22d9ca71",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "416": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "F5d4558dda6e9",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "417": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "F3e818bcc43f7",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "418": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "F803a617b665c",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "419": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "Ffa952e1ede6c",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "420": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "F60353c4b0c52",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "421": {
+  "consulta": "F7daf52de9df0",
+  "candidato": "Fa55f4b3f1c7e",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "422": {
+  "consulta": "Ff90179693901",
+  "candidato": "F0febfac999ca",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "423": {
+  "consulta": "Ff90179693901",
+  "candidato": "F6550e112b07b",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "424": {
+  "consulta": "Ff90179693901",
+  "candidato": "Ffbb09664e756",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "425": {
+  "consulta": "Ff90179693901",
+  "candidato": "Fe321a6ab3e75",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "426": {
+  "consulta": "Ff90179693901",
+  "candidato": "F356800e0900f",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "427": {
+  "consulta": "Ff90179693901",
+  "candidato": "F2250a85c5c8e",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "428": {
+  "consulta": "Ff90179693901",
+  "candidato": "F28426c9f2d29",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "429": {
+  "consulta": "Ff90179693901",
+  "candidato": "F53c68af356a5",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "430": {
+  "consulta": "Ff90179693901",
+  "candidato": "F6c72992448ab",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "431": {
+  "consulta": "Ff90179693901",
+  "candidato": "Ff97bb520268c",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "432": {
+  "consulta": "Ff90179693901",
+  "candidato": "Fd258e4901747",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "433": {
+  "consulta": "Ff90179693901",
+  "candidato": "Fcbc2d31eb12c",
+  "sistemas": {
+   "S2": 1,
+   "S4": 3
+  }
+ },
+ "434": {
+  "consulta": "Ff90179693901",
+  "candidato": "F73b5d24ed2e8",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "435": {
+  "consulta": "Ff90179693901",
+  "candidato": "Fdbccaf57ff99",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "436": {
+  "consulta": "F512347f46956",
+  "candidato": "F8045af1fecd2",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "437": {
+  "consulta": "F512347f46956",
+  "candidato": "F874d3a7b07ef",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "438": {
+  "consulta": "F512347f46956",
+  "candidato": "F6c332628abb3",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "439": {
+  "consulta": "F512347f46956",
+  "candidato": "F0b0422d52bd0",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "440": {
+  "consulta": "F512347f46956",
+  "candidato": "F41f76f106ddf",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "441": {
+  "consulta": "F512347f46956",
+  "candidato": "F0491d2a57b15",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "442": {
+  "consulta": "F512347f46956",
+  "candidato": "Fa7db1b2a458f",
+  "sistemas": {
+   "S3": 1,
+   "S4": 3
+  }
+ },
+ "443": {
+  "consulta": "F512347f46956",
+  "candidato": "Fcd6ad2efcd2b",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "444": {
+  "consulta": "F512347f46956",
+  "candidato": "F42c4be6ce174",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "445": {
+  "consulta": "F512347f46956",
+  "candidato": "Fb25cc208a387",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "446": {
+  "consulta": "F512347f46956",
+  "candidato": "F51d8b175a432",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "447": {
+  "consulta": "F512347f46956",
+  "candidato": "Fa0ded6e6d67d",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "448": {
+  "consulta": "F512347f46956",
+  "candidato": "F43cc35cd1472",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "449": {
+  "consulta": "F512347f46956",
+  "candidato": "Fecff7591d505",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "450": {
+  "consulta": "Fe0b4e7a239a7",
+  "candidato": "Fbc26b6c3d7d4",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "451": {
+  "consulta": "Fe0b4e7a239a7",
+  "candidato": "Fbe54dc392e8b",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "452": {
+  "consulta": "Fe0b4e7a239a7",
+  "candidato": "Fff59bb54efa5",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "453": {
+  "consulta": "Fe0b4e7a239a7",
+  "candidato": "F9e9961762229",
+  "sistemas": {
+   "S1": 3,
+   "S3": 3
+  }
+ },
+ "454": {
+  "consulta": "Fe0b4e7a239a7",
+  "candidato": "Fb9ecde1a0efd",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "455": {
+  "consulta": "Fe0b4e7a239a7",
+  "candidato": "Fb740a87b3ea6",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "456": {
+  "consulta": "Fe0b4e7a239a7",
+  "candidato": "F26f394f82d78",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "457": {
+  "consulta": "Fe0b4e7a239a7",
+  "candidato": "F93b99e7bb25e",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "458": {
+  "consulta": "Fe0b4e7a239a7",
+  "candidato": "F9ba0169dd283",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "459": {
+  "consulta": "Fe0b4e7a239a7",
+  "candidato": "Fe3773790528c",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "460": {
+  "consulta": "Fe0b4e7a239a7",
+  "candidato": "F5f881b16102f",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "461": {
+  "consulta": "Fe0b4e7a239a7",
+  "candidato": "F50b7a5ea1ac7",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "462": {
+  "consulta": "Fe0b4e7a239a7",
+  "candidato": "Fcc154beaaa81",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "463": {
+  "consulta": "Fe0b4e7a239a7",
+  "candidato": "Fb43783331dff",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "464": {
+  "consulta": "Fc11a2f49c8e8",
+  "candidato": "F839608c2b63b",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "465": {
+  "consulta": "Fc11a2f49c8e8",
+  "candidato": "F5466800793d1",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "466": {
+  "consulta": "Fc11a2f49c8e8",
+  "candidato": "F2eb7817d9594",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "467": {
+  "consulta": "Fc11a2f49c8e8",
+  "candidato": "F30e1978a2bac",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "468": {
+  "consulta": "Fc11a2f49c8e8",
+  "candidato": "F07d5cab221de",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "469": {
+  "consulta": "Fc11a2f49c8e8",
+  "candidato": "F351de3fc907c",
+  "sistemas": {
+   "S1": 1,
+   "S2": 1,
+   "S4": 1
+  }
+ },
+ "470": {
+  "consulta": "Fc11a2f49c8e8",
+  "candidato": "F8d5b0c44cf03",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "471": {
+  "consulta": "Fc11a2f49c8e8",
+  "candidato": "F926580e0b653",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "472": {
+  "consulta": "Fc11a2f49c8e8",
+  "candidato": "Fa3cccbec31df",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "473": {
+  "consulta": "Fc11a2f49c8e8",
+  "candidato": "Fc7b164b7aed5",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "474": {
+  "consulta": "Fc11a2f49c8e8",
+  "candidato": "Fa43a5d7b56c0",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "475": {
+  "consulta": "Fc11a2f49c8e8",
+  "candidato": "F847cec509ca5",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "476": {
+  "consulta": "Fc11a2f49c8e8",
+  "candidato": "F01912321f074",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "477": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "Fa666df746bee",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "478": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "F3d10f4805231",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "479": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "F8dc58f2ab468",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "480": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "Fb18684f6f0ea",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "481": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "Fdcdcd58d1c3d",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "482": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "Fb360531d8205",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "483": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "Fd90c83ec2185",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "484": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "Fd1871b8c5d0a",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "485": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "F227af11ec431",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "486": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "Fb38f7de1d9ce",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "487": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "F3efedbc88715",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "488": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "F145331f8944b",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "489": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "F562d881e20d4",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "490": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "Ffbb3cc459491",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "491": {
+  "consulta": "Fb3f09ac48173",
+  "candidato": "F08a3ae5d1d97",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "492": {
+  "consulta": "Fd39cf0715c62",
+  "candidato": "F5141704453b2",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "493": {
+  "consulta": "Fd39cf0715c62",
+  "candidato": "F1db2913361fe",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "494": {
+  "consulta": "Fd39cf0715c62",
+  "candidato": "Fb21f8ac51f4a",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "495": {
+  "consulta": "Fd39cf0715c62",
+  "candidato": "F8dc644f6ef78",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "496": {
+  "consulta": "Fd39cf0715c62",
+  "candidato": "F8e3d89a7b376",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "497": {
+  "consulta": "Fd39cf0715c62",
+  "candidato": "F391e4d377ece",
+  "sistemas": {
+   "S1": 1,
+   "S2": 1
+  }
+ },
+ "498": {
+  "consulta": "Fd39cf0715c62",
+  "candidato": "F37f15424eeb3",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "499": {
+  "consulta": "Fd39cf0715c62",
+  "candidato": "F5bb4ec06e92b",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "500": {
+  "consulta": "Fd39cf0715c62",
+  "candidato": "F0041e7afa0b5",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "501": {
+  "consulta": "Fd39cf0715c62",
+  "candidato": "F3e5e427c53c3",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "502": {
+  "consulta": "Fd39cf0715c62",
+  "candidato": "F11c756ae4387",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "503": {
+  "consulta": "Fd39cf0715c62",
+  "candidato": "F4c28341ebdd7",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "504": {
+  "consulta": "Fd39cf0715c62",
+  "candidato": "F61eb50be69fb",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "505": {
+  "consulta": "Fd39cf0715c62",
+  "candidato": "F8f4a93984033",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "506": {
+  "consulta": "F676f78aa7f2b",
+  "candidato": "F15e328493391",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "507": {
+  "consulta": "F676f78aa7f2b",
+  "candidato": "F1181a0c374af",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "508": {
+  "consulta": "F676f78aa7f2b",
+  "candidato": "F6bac42f472a3",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "509": {
+  "consulta": "F676f78aa7f2b",
+  "candidato": "Fb25cc208a387",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "510": {
+  "consulta": "F676f78aa7f2b",
+  "candidato": "F3b0929600506",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "511": {
+  "consulta": "F676f78aa7f2b",
+  "candidato": "F6884f4f23834",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "512": {
+  "consulta": "F676f78aa7f2b",
+  "candidato": "F3b3a6f0bb7aa",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "513": {
+  "consulta": "F676f78aa7f2b",
+  "candidato": "F82e1d4913950",
+  "sistemas": {
+   "S3": 1,
+   "S4": 2
+  }
+ },
+ "514": {
+  "consulta": "F676f78aa7f2b",
+  "candidato": "F276250d7830f",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "515": {
+  "consulta": "F676f78aa7f2b",
+  "candidato": "Ffb9b6f66838b",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "516": {
+  "consulta": "F676f78aa7f2b",
+  "candidato": "F314a310bd361",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "517": {
+  "consulta": "F676f78aa7f2b",
+  "candidato": "F27b348d9aacc",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "518": {
+  "consulta": "F676f78aa7f2b",
+  "candidato": "F7c400c6e00f4",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "519": {
+  "consulta": "F676f78aa7f2b",
+  "candidato": "Fbf9b51e58782",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "520": {
+  "consulta": "F1960ff21a4c1",
+  "candidato": "F36ff64cc2eb5",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "521": {
+  "consulta": "F1960ff21a4c1",
+  "candidato": "F67a344efceb6",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "522": {
+  "consulta": "F1960ff21a4c1",
+  "candidato": "F9f9d8d927f17",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "523": {
+  "consulta": "F1960ff21a4c1",
+  "candidato": "F4576ec908218",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "524": {
+  "consulta": "F1960ff21a4c1",
+  "candidato": "Fb271a0242776",
+  "sistemas": {
+   "S3": 3,
+   "S4": 3
+  }
+ },
+ "525": {
+  "consulta": "F1960ff21a4c1",
+  "candidato": "Fa8482c4cbd50",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "526": {
+  "consulta": "F1960ff21a4c1",
+  "candidato": "F51ea9248781c",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "527": {
+  "consulta": "F1960ff21a4c1",
+  "candidato": "Fd5a9a64acde8",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "528": {
+  "consulta": "F1960ff21a4c1",
+  "candidato": "F874d3a7b07ef",
+  "sistemas": {
+   "S3": 1,
+   "S4": 1
+  }
+ },
+ "529": {
+  "consulta": "F1960ff21a4c1",
+  "candidato": "F23cce45d0804",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "530": {
+  "consulta": "F1960ff21a4c1",
+  "candidato": "F8b1b68086597",
+  "sistemas": {
+   "S1": 1,
+   "S2": 3
+  }
+ },
+ "531": {
+  "consulta": "F1960ff21a4c1",
+  "candidato": "F6e693eaa02c4",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "532": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "F6180ef290c2a",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "533": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "F95b48ed168e7",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "534": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "F3fc19722f914",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "535": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "Fb6074cad7dc5",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "536": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "F3531f949ff5e",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "537": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "F3fdf83e178c2",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "538": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "F7e4845eb9c5e",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "539": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "F95ab98428190",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "540": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "F56d24cc71648",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "541": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "F544e1b43442d",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "542": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "F57a91918940c",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "543": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "Fbbe34804cc39",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "544": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "F851fe7180bcd",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "545": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "Fbadf5ffe25e2",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "546": {
+  "consulta": "Fdefcfd7bc884",
+  "candidato": "F56172d057d55",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "547": {
+  "consulta": "F057a147f46d2",
+  "candidato": "Ff3567349cc68",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "548": {
+  "consulta": "F057a147f46d2",
+  "candidato": "F74a383f1f866",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "549": {
+  "consulta": "F057a147f46d2",
+  "candidato": "Ff2fb28a09b5e",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "550": {
+  "consulta": "F057a147f46d2",
+  "candidato": "F61b1a40de0b1",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "551": {
+  "consulta": "F057a147f46d2",
+  "candidato": "Fc7279ffb3d0c",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "552": {
+  "consulta": "F057a147f46d2",
+  "candidato": "F60e3bf2a6069",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "553": {
+  "consulta": "F057a147f46d2",
+  "candidato": "F5801db77b856",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "554": {
+  "consulta": "F057a147f46d2",
+  "candidato": "Fe5851adf9e89",
+  "sistemas": {
+   "S2": 2,
+   "S4": 3
+  }
+ },
+ "555": {
+  "consulta": "F057a147f46d2",
+  "candidato": "F3bcf54ff5ae9",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "556": {
+  "consulta": "F057a147f46d2",
+  "candidato": "Fc0edff438a6c",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "557": {
+  "consulta": "F057a147f46d2",
+  "candidato": "Fbdf674da4848",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "558": {
+  "consulta": "F057a147f46d2",
+  "candidato": "F0cc1eb0302a3",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "559": {
+  "consulta": "F057a147f46d2",
+  "candidato": "F9a3cb6443d74",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "560": {
+  "consulta": "F057a147f46d2",
+  "candidato": "F5ab6e44d9204",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "561": {
+  "consulta": "F24201d22b17f",
+  "candidato": "F66dbdcbc11d8",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "562": {
+  "consulta": "F24201d22b17f",
+  "candidato": "F5d576b6a0cb9",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "563": {
+  "consulta": "F24201d22b17f",
+  "candidato": "F61ee07d2efae",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "564": {
+  "consulta": "F24201d22b17f",
+  "candidato": "F869b776a832a",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "565": {
+  "consulta": "F24201d22b17f",
+  "candidato": "F8c11f903fd0b",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "566": {
+  "consulta": "F24201d22b17f",
+  "candidato": "Fd2bd2cf87bf4",
+  "sistemas": {
+   "S1": 1,
+   "S2": 1
+  }
+ },
+ "567": {
+  "consulta": "F24201d22b17f",
+  "candidato": "F2ade7d74dd1f",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "568": {
+  "consulta": "F24201d22b17f",
+  "candidato": "F80ccc95b313e",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "569": {
+  "consulta": "F24201d22b17f",
+  "candidato": "Ff3ed64731f6d",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "570": {
+  "consulta": "F24201d22b17f",
+  "candidato": "Fd33c8d8726bc",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "571": {
+  "consulta": "F24201d22b17f",
+  "candidato": "F8f8c7ecb19c2",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "572": {
+  "consulta": "F24201d22b17f",
+  "candidato": "Feab14a0ca484",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "573": {
+  "consulta": "F24201d22b17f",
+  "candidato": "F32c193992714",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "574": {
+  "consulta": "F24201d22b17f",
+  "candidato": "F8b1fba5b04ed",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "575": {
+  "consulta": "Fa20441b884b4",
+  "candidato": "F810310b31a82",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "576": {
+  "consulta": "Fa20441b884b4",
+  "candidato": "F92c5f5b0303a",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "577": {
+  "consulta": "Fa20441b884b4",
+  "candidato": "Fd825ac602b8f",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "578": {
+  "consulta": "Fa20441b884b4",
+  "candidato": "Fd9a8db123347",
+  "sistemas": {
+   "S1": 2,
+   "S2": 1
+  }
+ },
+ "579": {
+  "consulta": "Fa20441b884b4",
+  "candidato": "Ffc70cfb8d335",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "580": {
+  "consulta": "Fa20441b884b4",
+  "candidato": "F55ae772ec972",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "581": {
+  "consulta": "Fa20441b884b4",
+  "candidato": "F0dcdcf96757a",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "582": {
+  "consulta": "Fa20441b884b4",
+  "candidato": "F1655f84b7743",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "583": {
+  "consulta": "Fa20441b884b4",
+  "candidato": "Fe46f7eb40bbf",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "584": {
+  "consulta": "Fa20441b884b4",
+  "candidato": "F3336b301471b",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "585": {
+  "consulta": "Fa20441b884b4",
+  "candidato": "F84203d418ead",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "586": {
+  "consulta": "Fa20441b884b4",
+  "candidato": "Fe2fa6b05d25c",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "587": {
+  "consulta": "Fa20441b884b4",
+  "candidato": "F3e474f113677",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "588": {
+  "consulta": "Fa20441b884b4",
+  "candidato": "Fa73eaf3a3191",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "589": {
+  "consulta": "Ffeacd96c7565",
+  "candidato": "F27dca5d269d7",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "590": {
+  "consulta": "Ffeacd96c7565",
+  "candidato": "F757b33df79b6",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "591": {
+  "consulta": "Ffeacd96c7565",
+  "candidato": "F638ba30889e6",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "592": {
+  "consulta": "Ffeacd96c7565",
+  "candidato": "F50d5af06a3ee",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "593": {
+  "consulta": "Ffeacd96c7565",
+  "candidato": "F5488892a231b",
+  "sistemas": {
+   "S1": 2,
+   "S2": 3,
+   "S3": 1
+  }
+ },
+ "594": {
+  "consulta": "Ffeacd96c7565",
+  "candidato": "F6098d9310b82",
+  "sistemas": {
+   "S1": 1,
+   "S2": 1,
+   "S4": 1
+  }
+ },
+ "595": {
+  "consulta": "Ffeacd96c7565",
+  "candidato": "F6236db43adb8",
+  "sistemas": {
+   "S1": 3,
+   "S2": 2,
+   "S4": 3
+  }
+ },
+ "596": {
+  "consulta": "Ffeacd96c7565",
+  "candidato": "Fd195af53e2f0",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "597": {
+  "consulta": "Ffeacd96c7565",
+  "candidato": "F5bf2d23ba93e",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "598": {
+  "consulta": "F00cdebc297b0",
+  "candidato": "Fdfc37270ac62",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "599": {
+  "consulta": "F00cdebc297b0",
+  "candidato": "Fe2cf278dbae2",
+  "sistemas": {
+   "S1": 1,
+   "S3": 2
+  }
+ },
+ "600": {
+  "consulta": "F00cdebc297b0",
+  "candidato": "Fb1cba3ceea74",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "601": {
+  "consulta": "F00cdebc297b0",
+  "candidato": "Fa6d708b3ce17",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "602": {
+  "consulta": "F00cdebc297b0",
+  "candidato": "F43e28167c705",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "603": {
+  "consulta": "F00cdebc297b0",
+  "candidato": "F6672a39cc776",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "604": {
+  "consulta": "F00cdebc297b0",
+  "candidato": "Fb886f163559a",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "605": {
+  "consulta": "F00cdebc297b0",
+  "candidato": "F0b1862b414f9",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "606": {
+  "consulta": "F00cdebc297b0",
+  "candidato": "Fed4507dcdf04",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "607": {
+  "consulta": "F00cdebc297b0",
+  "candidato": "F39a93f7b771d",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "608": {
+  "consulta": "F00cdebc297b0",
+  "candidato": "F454b106ac0f3",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "609": {
+  "consulta": "F00cdebc297b0",
+  "candidato": "Fbe7c61ca9c05",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "610": {
+  "consulta": "F00cdebc297b0",
+  "candidato": "Fd47f1894f9ff",
+  "sistemas": {
+   "S3": 1,
+   "S4": 1
+  }
+ },
+ "611": {
+  "consulta": "Ff9210c9c49e6",
+  "candidato": "F04b6ab397a8f",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "612": {
+  "consulta": "Ff9210c9c49e6",
+  "candidato": "F44b37fd6b856",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "613": {
+  "consulta": "Ff9210c9c49e6",
+  "candidato": "Fad6e951ac3e0",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "614": {
+  "consulta": "Ff9210c9c49e6",
+  "candidato": "Fd33c8d8726bc",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "615": {
+  "consulta": "Ff9210c9c49e6",
+  "candidato": "Fdf119e704c03",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "616": {
+  "consulta": "Ff9210c9c49e6",
+  "candidato": "Fe4cae3543038",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "617": {
+  "consulta": "Ff9210c9c49e6",
+  "candidato": "Fa11210366206",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "618": {
+  "consulta": "Ff9210c9c49e6",
+  "candidato": "F02bffb768bab",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "619": {
+  "consulta": "Ff9210c9c49e6",
+  "candidato": "F7560a6616ea3",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "620": {
+  "consulta": "Ff9210c9c49e6",
+  "candidato": "F53c7eff7bbee",
+  "sistemas": {
+   "S3": 2,
+   "S4": 1
+  }
+ },
+ "621": {
+  "consulta": "Ff9210c9c49e6",
+  "candidato": "Fd333e24c66bf",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "622": {
+  "consulta": "Ff9210c9c49e6",
+  "candidato": "F4a4525115678",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "623": {
+  "consulta": "Ff9210c9c49e6",
+  "candidato": "Ffbea2f3602f7",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "624": {
+  "consulta": "Ff9210c9c49e6",
+  "candidato": "F2f19193319a8",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "625": {
+  "consulta": "Fc7a8c9404bd9",
+  "candidato": "Fa3bdee44dbb1",
+  "sistemas": {
+   "S3": 3,
+   "S4": 1
+  }
+ },
+ "626": {
+  "consulta": "Fc7a8c9404bd9",
+  "candidato": "F0ac5ab911fb5",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "627": {
+  "consulta": "Fc7a8c9404bd9",
+  "candidato": "F0b27b5cf266e",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "628": {
+  "consulta": "Fc7a8c9404bd9",
+  "candidato": "F412c3e4d2881",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "629": {
+  "consulta": "Fc7a8c9404bd9",
+  "candidato": "F7b1650a88020",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "630": {
+  "consulta": "Fc7a8c9404bd9",
+  "candidato": "F783ad1578837",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "631": {
+  "consulta": "Fc7a8c9404bd9",
+  "candidato": "F90260e7220af",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "632": {
+  "consulta": "Fc7a8c9404bd9",
+  "candidato": "F86dbac517caa",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "633": {
+  "consulta": "Fc7a8c9404bd9",
+  "candidato": "Fc748dbc5d96b",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "634": {
+  "consulta": "Fc7a8c9404bd9",
+  "candidato": "F6cee13864af3",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "635": {
+  "consulta": "Fc7a8c9404bd9",
+  "candidato": "F034295b8b5e4",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "636": {
+  "consulta": "Fc7a8c9404bd9",
+  "candidato": "F7af7fcdf0c8d",
+  "sistemas": {
+   "S1": 2,
+   "S2": 1
+  }
+ },
+ "637": {
+  "consulta": "Fc7a8c9404bd9",
+  "candidato": "F356800e0900f",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "638": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "Ff6f884214acd",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "639": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "F6099523069d4",
+  "sistemas": {
+   "S0": 3
+  }
+ },
+ "640": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "Ff9c2f181eb9f",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "641": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "F6b51e60e40b1",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "642": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "F0f6d8ea15b81",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "643": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "Fc0e962a745ac",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "644": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "Fed40c154cc27",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "645": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "Fdd708dc0df0f",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "646": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "F58a0d79d3cce",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "647": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "F0093d6dda302",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "648": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "Faae2f832c18a",
+  "sistemas": {
+   "S1": 1
+  }
+ },
+ "649": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "Ff39377515e5a",
+  "sistemas": {
+   "S4": 2
+  }
+ },
+ "650": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "F4e1b4d6c2181",
+  "sistemas": {
+   "S2": 1
+  }
+ },
+ "651": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "F98a0d859e214",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "652": {
+  "consulta": "F84b7b8bcbb27",
+  "candidato": "F206078e1db9d",
+  "sistemas": {
+   "S3": 3
+  }
+ },
+ "653": {
+  "consulta": "F6228c7d0e77f",
+  "candidato": "F081c7b3e1d6b",
+  "sistemas": {
+   "S3": 2
+  }
+ },
+ "654": {
+  "consulta": "F6228c7d0e77f",
+  "candidato": "F8e3018814ec4",
+  "sistemas": {
+   "S3": 3,
+   "S4": 2
+  }
+ },
+ "655": {
+  "consulta": "F6228c7d0e77f",
+  "candidato": "F94acbb57fe69",
+  "sistemas": {
+   "S2": 3
+  }
+ },
+ "656": {
+  "consulta": "F6228c7d0e77f",
+  "candidato": "F7cf54b7785d8",
+  "sistemas": {
+   "S1": 3
+  }
+ },
+ "657": {
+  "consulta": "F6228c7d0e77f",
+  "candidato": "F12cd1ebd9e2e",
+  "sistemas": {
+   "S2": 2
+  }
+ },
+ "658": {
+  "consulta": "F6228c7d0e77f",
+  "candidato": "Fdeb4886d3452",
+  "sistemas": {
+   "S0": 2
+  }
+ },
+ "659": {
+  "consulta": "F6228c7d0e77f",
+  "candidato": "Face6625c8461",
+  "sistemas": {
+   "S1": 1,
+   "S2": 1
+  }
+ },
+ "660": {
+  "consulta": "F6228c7d0e77f",
+  "candidato": "Fb4be8e4f17ce",
+  "sistemas": {
+   "S0": 1
+  }
+ },
+ "661": {
+  "consulta": "F6228c7d0e77f",
+  "candidato": "Fce5711ce8e22",
+  "sistemas": {
+   "S4": 3
+  }
+ },
+ "662": {
+  "consulta": "F6228c7d0e77f",
+  "candidato": "F13528337875b",
+  "sistemas": {
+   "S1": 2
+  }
+ },
+ "663": {
+  "consulta": "F6228c7d0e77f",
+  "candidato": "F8f95f28931da",
+  "sistemas": {
+   "S4": 1
+  }
+ },
+ "664": {
+  "consulta": "F6228c7d0e77f",
+  "candidato": "Fb1c7a476c085",
+  "sistemas": {
+   "S3": 1
+  }
+ },
+ "665": {
+  "consulta": "F6228c7d0e77f",
+  "candidato": "F289aa8d75ae3",
+  "sistemas": {
+   "S0": 3
+  }
+ }
+}

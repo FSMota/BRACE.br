@@ -1,0 +1,394 @@
+[
+  {
+    "portal": "G1 Fato ou Fake",
+    "listagem": "https://g1.globo.com/fato-ou-fake/",
+    "diagnostico": null,
+    "artigos": [
+      {
+        "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/11/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-eduardo-paes-a-o-globo-extra-valor-e-cbn.ghtml",
+        "titulo": "Veja o que é #FATO e o que é #FAKE na entrevista de Eduardo Paes a 'O Globo', 'Extra', 'Valor' e CBN",
+        "veredito": "MISTO",
+        "confianca": 2,
+        "blockquotes": 9,
+        "transcreve": true
+      },
+      {
+        "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/11/veja-o-que-e-fato-e-o-que-e-fake-no-debate-de-candidatos-ao-senado-pelo-distrito-federal-no-g1.ghtml",
+        "titulo": "Veja o que é #FATO e o que é #FAKE no debate de candidatos ao Senado pelo Distrito Federal no g1",
+        "veredito": "MISTO",
+        "confianca": 2,
+        "blockquotes": 11,
+        "transcreve": true
+      },
+      {
+        "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/09/11/e-fake-e-mail-que-simula-notificacao-de-fiscalizacao-do-inmetro-com-ameacas-e-multa-de-r-15-milhao.ghtml",
+        "titulo": "É #FAKE e-mail que simula notificação de fiscalização do Inmetro com ameaças e multa de R$ 1,5 milhão",
+        "veredito": "FALSO",
+        "confianca": 2,
+        "blockquotes": 2,
+        "transcreve": true
+      },
+      {
+        "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/09/11/fato-ou-fake-veja-como-enviar-sugestoes-participar-do-canal-no-whatsapp-e-seguir-nas-redes-sociais.ghtml",
+        "titulo": "Fato ou Fake: veja como enviar sugestões, participar do canal no WhatsApp e seguir nas redes sociais",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/10/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-anthony-garotinho-a-o-globo-extra-valor-e-cbn.ghtml",
+        "titulo": "Veja o que é #FATO e o que é #FAKE na entrevista de Anthony Garotinho a 'O Globo', 'Extra', 'Valor' e CBN",
+        "veredito": "MISTO",
+        "confianca": 2,
+        "blockquotes": 8,
+        "transcreve": true
+      },
+      {
+        "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/09/10/e-fake-que-video-de-publico-do-rock-in-rio-fazendo-coro-para-lula-foi-gravado-em-2026-registro-ocorreu-na-edicao-de-2022.ghtml",
+        "titulo": "É #FAKE que vídeo de público do Rock in Rio fazendo coro para Lula foi gravado em 2026; registro ocorreu na edição de 20",
+        "veredito": "FALSO",
+        "confianca": 2,
+        "blockquotes": 1,
+        "transcreve": true
+      },
+      {
+        "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/09/10/e-fake-foto-de-relatorio-da-pf-dizendo-nao-ver-crime-em-conversas-de-nikolas-ferreira-com-vorcaro-imagem-foi-criada-com-ia.ghtml",
+        "titulo": "É #FAKE foto de relatório da PF dizendo não ver crime em conversas de Nikolas Ferreira com Vorcaro; imagem foi criada co",
+        "veredito": "FALSO",
+        "confianca": 2,
+        "blockquotes": 2,
+        "transcreve": true
+      },
+      {
+        "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/09/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-william-siri-a-o-globo-extra-valor-e-cbn.ghtml",
+        "titulo": "Veja o que é #FATO e o que é #FAKE na entrevista de William Siri a 'O Globo', 'Extra', 'Valor' e CBN",
+        "veredito": "MISTO",
+        "confianca": 2,
+        "blockquotes": 8,
+        "transcreve": true
+      },
+      {
+        "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/09/09/e-fake-video-de-flavio-bolsonaro-prometendo-salario-minimo-de-r-3-mil-cena-foi-fabricada-com-inteligencia-articial.ghtml",
+        "titulo": "É #FAKE vídeo de Flávio Bolsonaro prometendo salário mínimo de R$ 3 mil; cena foi fabricada com inteligência artificial",
+        "veredito": "FALSO",
+        "confianca": 2,
+        "blockquotes": 2,
+        "transcreve": true
+      },
+      {
+        "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/09/veja-o-que-e-fato-e-o-que-e-fake-nos-debates-de-candidatos-ao-senado-por-minas-gerais-no-g1.ghtml",
+        "titulo": "Veja o que é #FATO e o que é #FAKE nos debates de candidatos ao Senado por Minas Gerais no g1",
+        "veredito": "MISTO",
+        "confianca": 2,
+        "blockquotes": 11,
+        "transcreve": true
+      }
+    ],
+    "resumo": {
+      "amostrados": 10,
+      "MISTO": 5,
+      "FALSO": 4,
+      "INDEFINIDO": 1,
+      "taxa_verdadeiro": 0.0,
+      "taxa_transcreve": 90.0
+    }
+  },
+  {
+    "portal": "Lupa",
+    "listagem": "https://lupa.uol.com.br/",
+    "diagnostico": null,
+    "artigos": [],
+    "resumo": {
+      "amostrados": 0,
+      "taxa_verdadeiro": 0,
+      "taxa_transcreve": 0
+    }
+  },
+  {
+    "portal": "AFP Checamos",
+    "listagem": "https://checamos.afp.com/",
+    "diagnostico": null,
+    "artigos": [
+      {
+        "url": "https://checamos.afp.com/list/Inteligencia-Artificial",
+        "titulo": "Inteligência Artificial",
+        "veredito": "FALSO",
+        "confianca": 1,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/Eleicoes-2026",
+        "titulo": "Eleições 2026",
+        "veredito": "FALSO",
+        "confianca": 1,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/Copa-do-Mundo-2026",
+        "titulo": "Copa do Mundo 2026",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/Clima",
+        "titulo": "Clima",
+        "veredito": "FALSO",
+        "confianca": 1,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/Ira-0",
+        "titulo": "Irã",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/Brasil",
+        "titulo": "Brasil",
+        "veredito": "FALSO",
+        "confianca": 1,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/regions/America-Latina",
+        "titulo": "América Latina",
+        "veredito": "FALSO",
+        "confianca": 1,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/regions/America-do-Norte",
+        "titulo": "América do Norte",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/regions/Europa",
+        "titulo": "Europa",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/regions/Asia-Pacifico",
+        "titulo": "Ásia-Pacífico",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/regions/Africa",
+        "titulo": "África",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/regions/Oriente-Medio",
+        "titulo": "Oriente Médio",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/topics/146",
+        "titulo": "Saúde",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/topics/134",
+        "titulo": "Política",
+        "veredito": "FALSO",
+        "confianca": 1,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/topics/135",
+        "titulo": "Meio Ambiente",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/topics/141",
+        "titulo": "Conflitos",
+        "veredito": "FALSO",
+        "confianca": 1,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/topics/143",
+        "titulo": "Ciência",
+        "veredito": "FALSO",
+        "confianca": 1,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/list/topics/138",
+        "titulo": "Esporte",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/doc.afp.com.C7CR3NR",
+        "titulo": "A um mês das eleições, IA se manifesta em 5 principais frentes de desinformação nas redes",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/doc.afp.com.C7344ZQ",
+        "titulo": "Publicações usam imagens de crises migratórias na Europa para inflar chegada de marroquinos em Santa Catarina",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 1,
+        "transcreve": true
+      },
+      {
+        "url": "https://checamos.afp.com/doc.afp.com.C7794T3",
+        "titulo": "Posts resgatam vídeo de 2024 para desinformar sobre a saúde de Lula antes das eleições",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/doc.afp.com.C76R966",
+        "titulo": "Flávio Bolsonaro disse em sabatina da Globo que irá respeitar o resultado das eleições",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": false
+      },
+      {
+        "url": "https://checamos.afp.com/doc.afp.com.C83A8KF",
+        "titulo": "Vídeo de IA simula JN para alegar falsamente que André Mendonça declarou Lula inelegível",
+        "veredito": "VERDADEIRO",
+        "confianca": 1,
+        "blockquotes": 0,
+        "transcreve": true
+      },
+      {
+        "url": "https://checamos.afp.com/doc.afp.com.C82R7KE",
+        "titulo": "Vídeo de 2016 é compartilhado como se mostrasse Moraes sendo hostilizado em meio à crise no STF",
+        "veredito": "INDEFINIDO",
+        "confianca": 0,
+        "blockquotes": 0,
+        "transcreve": true
+      },
+      {
+        "url": "https://checamos.afp.com/doc.afp.com.C82F4CQ",
+        "titulo": "É de 2022 vídeo em que pessoas manifestam apoio a Lula no Rock in Rio",
+        "veredito": "FALSO",
+        "confianca": 1,
+        "blockquotes": 0,
+        "transcreve": false
+      }
+    ],
+    "resumo": {
+      "amostrados": 25,
+      "FALSO": 9,
+      "INDEFINIDO": 15,
+      "VERDADEIRO": 1,
+      "taxa_verdadeiro": 4.0,
+      "taxa_transcreve": 12.0
+    }
+  },
+  {
+    "portal": "Projeto Comprova",
+    "listagem": "https://checamos.projetocomprova.com.br/",
+    "diagnostico": null,
+    "artigos": [],
+    "resumo": {
+      "erro": "listagem_inacessivel"
+    }
+  },
+  {
+    "portal": "Estadão Verifica",
+    "listagem": "https://www.estadao.com.br/estadao-verifica/",
+    "diagnostico": [
+      {
+        "pai_tag": "div",
+        "pai_classe": "list-mais-lidas show-all",
+        "classe_link": "",
+        "qtd": 5,
+        "exemplo": "1 . Postagens cortam trecho de fala de Lula sobre foto de homem negro "
+      },
+      {
+        "pai_tag": "div",
+        "pai_classe": "noticia-content-block",
+        "classe_link": "",
+        "qtd": 3,
+        "exemplo": "Post usa foto de 2024 para dizer que criança desaparecida em Bacabal f"
+      },
+      {
+        "pai_tag": "li",
+        "pai_classe": "bullet",
+        "classe_link": "",
+        "qtd": 3,
+        "exemplo": "Rede LatamChequea pede à Meta que não substitua checagem independente "
+      },
+      {
+        "pai_tag": "li",
+        "pai_classe": "",
+        "classe_link": "",
+        "qtd": 2,
+        "exemplo": "Instituto Vencer o Câncer"
+      },
+      {
+        "pai_tag": "div",
+        "pai_classe": "info",
+        "classe_link": "",
+        "qtd": 1,
+        "exemplo": "Por que desinformação sobre invasão americana no Brasil viraliza? Ente"
+      }
+    ],
+    "artigos": [],
+    "resumo": {
+      "erro": "seletor_nao_casou"
+    }
+  },
+  {
+    "portal": "Aos Fatos",
+    "listagem": "https://www.aosfatos.org/noticias/",
+    "diagnostico": [
+      {
+        "pai_tag": "div",
+        "pai_classe": "max-md:[&>:nth-child(n+11)]:hidden flex flex-wrap items-center justify-center gap-y-3.5 gap-x-4 underline underline-offset-3",
+        "classe_link": "hover:decoration-zinc-400",
+        "qtd": 1,
+        "exemplo": "Luiz Inácio Lula da Silva"
+      }
+    ],
+    "artigos": [],
+    "resumo": {
+      "erro": "seletor_nao_casou"
+    }
+  }
+]

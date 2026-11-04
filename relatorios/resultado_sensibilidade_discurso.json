@@ -1,0 +1,333 @@
+{
+  "n_marcadas_no_teste": 52,
+  "por_modelo": {
+    "Ba": {
+      "bruto|nosso_teste": {
+        "com": 99.05,
+        "sem": 99.05,
+        "dif_pp": 0.0
+      },
+      "bruto|fakebr_nosso": {
+        "com": 76.87,
+        "sem": 77.11,
+        "dif_pp": 0.24
+      },
+      "refinado|nosso_teste": {
+        "com": 88.11,
+        "sem": 88.27,
+        "dif_pp": 0.16
+      },
+      "refinado|fakebr_nosso": {
+        "com": 76.6,
+        "sem": 76.84,
+        "dif_pp": 0.24
+      }
+    },
+    "Bc_LR": {
+      "bruto|nosso_teste": {
+        "com": 97.37,
+        "sem": 97.4,
+        "dif_pp": 0.03
+      },
+      "bruto|fakebr_nosso": {
+        "com": 82.78,
+        "sem": 82.9,
+        "dif_pp": 0.12
+      },
+      "refinado|nosso_teste": {
+        "com": 85.41,
+        "sem": 85.66,
+        "dif_pp": 0.25
+      },
+      "refinado|fakebr_nosso": {
+        "com": 76.52,
+        "sem": 76.71,
+        "dif_pp": 0.19
+      }
+    },
+    "Bc_NB": {
+      "bruto|nosso_teste": {
+        "com": 81.77,
+        "sem": 81.76,
+        "dif_pp": -0.01
+      },
+      "bruto|fakebr_nosso": {
+        "com": 86.46,
+        "sem": 86.74,
+        "dif_pp": 0.28
+      },
+      "refinado|nosso_teste": {
+        "com": 77.24,
+        "sem": 77.55,
+        "dif_pp": 0.31
+      },
+      "refinado|fakebr_nosso": {
+        "com": 70.44,
+        "sem": 70.54,
+        "dif_pp": 0.1
+      }
+    },
+    "Bc_SVM": {
+      "bruto|nosso_teste": {
+        "com": 97.38,
+        "sem": 97.4,
+        "dif_pp": 0.02
+      },
+      "bruto|fakebr_nosso": {
+        "com": 82.22,
+        "sem": 82.35,
+        "dif_pp": 0.13
+      },
+      "refinado|nosso_teste": {
+        "com": 85.61,
+        "sem": 85.87,
+        "dif_pp": 0.26
+      },
+      "refinado|fakebr_nosso": {
+        "com": 76.58,
+        "sem": 76.77,
+        "dif_pp": 0.19
+      }
+    },
+    "Ch_LR": {
+      "bruto|nosso_teste": {
+        "com": 90.76,
+        "sem": 90.95,
+        "dif_pp": 0.19
+      },
+      "bruto|fakebr_nosso": {
+        "com": 71.25,
+        "sem": 71.13,
+        "dif_pp": -0.12
+      },
+      "refinado|nosso_teste": {
+        "com": 79.52,
+        "sem": 79.68,
+        "dif_pp": 0.16
+      },
+      "refinado|fakebr_nosso": {
+        "com": 69.59,
+        "sem": 69.65,
+        "dif_pp": 0.06
+      }
+    },
+    "Ch_NB": {
+      "bruto|nosso_teste": {
+        "com": 89.95,
+        "sem": 90.39,
+        "dif_pp": 0.44
+      },
+      "bruto|fakebr_nosso": {
+        "com": 80.72,
+        "sem": 80.93,
+        "dif_pp": 0.21
+      },
+      "refinado|nosso_teste": {
+        "com": 80.34,
+        "sem": 80.64,
+        "dif_pp": 0.3
+      },
+      "refinado|fakebr_nosso": {
+        "com": 70.26,
+        "sem": 70.42,
+        "dif_pp": 0.16
+      }
+    },
+    "Ch_SVM": {
+      "bruto|nosso_teste": {
+        "com": 90.93,
+        "sem": 91.1,
+        "dif_pp": 0.17
+      },
+      "bruto|fakebr_nosso": {
+        "com": 70.13,
+        "sem": 69.99,
+        "dif_pp": -0.14
+      },
+      "refinado|nosso_teste": {
+        "com": 79.85,
+        "sem": 80.05,
+        "dif_pp": 0.2
+      },
+      "refinado|fakebr_nosso": {
+        "com": 69.8,
+        "sem": 69.84,
+        "dif_pp": 0.04
+      }
+    },
+    "Ol_LR": {
+      "bruto|nosso_teste": {
+        "com": 97.29,
+        "sem": 97.3,
+        "dif_pp": 0.01
+      },
+      "bruto|fakebr_nosso": {
+        "com": 85.97,
+        "sem": 86.2,
+        "dif_pp": 0.23
+      },
+      "refinado|nosso_teste": {
+        "com": 84.42,
+        "sem": 84.66,
+        "dif_pp": 0.24
+      },
+      "refinado|fakebr_nosso": {
+        "com": 74.04,
+        "sem": 74.22,
+        "dif_pp": 0.18
+      }
+    },
+    "Ol_NB": {
+      "bruto|nosso_teste": {
+        "com": 92.35,
+        "sem": 92.38,
+        "dif_pp": 0.03
+      },
+      "bruto|fakebr_nosso": {
+        "com": 79.78,
+        "sem": 79.98,
+        "dif_pp": 0.2
+      },
+      "refinado|nosso_teste": {
+        "com": 77.47,
+        "sem": 77.65,
+        "dif_pp": 0.18
+      },
+      "refinado|fakebr_nosso": {
+        "com": 69.82,
+        "sem": 69.99,
+        "dif_pp": 0.17
+      }
+    },
+    "Ol_SVM": {
+      "bruto|nosso_teste": {
+        "com": 97.44,
+        "sem": 97.46,
+        "dif_pp": 0.02
+      },
+      "bruto|fakebr_nosso": {
+        "com": 85.65,
+        "sem": 85.86,
+        "dif_pp": 0.21
+      },
+      "refinado|nosso_teste": {
+        "com": 84.52,
+        "sem": 84.76,
+        "dif_pp": 0.24
+      },
+      "refinado|fakebr_nosso": {
+        "com": 74.08,
+        "sem": 74.27,
+        "dif_pp": 0.19
+      }
+    },
+    "P_LR": {
+      "bruto|nosso_teste": {
+        "com": 91.19,
+        "sem": 91.4,
+        "dif_pp": 0.21
+      },
+      "bruto|fakebr_nosso": {
+        "com": 78.07,
+        "sem": 78.2,
+        "dif_pp": 0.13
+      },
+      "refinado|nosso_teste": {
+        "com": 81.73,
+        "sem": 81.87,
+        "dif_pp": 0.14
+      },
+      "refinado|fakebr_nosso": {
+        "com": 69.2,
+        "sem": 69.26,
+        "dif_pp": 0.06
+      }
+    },
+    "P_NB": {
+      "bruto|nosso_teste": {
+        "com": 90.97,
+        "sem": 91.29,
+        "dif_pp": 0.32
+      },
+      "bruto|fakebr_nosso": {
+        "com": 82.66,
+        "sem": 82.91,
+        "dif_pp": 0.25
+      },
+      "refinado|nosso_teste": {
+        "com": 81.34,
+        "sem": 81.51,
+        "dif_pp": 0.17
+      },
+      "refinado|fakebr_nosso": {
+        "com": 70.15,
+        "sem": 70.34,
+        "dif_pp": 0.19
+      }
+    },
+    "P_SVM": {
+      "bruto|nosso_teste": {
+        "com": 91.32,
+        "sem": 91.52,
+        "dif_pp": 0.2
+      },
+      "bruto|fakebr_nosso": {
+        "com": 76.44,
+        "sem": 76.53,
+        "dif_pp": 0.09
+      },
+      "refinado|nosso_teste": {
+        "com": 81.81,
+        "sem": 81.97,
+        "dif_pp": 0.16
+      },
+      "refinado|fakebr_nosso": {
+        "com": 69.16,
+        "sem": 69.22,
+        "dif_pp": 0.06
+      }
+    }
+  },
+  "afirmacoes_11_validos": {
+    "A2": {
+      "com": 11,
+      "sem": 11
+    },
+    "A3": {
+      "com": 11,
+      "sem": 11
+    },
+    "A6": {
+      "com": 5,
+      "sem": 5
+    },
+    "A7": {
+      "com": 8,
+      "sem": 8
+    },
+    "A8": {
+      "com": 9,
+      "sem": 9
+    }
+  },
+  "maior_variacao": {
+    "onde": "Ch_NB|bruto|nosso_teste",
+    "pp": 0.44
+  },
+  "referencia_P_LR_bruto_nosso_teste_pp": 0.21,
+  "leitura": "não afetam as conclusões",
+  "confronto": {
+    "D1": [
+      0.44,
+      true
+    ],
+    "D2": [
+      0.21,
+      true
+    ],
+    "D3": [
+      "nenhuma mudou",
+      true
+    ]
+  }
+}

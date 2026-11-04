@@ -1,0 +1,59 @@
+{
+  "fila_sha256": "3533440ab268976dd9d9ef7f71c14fd7bb1590f5c3f7397f230678f43e35220a",
+  "saida_sha256": "e3d1db4dd7cab842f6456df958ec03cc67f0a5d7ccc44ef8adb76402f516eaec",
+  "linhas_saida": 31149,
+  "json_invalido": 0,
+  "prompt_sha": {
+    "61d3e5623fccdf41": 31149
+  },
+  "prompt_versao": {
+    "cego-v2": 31149
+  },
+  "modelo": {
+    "qwen3.5:9b": 31149
+  },
+  "ids_fora_da_fila": 0,
+  "repetidos": 0,
+  "por_grupo": {
+    "corpus_falso": {
+      "fila": 11975,
+      "refinados": 11974,
+      "faltam": 1,
+      "pct_saida_ajustada": 0.07,
+      "ajustes": {
+        "quebra_de_linha": 8
+      }
+    },
+    "corpus_verdadeiro": {
+      "fila": 11975,
+      "refinados": 11975,
+      "faltam": 0,
+      "pct_saida_ajustada": 0.01,
+      "ajustes": {
+        "quebra_de_linha": 1
+      }
+    },
+    "fakebr_falso": {
+      "fila": 3600,
+      "refinados": 3600,
+      "faltam": 0,
+      "pct_saida_ajustada": 0.03,
+      "ajustes": {
+        "quebra_de_linha": 1
+      }
+    },
+    "fakebr_verdadeiro": {
+      "fila": 3600,
+      "refinados": 3600,
+      "faltam": 0,
+      "pct_saida_ajustada": 0.03,
+      "ajustes": {
+        "quebra_de_linha": 1
+      }
+    }
+  },
+  "corpus_sha": "901d8373a1f5452c",
+  "divergentes_corpus": 0,
+  "gravados": 31149,
+  "problemas": []
+}

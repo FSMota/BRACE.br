@@ -1,0 +1,332 @@
+{
+  "n": {
+    "falsas": 2500,
+    "D": 2500,
+    "N": 2500,
+    "N_trocas": {
+      "nao_coletada": 49,
+      "corpus_inelegivel": 1,
+      "coleta_filtrada": 4
+    },
+    "N_faltas": {},
+    "N_origem": {
+      "coleta_nova": 2178,
+      "corpus": 322
+    },
+    "teste_D_sem_treino_N": 488,
+    "teste_N_sem_treino_D": 490
+  },
+  "C": {
+    "ano_D": 0.1,
+    "ano_N": 0.1,
+    "tfidf_D": 10.0,
+    "tfidf_N": 10.0
+  },
+  "celulas": {
+    "ano_D": {
+      "n": 500,
+      "bal": 47.0,
+      "ic95": [
+        42.59,
+        51.48
+      ],
+      "rev_falso": 47.2,
+      "rev_verdadeiro": 46.8
+    },
+    "ano_N": {
+      "n": 500,
+      "bal": 64.0,
+      "ic95": [
+        60.21,
+        67.76
+      ],
+      "rev_falso": 86.0,
+      "rev_verdadeiro": 42.0
+    },
+    "D_D": {
+      "n": 500,
+      "bal": 95.2,
+      "ic95": [
+        93.04,
+        96.99
+      ],
+      "rev_falso": 95.6,
+      "rev_verdadeiro": 94.8
+    },
+    "N_N": {
+      "n": 500,
+      "bal": 95.2,
+      "ic95": [
+        93.2,
+        97.0
+      ],
+      "rev_falso": 95.6,
+      "rev_verdadeiro": 94.8
+    },
+    "N_Dteste": {
+      "n": 488,
+      "bal": 94.65,
+      "ic95": [
+        92.61,
+        96.52
+      ],
+      "rev_falso": 95.6,
+      "rev_verdadeiro": 93.7
+    },
+    "D_Dteste_mesmos": {
+      "n": 488,
+      "bal": 95.07,
+      "ic95": [
+        93.08,
+        96.98
+      ],
+      "rev_falso": 95.6,
+      "rev_verdadeiro": 94.54
+    },
+    "D_Nteste": {
+      "n": 490,
+      "bal": 95.3,
+      "ic95": [
+        93.27,
+        97.08
+      ],
+      "rev_falso": 95.6,
+      "rev_verdadeiro": 95.0
+    },
+    "D_fakebr": {
+      "n": 7200,
+      "bal": 70.07,
+      "ic95": [
+        68.99,
+        71.13
+      ],
+      "rev_falso": 71.0,
+      "rev_verdadeiro": 69.14
+    },
+    "N_fakebr": {
+      "n": 7200,
+      "bal": 69.93,
+      "ic95": [
+        68.84,
+        70.98
+      ],
+      "rev_falso": 71.17,
+      "rev_verdadeiro": 68.69
+    }
+  },
+  "T1": {
+    "D": 47.0,
+    "N": 64.0
+  },
+  "T2": {
+    "pp": 0.0,
+    "ic95": [
+      -2.81,
+      2.6
+    ]
+  },
+  "T3": {
+    "pp": -0.42,
+    "ic95": [
+      -2.27,
+      1.43
+    ],
+    "mcnemar": {
+      "so_N_acerta": 9,
+      "so_D_acerta": 11,
+      "p": 0.8238029479980469
+    }
+  },
+  "T4": {
+    "pp": 0.1,
+    "ic95": [
+      -2.54,
+      2.69
+    ]
+  },
+  "T5": {
+    "pp": -0.14,
+    "ic95": [
+      -0.83,
+      0.56
+    ],
+    "mcnemar": {
+      "so_N_acerta": 329,
+      "so_D_acerta": 339,
+      "p": 0.7277033642711371
+    }
+  },
+  "pesos": {
+    "D": {
+      "FALSO": {
+        "termos": [
+          "lula",
+          "globo",
+          "vídeo",
+          "você",
+          "pra",
+          "agora",
+          "não",
+          "essa",
+          "esse",
+          "pois",
+          "00",
+          "isso",
+          "boato",
+          "povo",
+          "000",
+          "dilma",
+          "reais",
+          "nosso",
+          "era",
+          "seu",
+          "sua",
+          "todos",
+          "urgente",
+          "seria",
+          "notícia",
+          "deus",
+          "apenas",
+          "veja",
+          "foto",
+          "quem"
+        ],
+        "marcas_de_epoca": 2
+      },
+      "VERDADEIRO": {
+        "termos": [
+          "hoje",
+          "de",
+          "da",
+          "disse",
+          "em",
+          "do",
+          "para",
+          "senado",
+          "hoje que",
+          "feira",
+          "pela",
+          "nesta",
+          "no",
+          "sobre",
+          "na",
+          "ministro",
+          "ministério",
+          "casos",
+          "agência",
+          "das",
+          "país",
+          "capital",
+          "coronavírus",
+          "diz",
+          "câmara",
+          "afirmou",
+          "violência",
+          "internacional",
+          "disse hoje",
+          "presidente jair"
+        ],
+        "marcas_de_epoca": 1
+      }
+    },
+    "N": {
+      "FALSO": {
+        "termos": [
+          "lula",
+          "globo",
+          "pra",
+          "vídeo",
+          "você",
+          "não",
+          "bolsonaro",
+          "00",
+          "povo",
+          "agora",
+          "boato",
+          "seus",
+          "quem",
+          "só",
+          "esse",
+          "se",
+          "reais",
+          "pois",
+          "assim",
+          "isso",
+          "cura",
+          "deus",
+          "vivo",
+          "000",
+          "pt",
+          "mesmo",
+          "urgente",
+          "exército",
+          "ele",
+          "está"
+        ],
+        "marcas_de_epoca": 2
+      },
+      "VERDADEIRO": {
+        "termos": [
+          "hoje",
+          "de",
+          "da",
+          "do",
+          "pela",
+          "em",
+          "disse",
+          "na",
+          "casos",
+          "contra",
+          "para",
+          "capital",
+          "feira",
+          "diz",
+          "do rio",
+          "segundo",
+          "presidenta",
+          "hoje que",
+          "ministério",
+          "ministro",
+          "nacional",
+          "rio",
+          "dos",
+          "disse hoje",
+          "agência",
+          "câmara",
+          "saúde",
+          "trabalho",
+          "presidenta dilma",
+          "primeiro"
+        ],
+        "marcas_de_epoca": 1
+      }
+    }
+  },
+  "leitura": "atalho disponível, pouco usado",
+  "confronto_previsoes": {
+    "T1_D": [
+      47.0,
+      false
+    ],
+    "T1_N": [
+      64.0,
+      true
+    ],
+    "T2": [
+      0.0,
+      false
+    ],
+    "T3": [
+      -0.42,
+      false
+    ],
+    "T4": [
+      0.1,
+      true
+    ],
+    "T5": [
+      -0.14,
+      false
+    ]
+  }
+}

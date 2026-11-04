@@ -1,0 +1,110 @@
+{
+  "Bc+LR|bruto": {
+    "h_nosso": 1.0,
+    "h_fakebr": 1.0,
+    "h_embaralhado": 0.1,
+    "nosso_teste": 97.37,
+    "nosso_fakebr": 76.33,
+    "fakebr_fakebr": 94.56,
+    "fakebr_nosso": 82.78,
+    "embaralhado_teste": 53.14
+  },
+  "Bc+LR|refinado": {
+    "h_nosso": 0.1,
+    "h_fakebr": 0.1,
+    "nosso_teste": 85.41,
+    "nosso_fakebr": 67.04,
+    "fakebr_fakebr": 75.39,
+    "fakebr_nosso": 76.52
+  },
+  "Bc+SVM|bruto": {
+    "h_nosso": 0.1,
+    "h_fakebr": 0.1,
+    "h_embaralhado": 0.01,
+    "nosso_teste": 97.38,
+    "nosso_fakebr": 76.06,
+    "fakebr_fakebr": 94.83,
+    "fakebr_nosso": 82.22,
+    "embaralhado_teste": 53.12
+  },
+  "Bc+SVM|refinado": {
+    "h_nosso": 0.01,
+    "h_fakebr": 0.01,
+    "nosso_teste": 85.61,
+    "nosso_fakebr": 67.19,
+    "fakebr_fakebr": 75.46,
+    "fakebr_nosso": 76.58
+  },
+  "Bc+NB|bruto": {
+    "h_nosso": null,
+    "h_fakebr": null,
+    "h_embaralhado": null,
+    "nosso_teste": 81.77,
+    "nosso_fakebr": 62.74,
+    "fakebr_fakebr": 83.9,
+    "fakebr_nosso": 86.46,
+    "embaralhado_teste": 47.68
+  },
+  "Bc+NB|refinado": {
+    "h_nosso": null,
+    "h_fakebr": null,
+    "nosso_teste": 77.24,
+    "nosso_fakebr": 61.96,
+    "fakebr_fakebr": 69.78,
+    "fakebr_nosso": 70.44
+  },
+  "Ol+LR|bruto": {
+    "h_nosso": 10.0,
+    "h_fakebr": 10.0,
+    "h_embaralhado": 0.1,
+    "nosso_teste": 97.29,
+    "nosso_fakebr": 73.61,
+    "fakebr_fakebr": 88.07,
+    "fakebr_nosso": 85.97,
+    "embaralhado_teste": 55.11
+  },
+  "Ol+LR|refinado": {
+    "h_nosso": 10.0,
+    "h_fakebr": 1.0,
+    "nosso_teste": 84.42,
+    "nosso_fakebr": 67.42,
+    "fakebr_fakebr": 74.9,
+    "fakebr_nosso": 74.04
+  },
+  "Ol+SVM|bruto": {
+    "h_nosso": 1.0,
+    "h_fakebr": 1.0,
+    "h_embaralhado": 0.01,
+    "nosso_teste": 97.44,
+    "nosso_fakebr": 74.0,
+    "fakebr_fakebr": 88.47,
+    "fakebr_nosso": 85.65,
+    "embaralhado_teste": 57.15
+  },
+  "Ol+SVM|refinado": {
+    "h_nosso": 1.0,
+    "h_fakebr": 0.1,
+    "nosso_teste": 84.52,
+    "nosso_fakebr": 67.36,
+    "fakebr_fakebr": 75.08,
+    "fakebr_nosso": 74.08
+  },
+  "Ol+NB|bruto": {
+    "h_nosso": null,
+    "h_fakebr": null,
+    "h_embaralhado": null,
+    "nosso_teste": 92.35,
+    "nosso_fakebr": 66.74,
+    "fakebr_fakebr": 79.67,
+    "fakebr_nosso": 79.78,
+    "embaralhado_teste": 64.96
+  },
+  "Ol+NB|refinado": {
+    "h_nosso": null,
+    "h_fakebr": null,
+    "nosso_teste": 77.47,
+    "nosso_fakebr": 61.06,
+    "fakebr_fakebr": 71.36,
+    "fakebr_nosso": 69.82
+  }
+}

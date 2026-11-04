@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+ipykernel
+scikit-learn
+numpy
+scipy
+openpyxl
+matplotlib

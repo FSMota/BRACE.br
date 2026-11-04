@@ -1,0 +1,839 @@
+{
+  "conjunto": "teste",
+  "ks": [
+    5,
+    10
+  ],
+  "por_braco": {
+    "bruto": {
+      "C": 10.0,
+      "n_falsas": 2579,
+      "n_acertadas": 2385,
+      "acertadas|justificativa|exata|k5": {
+        "n": 2361,
+        "modelo_pct": 15.32,
+        "modelo_ic95": [
+          14.59,
+          16.08
+        ],
+        "controle_pct": 12.52,
+        "controle_ic95": [
+          12.02,
+          13.04
+        ],
+        "dif_pp": 2.8,
+        "dif_ic95": [
+          2.23,
+          3.39
+        ]
+      },
+      "acertadas|justificativa|exata|k10": {
+        "n": 2081,
+        "modelo_pct": 12.9,
+        "modelo_ic95": [
+          12.35,
+          13.44
+        ],
+        "controle_pct": 11.03,
+        "controle_ic95": [
+          10.62,
+          11.45
+        ],
+        "dif_pp": 1.87,
+        "dif_ic95": [
+          1.49,
+          2.26
+        ]
+      },
+      "acertadas|justificativa|radical|k5": {
+        "n": 2361,
+        "modelo_pct": 17.9,
+        "modelo_ic95": [
+          17.14,
+          18.67
+        ],
+        "controle_pct": 16.49,
+        "controle_ic95": [
+          15.93,
+          17.07
+        ],
+        "dif_pp": 1.41,
+        "dif_ic95": [
+          0.8,
+          2.06
+        ]
+      },
+      "acertadas|justificativa|radical|k10": {
+        "n": 2081,
+        "modelo_pct": 15.6,
+        "modelo_ic95": [
+          15.0,
+          16.19
+        ],
+        "controle_pct": 14.74,
+        "controle_ic95": [
+          14.26,
+          15.23
+        ],
+        "dif_pp": 0.86,
+        "dif_ic95": [
+          0.42,
+          1.28
+        ]
+      },
+      "acertadas|justificativa_bruta|exata|k5": {
+        "n": 2361,
+        "modelo_pct": 47.52,
+        "modelo_ic95": [
+          46.43,
+          48.57
+        ],
+        "controle_pct": 39.09,
+        "controle_ic95": [
+          38.21,
+          39.98
+        ],
+        "dif_pp": 8.43,
+        "dif_ic95": [
+          7.58,
+          9.28
+        ]
+      },
+      "acertadas|justificativa_bruta|exata|k10": {
+        "n": 2081,
+        "modelo_pct": 42.49,
+        "modelo_ic95": [
+          41.62,
+          43.41
+        ],
+        "controle_pct": 36.08,
+        "controle_ic95": [
+          35.31,
+          36.9
+        ],
+        "dif_pp": 6.4,
+        "dif_ic95": [
+          5.77,
+          7.04
+        ]
+      },
+      "acertadas|justificativa_bruta|radical|k5": {
+        "n": 2361,
+        "modelo_pct": 51.96,
+        "modelo_ic95": [
+          50.92,
+          53.05
+        ],
+        "controle_pct": 47.23,
+        "controle_ic95": [
+          46.35,
+          48.1
+        ],
+        "dif_pp": 4.73,
+        "dif_ic95": [
+          3.91,
+          5.56
+        ]
+      },
+      "acertadas|justificativa_bruta|radical|k10": {
+        "n": 2081,
+        "modelo_pct": 47.92,
+        "modelo_ic95": [
+          46.96,
+          48.85
+        ],
+        "controle_pct": 44.44,
+        "controle_ic95": [
+          43.65,
+          45.29
+        ],
+        "dif_pp": 3.47,
+        "dif_ic95": [
+          2.88,
+          4.07
+        ]
+      },
+      "todas_as_falsas|justificativa|exata|k5": {
+        "n": 2555,
+        "modelo_pct": 15.54,
+        "modelo_ic95": [
+          14.81,
+          16.28
+        ],
+        "controle_pct": 12.66,
+        "controle_ic95": [
+          12.19,
+          13.14
+        ],
+        "dif_pp": 2.89,
+        "dif_ic95": [
+          2.31,
+          3.46
+        ]
+      },
+      "todas_as_falsas|justificativa|exata|k10": {
+        "n": 2263,
+        "modelo_pct": 13.1,
+        "modelo_ic95": [
+          12.56,
+          13.64
+        ],
+        "controle_pct": 11.21,
+        "controle_ic95": [
+          10.82,
+          11.63
+        ],
+        "dif_pp": 1.89,
+        "dif_ic95": [
+          1.5,
+          2.27
+        ]
+      },
+      "todas_as_falsas|justificativa|radical|k5": {
+        "n": 2555,
+        "modelo_pct": 18.18,
+        "modelo_ic95": [
+          17.41,
+          18.96
+        ],
+        "controle_pct": 16.73,
+        "controle_ic95": [
+          16.22,
+          17.24
+        ],
+        "dif_pp": 1.45,
+        "dif_ic95": [
+          0.86,
+          2.04
+        ]
+      },
+      "todas_as_falsas|justificativa|radical|k10": {
+        "n": 2263,
+        "modelo_pct": 15.94,
+        "modelo_ic95": [
+          15.39,
+          16.53
+        ],
+        "controle_pct": 15.03,
+        "controle_ic95": [
+          14.59,
+          15.5
+        ],
+        "dif_pp": 0.91,
+        "dif_ic95": [
+          0.49,
+          1.32
+        ]
+      },
+      "todas_as_falsas|justificativa_bruta|exata|k5": {
+        "n": 2555,
+        "modelo_pct": 48.1,
+        "modelo_ic95": [
+          47.09,
+          49.14
+        ],
+        "controle_pct": 39.5,
+        "controle_ic95": [
+          38.63,
+          40.32
+        ],
+        "dif_pp": 8.59,
+        "dif_ic95": [
+          7.75,
+          9.38
+        ]
+      },
+      "todas_as_falsas|justificativa_bruta|exata|k10": {
+        "n": 2263,
+        "modelo_pct": 43.03,
+        "modelo_ic95": [
+          42.18,
+          43.93
+        ],
+        "controle_pct": 36.58,
+        "controle_ic95": [
+          35.81,
+          37.35
+        ],
+        "dif_pp": 6.45,
+        "dif_ic95": [
+          5.88,
+          7.04
+        ]
+      },
+      "todas_as_falsas|justificativa_bruta|radical|k5": {
+        "n": 2555,
+        "modelo_pct": 52.68,
+        "modelo_ic95": [
+          51.61,
+          53.69
+        ],
+        "controle_pct": 47.86,
+        "controle_ic95": [
+          47.03,
+          48.74
+        ],
+        "dif_pp": 4.82,
+        "dif_ic95": [
+          4.03,
+          5.6
+        ]
+      },
+      "todas_as_falsas|justificativa_bruta|radical|k10": {
+        "n": 2263,
+        "modelo_pct": 48.7,
+        "modelo_ic95": [
+          47.8,
+          49.59
+        ],
+        "controle_pct": 45.17,
+        "controle_ic95": [
+          44.37,
+          45.97
+        ],
+        "dif_pp": 3.53,
+        "dif_ic95": [
+          2.96,
+          4.1
+        ]
+      },
+      "palavras_mais_frequentes_top5": [
+        [
+          "agora",
+          466
+        ],
+        [
+          "lula",
+          279
+        ],
+        [
+          "vídeo",
+          245
+        ],
+        [
+          "bolsonaro",
+          233
+        ],
+        [
+          "pra",
+          174
+        ],
+        [
+          "urgente",
+          149
+        ],
+        [
+          "dinheiro",
+          148
+        ],
+        [
+          "brasil",
+          148
+        ],
+        [
+          "deus",
+          141
+        ],
+        [
+          "povo",
+          125
+        ],
+        [
+          "atenção",
+          124
+        ],
+        [
+          "gente",
+          112
+        ],
+        [
+          "notícia",
+          110
+        ],
+        [
+          "acaba",
+          110
+        ],
+        [
+          "verdade",
+          105
+        ],
+        [
+          "apenas",
+          104
+        ],
+        [
+          "qualquer",
+          102
+        ],
+        [
+          "homem",
+          97
+        ],
+        [
+          "nada",
+          93
+        ],
+        [
+          "olha",
+          92
+        ],
+        [
+          "sempre",
+          90
+        ],
+        [
+          "mundo",
+          86
+        ],
+        [
+          "reais",
+          84
+        ],
+        [
+          "pois",
+          82
+        ],
+        [
+          "aconteceu",
+          78
+        ],
+        [
+          "teria",
+          73
+        ],
+        [
+          "história",
+          70
+        ],
+        [
+          "então",
+          68
+        ],
+        [
+          "veja",
+          65
+        ],
+        [
+          "ver",
+          64
+        ]
+      ]
+    },
+    "refinado": {
+      "C": 10.0,
+      "n_falsas": 2579,
+      "n_acertadas": 2131,
+      "acertadas|justificativa|exata|k5": {
+        "n": 2112,
+        "modelo_pct": 23.14,
+        "modelo_ic95": [
+          22.16,
+          24.19
+        ],
+        "controle_pct": 22.24,
+        "controle_ic95": [
+          21.47,
+          22.98
+        ],
+        "dif_pp": 0.9,
+        "dif_ic95": [
+          0.25,
+          1.56
+        ]
+      },
+      "acertadas|justificativa|exata|k10": {
+        "n": 1420,
+        "modelo_pct": 22.01,
+        "modelo_ic95": [
+          21.0,
+          23.02
+        ],
+        "controle_pct": 21.17,
+        "controle_ic95": [
+          20.32,
+          22.0
+        ],
+        "dif_pp": 0.84,
+        "dif_ic95": [
+          0.25,
+          1.44
+        ]
+      },
+      "acertadas|justificativa|radical|k5": {
+        "n": 2112,
+        "modelo_pct": 28.34,
+        "modelo_ic95": [
+          27.3,
+          29.39
+        ],
+        "controle_pct": 27.69,
+        "controle_ic95": [
+          26.88,
+          28.5
+        ],
+        "dif_pp": 0.64,
+        "dif_ic95": [
+          -0.03,
+          1.32
+        ]
+      },
+      "acertadas|justificativa|radical|k10": {
+        "n": 1420,
+        "modelo_pct": 26.75,
+        "modelo_ic95": [
+          25.64,
+          27.9
+        ],
+        "controle_pct": 26.23,
+        "controle_ic95": [
+          25.27,
+          27.11
+        ],
+        "dif_pp": 0.52,
+        "dif_ic95": [
+          -0.11,
+          1.14
+        ]
+      },
+      "acertadas|justificativa_bruta|exata|k5": {
+        "n": 2112,
+        "modelo_pct": 63.25,
+        "modelo_ic95": [
+          62.05,
+          64.35
+        ],
+        "controle_pct": 59.62,
+        "controle_ic95": [
+          58.71,
+          60.5
+        ],
+        "dif_pp": 3.63,
+        "dif_ic95": [
+          2.9,
+          4.33
+        ]
+      },
+      "acertadas|justificativa_bruta|exata|k10": {
+        "n": 1420,
+        "modelo_pct": 59.96,
+        "modelo_ic95": [
+          58.72,
+          61.16
+        ],
+        "controle_pct": 57.35,
+        "controle_ic95": [
+          56.33,
+          58.34
+        ],
+        "dif_pp": 2.61,
+        "dif_ic95": [
+          1.9,
+          3.35
+        ]
+      },
+      "acertadas|justificativa_bruta|radical|k5": {
+        "n": 2112,
+        "modelo_pct": 71.06,
+        "modelo_ic95": [
+          70.01,
+          72.12
+        ],
+        "controle_pct": 68.66,
+        "controle_ic95": [
+          67.77,
+          69.55
+        ],
+        "dif_pp": 2.4,
+        "dif_ic95": [
+          1.69,
+          3.1
+        ]
+      },
+      "acertadas|justificativa_bruta|radical|k10": {
+        "n": 1420,
+        "modelo_pct": 68.16,
+        "modelo_ic95": [
+          66.94,
+          69.33
+        ],
+        "controle_pct": 66.54,
+        "controle_ic95": [
+          65.55,
+          67.53
+        ],
+        "dif_pp": 1.62,
+        "dif_ic95": [
+          0.95,
+          2.29
+        ]
+      },
+      "todas_as_falsas|justificativa|exata|k5": {
+        "n": 2553,
+        "modelo_pct": 23.15,
+        "modelo_ic95": [
+          22.24,
+          24.07
+        ],
+        "controle_pct": 22.45,
+        "controle_ic95": [
+          21.81,
+          23.13
+        ],
+        "dif_pp": 0.7,
+        "dif_ic95": [
+          0.1,
+          1.32
+        ]
+      },
+      "todas_as_falsas|justificativa|exata|k10": {
+        "n": 1782,
+        "modelo_pct": 21.97,
+        "modelo_ic95": [
+          21.06,
+          22.89
+        ],
+        "controle_pct": 21.33,
+        "controle_ic95": [
+          20.62,
+          22.05
+        ],
+        "dif_pp": 0.63,
+        "dif_ic95": [
+          0.08,
+          1.23
+        ]
+      },
+      "todas_as_falsas|justificativa|radical|k5": {
+        "n": 2553,
+        "modelo_pct": 28.25,
+        "modelo_ic95": [
+          27.32,
+          29.23
+        ],
+        "controle_pct": 28.0,
+        "controle_ic95": [
+          27.25,
+          28.72
+        ],
+        "dif_pp": 0.25,
+        "dif_ic95": [
+          -0.37,
+          0.89
+        ]
+      },
+      "todas_as_falsas|justificativa|radical|k10": {
+        "n": 1782,
+        "modelo_pct": 26.69,
+        "modelo_ic95": [
+          25.69,
+          27.73
+        ],
+        "controle_pct": 26.54,
+        "controle_ic95": [
+          25.73,
+          27.39
+        ],
+        "dif_pp": 0.16,
+        "dif_ic95": [
+          -0.41,
+          0.75
+        ]
+      },
+      "todas_as_falsas|justificativa_bruta|exata|k5": {
+        "n": 2553,
+        "modelo_pct": 63.52,
+        "modelo_ic95": [
+          62.52,
+          64.6
+        ],
+        "controle_pct": 59.88,
+        "controle_ic95": [
+          59.09,
+          60.68
+        ],
+        "dif_pp": 3.64,
+        "dif_ic95": [
+          2.93,
+          4.34
+        ]
+      },
+      "todas_as_falsas|justificativa_bruta|exata|k10": {
+        "n": 1782,
+        "modelo_pct": 60.54,
+        "modelo_ic95": [
+          59.45,
+          61.62
+        ],
+        "controle_pct": 57.7,
+        "controle_ic95": [
+          56.82,
+          58.65
+        ],
+        "dif_pp": 2.84,
+        "dif_ic95": [
+          2.16,
+          3.51
+        ]
+      },
+      "todas_as_falsas|justificativa_bruta|radical|k5": {
+        "n": 2553,
+        "modelo_pct": 71.42,
+        "modelo_ic95": [
+          70.46,
+          72.44
+        ],
+        "controle_pct": 69.02,
+        "controle_ic95": [
+          68.24,
+          69.83
+        ],
+        "dif_pp": 2.41,
+        "dif_ic95": [
+          1.75,
+          3.02
+        ]
+      },
+      "todas_as_falsas|justificativa_bruta|radical|k10": {
+        "n": 1782,
+        "modelo_pct": 68.76,
+        "modelo_ic95": [
+          67.69,
+          69.83
+        ],
+        "controle_pct": 67.0,
+        "controle_ic95": [
+          66.1,
+          67.89
+        ],
+        "dif_pp": 1.76,
+        "dif_ic95": [
+          1.12,
+          2.41
+        ]
+      },
+      "palavras_mais_frequentes_top5": [
+        [
+          "bolsonaro",
+          200
+        ],
+        [
+          "lula",
+          189
+        ],
+        [
+          "brasil",
+          125
+        ],
+        [
+          "enquanto",
+          73
+        ],
+        [
+          "alexandre",
+          70
+        ],
+        [
+          "texto",
+          66
+        ],
+        [
+          "moraes",
+          65
+        ],
+        [
+          "presidente",
+          63
+        ],
+        [
+          "morreu",
+          58
+        ],
+        [
+          "após",
+          57
+        ],
+        [
+          "estados",
+          56
+        ],
+        [
+          "oferece",
+          53
+        ],
+        [
+          "governo",
+          47
+        ],
+        [
+          "homem",
+          46
+        ],
+        [
+          "polícia",
+          45
+        ],
+        [
+          "brasileiro",
+          45
+        ],
+        [
+          "vídeo",
+          45
+        ],
+        [
+          "família",
+          43
+        ],
+        [
+          "morte",
+          41
+        ],
+        [
+          "gerando",
+          39
+        ],
+        [
+          "hospital",
+          39
+        ],
+        [
+          "unidos",
+          38
+        ],
+        [
+          "filho",
+          36
+        ],
+        [
+          "reais",
+          33
+        ],
+        [
+          "afirma",
+          32
+        ],
+        [
+          "dinheiro",
+          31
+        ],
+        [
+          "apenas",
+          31
+        ],
+        [
+          "mulher",
+          30
+        ],
+        [
+          "revelou",
+          30
+        ],
+        [
+          "mundo",
+          29
+        ]
+      ]
+    }
+  }
+}

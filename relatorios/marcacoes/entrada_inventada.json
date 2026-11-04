@@ -1,0 +1,785 @@
+{
+ "marcacao": "entrada_inventada",
+ "motivo": "falsa da via llm cujo texto não existe no artigo de checagem (cobertura lexical < 0,5; 30 de 30 confirmados como inventados na validação no site ao vivo)",
+ "n": 111,
+ "fonte_cortada": 17,
+ "itens": [
+  {
+   "id": "F7a8efc7ef1a0",
+   "url": "https://www.boatos.org/entretenimento/jackie-chan-morreu-em-novembro-de-2025.html",
+   "cobertura": 0.125,
+   "fonte_cortada": true,
+   "pareado": true
+  },
+  {
+   "id": "F6a95ee0978a5",
+   "url": "https://www.boatos.org/entretenimento/isis-valverde-morreu-em-acidente-de-carro-com-pneu-estourado.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fbc608a0675c3",
+   "url": "https://www.boatos.org/tecnologia/questionario-da-shopee-da-kits-de-produtos-gratis-para-quem-pagar-frete.html",
+   "cobertura": 0.25,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "F2e3db1fe5892",
+   "url": "https://www.boatos.org/entretenimento/kleber-bambam-morreu-em-setembro-de-2025.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "F98333a8628ec",
+   "url": "https://www.boatos.org/entretenimento/sabina-simonato-saiu-da-tv-globo-e-se-despediu-ao-vivo-em-telejornal.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fa7cddb7821ca",
+   "url": "https://www.boatos.org/esporte/vinicius-jr-esta-namorando-modelo-trans-chamada-isabella-ladera.html",
+   "cobertura": 0.25,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F1c116972195d",
+   "url": "https://www.boatos.org/entretenimento/luciano-huck-e-angelica-proibiram-namoro-do-filho-com-mulher-negra.html",
+   "cobertura": 0.286,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Feb76389cab29",
+   "url": "https://www.boatos.org/entretenimento/rafa-kalimann-teve-entrevista-censurada-apos-revelar-investimento-milionario.html",
+   "cobertura": 0.0,
+   "fonte_cortada": true,
+   "pareado": true
+  },
+  {
+   "id": "F976a6cb9cf75",
+   "url": "https://www.boatos.org/entretenimento/irmas-cegas-violinista-e-pianista-sobreviventes-da-bomba-de-hiroshima-emocionam-jurados-do-americas-got-talent.html",
+   "cobertura": 0.2,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F9e4b00a8a5d3",
+   "url": "https://www.boatos.org/brasil/abastecer-gasolina-por-litro-e-nao-por-dinheiro-evita-fraude-em-bombas-de-combustiveis-em-postos.html",
+   "cobertura": 0.0,
+   "fonte_cortada": true,
+   "pareado": true
+  },
+  {
+   "id": "F74f04ac4cf9c",
+   "url": "https://www.boatos.org/esporte/romario-e-renato-aragao-morreram-em-setembro-de-2024.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F02270dac3d0f",
+   "url": "https://www.boatos.org/entretenimento/luiz-gonzaga-criou-musica-xote-dos-cabeludos-para-dar-resposta-a-roberto-carlos.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "Ff3e27e9fb163",
+   "url": "https://www.boatos.org/entretenimento/luiz-gonzaga-criou-musica-xote-dos-cabeludos-para-dar-resposta-a-roberto-carlos.html",
+   "cobertura": 0.143,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "Fa111b3085033",
+   "url": "https://www.boatos.org/entretenimento/luiz-gonzaga-criou-musica-xote-dos-cabeludos-para-dar-resposta-a-roberto-carlos.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F028af67bfc13",
+   "url": "https://www.boatos.org/politica/congresso-dos-eua-deu-48-horas-para-alexandre-de-moraes-entregar-documentos-sobre-elon-musk.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "F5bb2b865e7df",
+   "url": "https://www.boatos.org/tecnologia/governo-esta-dando-celulares-para-todos-os-cadastrados-no-cadunico.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "Fe34c7e16f75a",
+   "url": "https://www.boatos.org/esporte/fifa-ja-negou-a-utilizacao-do-cartao-azul-no-futebol.html",
+   "cobertura": 0.125,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F543af6740218",
+   "url": "https://www.boatos.org/esporte/fifa-ja-negou-a-utilizacao-do-cartao-azul-no-futebol.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F8e3ca69cf203",
+   "url": "https://www.boatos.org/esporte/fifa-ja-negou-a-utilizacao-do-cartao-azul-no-futebol.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Ff6f685776115",
+   "url": "https://www.boatos.org/esporte/fifa-ja-negou-a-utilizacao-do-cartao-azul-no-futebol.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F81b3c9c25b52",
+   "url": "https://www.boatos.org/entretenimento/juliette-e-grazi-massafera-estao-namorando.html",
+   "cobertura": 0.222,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F9b21f08d7854",
+   "url": "https://www.boatos.org/brasil/funai-paga-bolsa-de-r-15-mil-para-indio-com-dinheiro-do-povo.html",
+   "cobertura": 0.111,
+   "fonte_cortada": true,
+   "pareado": true
+  },
+  {
+   "id": "F352d2ca82d0c",
+   "url": "https://www.boatos.org/brasil/novas-multas-estao-valendo-a-partir-de-hoje-2022-e-cnh-so-podera-ser-renovada-em-ate-30-dias-apos-vencimento.html",
+   "cobertura": 0.0,
+   "fonte_cortada": true,
+   "pareado": true
+  },
+  {
+   "id": "Fc1a95c45d656",
+   "url": "https://www.boatos.org/entretenimento/geraldo-luis-apresentador-morreu-hoje.html",
+   "cobertura": 0.143,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F0a350785a731",
+   "url": "https://www.boatos.org/brasil/menina-pietra-sequestrada-praia-do-engenho-desaparecida.html",
+   "cobertura": 0.143,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "Fae9de69ab003",
+   "url": "https://www.boatos.org/brasil/mst-derrubou-torres-estacao-transmissao-amapa.html",
+   "cobertura": 0.167,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F8fbe4f0e7492",
+   "url": "https://www.boatos.org/esporte/falcao-mario-quintana-despejado-de-hotel.html",
+   "cobertura": 0.0,
+   "fonte_cortada": true,
+   "pareado": false
+  },
+  {
+   "id": "Fada4efb4ba14",
+   "url": "https://www.boatos.org/entretenimento/renata-vasconcellos-demitida-globo-tristeza-altas-horas.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fdcb398d56833",
+   "url": "https://www.boatos.org/entretenimento/clint-eastwood-morreu-89-anos.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "F9a69c3582610",
+   "url": "https://www.boatos.org/entretenimento/vencedor-the-voice-internacional-musica-brasileira.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fedc0cf9c5bd1",
+   "url": "https://www.boatos.org/entretenimento/vencedor-the-voice-internacional-musica-brasileira.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fe4436e02f9b8",
+   "url": "https://www.boatos.org/entretenimento/vencedor-the-voice-internacional-musica-brasileira.html",
+   "cobertura": 0.143,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F1a34f3434541",
+   "url": "https://www.boatos.org/entretenimento/vencedor-the-voice-internacional-musica-brasileira.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fe0ecea548c36",
+   "url": "https://www.boatos.org/entretenimento/vencedor-the-voice-internacional-musica-brasileira.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F220a8e9c8182",
+   "url": "https://www.boatos.org/entretenimento/vencedor-the-voice-internacional-musica-brasileira.html",
+   "cobertura": 0.25,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F260fca51e0bc",
+   "url": "https://www.boatos.org/entretenimento/vencedor-the-voice-internacional-musica-brasileira.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F1b4a80a82465",
+   "url": "https://www.boatos.org/entretenimento/vencedor-the-voice-internacional-musica-brasileira.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F0959552058f9",
+   "url": "https://www.boatos.org/entretenimento/vencedor-the-voice-internacional-musica-brasileira.html",
+   "cobertura": 0.143,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F04009b1dee68",
+   "url": "https://www.boatos.org/entretenimento/vencedor-the-voice-internacional-musica-brasileira.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F46e95abd8902",
+   "url": "https://www.boatos.org/esporte/mane-garrincha-fogo-incendio-criminoso.html",
+   "cobertura": 0.182,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "Fd2a40110c2f5",
+   "url": "https://www.boatos.org/esporte/mane-garrincha-fogo-incendio-criminoso.html",
+   "cobertura": 0.3,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fa43ff2c7cacb",
+   "url": "https://www.boatos.org/esporte/mane-garrincha-fogo-incendio-criminoso.html",
+   "cobertura": 0.083,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F14d40e14fd8d",
+   "url": "https://www.boatos.org/politica/flavio-dino-cartao-credito-auxilio-reclusao.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F874d3a7b07ef",
+   "url": "https://www.boatos.org/politica/flavio-dino-cartao-credito-auxilio-reclusao.html",
+   "cobertura": 0.091,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Ffd05c58ad994",
+   "url": "https://www.boatos.org/politica/flavio-dino-cartao-credito-auxilio-reclusao.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F0fbc01d148e3",
+   "url": "https://www.boatos.org/politica/lula-dilma-us-150-milhoes-banco-suica.html",
+   "cobertura": 0.1,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F78405a2b4abb",
+   "url": "https://www.boatos.org/brasil/oab-processo-licenciamento-taxa-grt.html",
+   "cobertura": 0.143,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F1fb844de5e6c",
+   "url": "https://www.boatos.org/brasil/oab-processo-licenciamento-taxa-grt.html",
+   "cobertura": 0.143,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F53c7eff7bbee",
+   "url": "https://www.boatos.org/entretenimento/silvio-santos-compra-50-globo.html",
+   "cobertura": 0.111,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F0d7bb0750509",
+   "url": "https://www.boatos.org/brasil/lei-federal-proibe-reboque-veiculos.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F8cb15188c6d0",
+   "url": "https://www.boatos.org/brasil/lei-federal-proibe-reboque-veiculos.html",
+   "cobertura": 0.211,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fd50125ed50c7",
+   "url": "https://www.boatos.org/brasil/lei-federal-proibe-reboque-veiculos.html",
+   "cobertura": 0.056,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F43fd745909d8",
+   "url": "https://www.boatos.org/entretenimento/carlos-villagran-kiko-morreu-74-anos.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fc7b329897bd8",
+   "url": "https://www.boatos.org/religiao/7-boatos-muculmanos-refugiados.html",
+   "cobertura": 0.308,
+   "fonte_cortada": true,
+   "pareado": true
+  },
+  {
+   "id": "F2769a7b6d873",
+   "url": "https://www.boatos.org/religiao/7-boatos-muculmanos-refugiados.html",
+   "cobertura": 0.067,
+   "fonte_cortada": true,
+   "pareado": true
+  },
+  {
+   "id": "F694e2f5e1e75",
+   "url": "https://www.boatos.org/religiao/7-boatos-muculmanos-refugiados.html",
+   "cobertura": 0.214,
+   "fonte_cortada": true,
+   "pareado": true
+  },
+  {
+   "id": "Fc88bf2663f8e",
+   "url": "https://www.boatos.org/religiao/7-boatos-muculmanos-refugiados.html",
+   "cobertura": 0.167,
+   "fonte_cortada": true,
+   "pareado": true
+  },
+  {
+   "id": "F10e0682206bc",
+   "url": "https://www.boatos.org/religiao/7-boatos-muculmanos-refugiados.html",
+   "cobertura": 0.143,
+   "fonte_cortada": true,
+   "pareado": true
+  },
+  {
+   "id": "Fac5f518830e1",
+   "url": "https://www.boatos.org/politica/7-boatos-teori-zavascki-lava-jato.html",
+   "cobertura": 0.0,
+   "fonte_cortada": true,
+   "pareado": false
+  },
+  {
+   "id": "F6e213ffa873a",
+   "url": "https://www.boatos.org/entretenimento/luan-santana-se-nega-a-fazer-show-no-ms-diz-noticia-falsa.html",
+   "cobertura": 0.167,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "Fafeb4f31628b",
+   "url": "https://www.boatos.org/mundo/marido-descobre-traicao-ao-ver-botas-em-foto-da-mulher-diz-historia-falsa.html",
+   "cobertura": 0.143,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F02a6b9a584ff",
+   "url": "https://www.boatos.org/mundo/mulher-manda-nude-sem-querer-para-o-chefe-e-ele-responde-diz-lorota.html",
+   "cobertura": 0.2,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fc0f5bc01fb7c",
+   "url": "https://www.boatos.org/esporte/neymar-e-encontrado-morto-preso-humilhado.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "Fecb14f67dbd3",
+   "url": "https://www.boatos.org/esporte/neymar-e-encontrado-morto-preso-humilhado.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "Ff4a4c134d4f0",
+   "url": "https://www.boatos.org/esporte/neymar-e-encontrado-morto-preso-humilhado.html",
+   "cobertura": 0.167,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "F81f2bb4d3aba",
+   "url": "https://www.boatos.org/entretenimento/faustao-sera-demitido-da-globo-por-causa-de-declaracao-diz-boato.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fc055540b5f57",
+   "url": "https://www.boatos.org/brasil/dono-da-tramontina-era-porteiro-da-zona-afirma-boato.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "Fa9f08d8a516d",
+   "url": "https://www.boatos.org/entretenimento/theo-becker-morreu-site-ator-e-hackeado-e-da-noticia-falsa.html",
+   "cobertura": 0.125,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F73d3e5988a92",
+   "url": "https://www.boatos.org/politica/imagem-que-mostra-extrato-de-r-2-600-bolsa-familia-e-falsa.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F53e5b92a3599",
+   "url": "https://www.boatos.org/tecnologia/montagem-nokia-lanca-celular-que-envia-mensagem-diz-capa-de-jornal.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Ff7132eb72d31",
+   "url": "https://www.boatos.org/tecnologia/montagem-nokia-lanca-celular-que-envia-mensagem-diz-capa-de-jornal.html",
+   "cobertura": 0.167,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F3ef4a54c9449",
+   "url": "https://www.boatos.org/tecnologia/montagem-nokia-lanca-celular-que-envia-mensagem-diz-capa-de-jornal.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fe2e2c61229b9",
+   "url": "https://www.boatos.org/tecnologia/montagem-nokia-lanca-celular-que-envia-mensagem-diz-capa-de-jornal.html",
+   "cobertura": 0.167,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F994553c07291",
+   "url": "https://www.boatos.org/entretenimento/mr-catra-morreu-boato-de-morte-de-funkeiro-agita-redes-sociais.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fb82a6453e80e",
+   "url": "https://www.boatos.org/entretenimento/mr-catra-morreu-boato-de-morte-de-funkeiro-agita-redes-sociais.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F494f5690a5a3",
+   "url": "https://www.boatos.org/entretenimento/mr-catra-morreu-boato-de-morte-de-funkeiro-agita-redes-sociais.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F90260e7220af",
+   "url": "https://www.boatos.org/entretenimento/mr-catra-morreu-boato-de-morte-de-funkeiro-agita-redes-sociais.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F6bef46146d4c",
+   "url": "https://www.boatos.org/tecnologia/tiktok-anuncia-chegou-fim-vai-encerrar-atividades-30-06.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "F18588468bebe",
+   "url": "https://www.boatos.org/tecnologia/tiktok-anuncia-chegou-fim-vai-encerrar-atividades-30-06.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "F385857ffe5a0",
+   "url": "https://www.boatos.org/tecnologia/tiktok-anuncia-chegou-fim-vai-encerrar-atividades-30-06.html",
+   "cobertura": 0.333,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "Fb4cce8b9a250",
+   "url": "https://www.boatos.org/entretenimento/neto-de-neguinho-da-beija-flor-flagrado-fumando-armado.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F9d19e88e5e40",
+   "url": "https://www.boatos.org/entretenimento/lista-lives-artistas-rock-proximos-dias-vazou-internet.html",
+   "cobertura": 0.125,
+   "fonte_cortada": true,
+   "pareado": true
+  },
+  {
+   "id": "F72161bf0f952",
+   "url": "https://www.boatos.org/esporte/galvao-bueno-morreu-hoje-acidente.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fd5922f0bfeae",
+   "url": "https://www.boatos.org/entretenimento/rede-globo-demite-maju-otaviano-fernanda-gentil.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F9333ed7892d4",
+   "url": "https://www.boatos.org/entretenimento/rede-globo-demite-maju-otaviano-fernanda-gentil.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F30fde8ee2158",
+   "url": "https://www.boatos.org/entretenimento/rede-globo-demite-maju-otaviano-fernanda-gentil.html",
+   "cobertura": 0.333,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "F89c979d49bae",
+   "url": "https://www.boatos.org/entretenimento/rede-globo-demite-maju-otaviano-fernanda-gentil.html",
+   "cobertura": 0.143,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fa1b1605544d5",
+   "url": "https://www.boatos.org/entretenimento/rede-globo-demite-maju-otaviano-fernanda-gentil.html",
+   "cobertura": 0.25,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "F1af8806a1ac2",
+   "url": "https://www.boatos.org/brasil/reporter-cardinot-morreu-assassinado.html",
+   "cobertura": 0.286,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "F1dbc67bd6265",
+   "url": "https://www.boatos.org/entretenimento/morre-roberta-miranda-aos-59-anos-de-infarto-boato.html",
+   "cobertura": 0.118,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fd64db2d06dca",
+   "url": "https://www.boatos.org/tecnologia/liminar-que-bloqueava-whatsapp-por-48-horas.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fa3bdee44dbb1",
+   "url": "https://www.boatos.org/tecnologia/liminar-que-bloqueava-whatsapp-por-48-horas.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F665bf1ea5679",
+   "url": "https://www.boatos.org/tecnologia/liminar-que-bloqueava-whatsapp-por-48-horas.html",
+   "cobertura": 0.167,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fd8d9c254fe01",
+   "url": "https://www.boatos.org/mundo/torre-eiffel-fica-verde-e-amarela-por-tragedia-em-mariana-mg-diz-hoax.html",
+   "cobertura": 0.231,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F6ac2f3f1d802",
+   "url": "https://www.boatos.org/mundo/torre-eiffel-fica-verde-e-amarela-por-tragedia-em-mariana-mg-diz-hoax.html",
+   "cobertura": 0.111,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F355848b9b047",
+   "url": "https://www.boatos.org/esporte/mentira-detentos-sao-liberados-e-ganham-r-278-para-ver-copa-mundo.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "F292f252d1f79",
+   "url": "https://www.boatos.org/esporte/noticia-sobre-racismo-de-torcida-atletico-mg-contra-tinga-e-falsa.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "F374603f8fdf1",
+   "url": "https://www.boatos.org/entretenimento/informacao-que-rachel-sheherazade-foi-demitida-sbt-e-falsa.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F0f1aa7e166bb",
+   "url": "https://www.boatos.org/lista/5-mitos-errados-sobre-servicos-de-streaming-e-iptv-no-brasil.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": false
+  },
+  {
+   "id": "F9cd06bb8a1d8",
+   "url": "https://www.boatos.org/politica/trump-diz-que-vai-cortar-o-gps-do-brasil-como-retaliacao-ao-pais.html",
+   "cobertura": 0.05,
+   "fonte_cortada": true,
+   "pareado": true
+  },
+  {
+   "id": "Fd6c7e932d149",
+   "url": "https://www.boatos.org/esporte/maxi-biancucchi-primo-de-messi-morreu-aos-40-anos.html",
+   "cobertura": 0.091,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fddad0da2d7bd",
+   "url": "https://www.boatos.org/entretenimento/cantor-leonardo-morreu-hoje-em-novembro-de-2024.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F86f84aa34c1d",
+   "url": "https://www.boatos.org/brasil/bradesco-seguros-faz-campanha-usando-imagem-homem-negro-realizando-assalto.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F0a2b26f89b31",
+   "url": "https://www.boatos.org/politica/7-boatos-previdencia-e-aposentadoria.html",
+   "cobertura": 0.333,
+   "fonte_cortada": true,
+   "pareado": true
+  },
+  {
+   "id": "F4564abcd2374",
+   "url": "https://www.boatos.org/tecnologia/7-golpes-novas-funcionalidades-whatsapp.html",
+   "cobertura": 0.0,
+   "fonte_cortada": true,
+   "pareado": true
+  },
+  {
+   "id": "F4434a0bc552d",
+   "url": "https://www.boatos.org/entretenimento/djavan-fez-musica-flor-de-lis-para-boato.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F9393e0b996d3",
+   "url": "https://www.boatos.org/entretenimento/carlos-moreno-garoto-bombril-morreu-hoje-sqn.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Ffb2fa06ac9c3",
+   "url": "https://www.boatos.org/mundo/pegadinha-francesa-gravida-faz-video-para-encontrar-pai-do-bebe.html",
+   "cobertura": 0.25,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F5f9d63c2cf8e",
+   "url": "https://www.boatos.org/politica/informacao-errada-diploma-obrigatorio-para-jornalistas-e-aprovado.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "Fd51603e8feb6",
+   "url": "https://www.boatos.org/mundo/protesto-na-alemanha-gera-abandono-de-mais-de-um-milhao-de-automoveis.html",
+   "cobertura": 0.0,
+   "fonte_cortada": false,
+   "pareado": true
+  },
+  {
+   "id": "F72b04d68f0f3",
+   "url": "https://www.boatos.org/brasil/7-anuncios-falsos-de-emprego.html",
+   "cobertura": 0.0,
+   "fonte_cortada": true,
+   "pareado": false
+  }
+ ]
+}

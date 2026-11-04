@@ -1,0 +1,145 @@
+{
+  "n": 200,
+  "por_classe": {
+    "FALSO": {
+      "n": 100,
+      "categorias": {
+        "fiel": {
+          "n": 94,
+          "pct": 94.0,
+          "ic95": [
+            87.5,
+            97.2
+          ]
+        },
+        "mudou_sentido": {
+          "n": 2,
+          "pct": 2.0,
+          "ic95": [
+            0.6,
+            7.0
+          ]
+        },
+        "inventou": {
+          "n": 2,
+          "pct": 2.0,
+          "ic95": [
+            0.6,
+            7.0
+          ]
+        },
+        "perdeu_central": {
+          "n": 2,
+          "pct": 2.0,
+          "ic95": [
+            0.6,
+            7.0
+          ]
+        }
+      },
+      "distorcao": {
+        "n": 4,
+        "pct": 4.0,
+        "ic95": [
+          1.6,
+          9.8
+        ]
+      }
+    },
+    "VERDADEIRO": {
+      "n": 100,
+      "categorias": {
+        "fiel": {
+          "n": 98,
+          "pct": 98.0,
+          "ic95": [
+            93.0,
+            99.4
+          ]
+        },
+        "mudou_sentido": {
+          "n": 2,
+          "pct": 2.0,
+          "ic95": [
+            0.6,
+            7.0
+          ]
+        },
+        "inventou": {
+          "n": 0,
+          "pct": 0.0,
+          "ic95": [
+            0.0,
+            3.7
+          ]
+        },
+        "perdeu_central": {
+          "n": 0,
+          "pct": 0.0,
+          "ic95": [
+            0.0,
+            3.7
+          ]
+        }
+      },
+      "distorcao": {
+        "n": 2,
+        "pct": 2.0,
+        "ic95": [
+          0.6,
+          7.0
+        ]
+      }
+    }
+  },
+  "distorcao_falso_menos_verdadeiro_pp": 2.0,
+  "passou": true,
+  "classe_mais_distorcida": "falsa",
+  "previsao_pesquisador_acertou": true,
+  "kappa": {
+    "n": 200,
+    "quatro_categorias": 0.087,
+    "distorcao": 0.14
+  },
+  "adjudicado": {
+    "por_classe": {
+      "FALSO": {
+        "n": 100,
+        "categorias": {
+          "fiel": 84,
+          "mudou_sentido": 8,
+          "perdeu_central": 3,
+          "inventou": 5
+        },
+        "distorcao": {
+          "n": 13,
+          "pct": 13.0,
+          "ic95": [
+            7.8,
+            21.0
+          ]
+        }
+      },
+      "VERDADEIRO": {
+        "n": 100,
+        "categorias": {
+          "fiel": 85,
+          "perdeu_central": 2,
+          "mudou_sentido": 10,
+          "inventou": 3
+        },
+        "distorcao": {
+          "n": 13,
+          "pct": 13.0,
+          "ic95": [
+            7.8,
+            21.0
+          ]
+        }
+      }
+    },
+    "distorcao_falso_menos_verdadeiro_pp": 0.0,
+    "passou": true,
+    "itens_alterados_vs_anotador_1": 24
+  }
+}

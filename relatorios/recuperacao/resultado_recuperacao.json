@@ -1,0 +1,110 @@
+{
+  "coluna_usada": "consenso_j1",
+  "n_pares": 665,
+  "por_sistema": {
+    "S0": {
+      "sucesso_3": 0.0,
+      "sucesso_3_ic95": [
+        0.0,
+        7.1
+      ],
+      "precisao_1": 0.0,
+      "precisao_1_ic95": [
+        0.0,
+        7.1
+      ]
+    },
+    "S1": {
+      "sucesso_3": 2.0,
+      "sucesso_3_ic95": [
+        0.4,
+        10.5
+      ],
+      "precisao_1": 2.0,
+      "precisao_1_ic95": [
+        0.4,
+        10.5
+      ]
+    },
+    "S2": {
+      "sucesso_3": 2.0,
+      "sucesso_3_ic95": [
+        0.4,
+        10.5
+      ],
+      "precisao_1": 2.0,
+      "precisao_1_ic95": [
+        0.4,
+        10.5
+      ]
+    },
+    "S3": {
+      "sucesso_3": 4.0,
+      "sucesso_3_ic95": [
+        1.1,
+        13.5
+      ],
+      "precisao_1": 4.0,
+      "precisao_1_ic95": [
+        1.1,
+        13.5
+      ]
+    },
+    "S4": {
+      "sucesso_3": 4.0,
+      "sucesso_3_ic95": [
+        1.1,
+        13.5
+      ],
+      "precisao_1": 4.0,
+      "precisao_1_ic95": [
+        1.1,
+        13.5
+      ]
+    }
+  },
+  "cobertura": {
+    "pct": 4.0,
+    "ic95": [
+      1.1,
+      13.5
+    ]
+  },
+  "utilidade_justificativa": {
+    "n": 4,
+    "contagem": {
+      "em_parte": 3,
+      "sim": 1
+    },
+    "pct_sim": 25.0
+  },
+  "comparacoes": {
+    "S2-S1": {
+      "dif_pp": 0.0,
+      "so_S2": 0,
+      "so_S1": 0,
+      "p": 1.0,
+      "p_holm": 1.0
+    },
+    "S4-S3": {
+      "dif_pp": 0.0,
+      "so_S4": 0,
+      "so_S3": 0,
+      "p": 1.0,
+      "p_holm": 1.0
+    },
+    "S3-S1": {
+      "dif_pp": 2.0,
+      "so_S3": 1,
+      "so_S1": 0,
+      "p": 1.0,
+      "p_holm": 1.0
+    }
+  },
+  "leitura": "os boatos pouco se repetem ou a busca falha (ver cobertura)",
+  "concordancia": {
+    "kappa_3_categorias": 0.24,
+    "kappa_mesma_sim_nao": -0.005,
+    "divergencias": 75
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "preregistro_commit": "954a2d9",
+  "interno": 0.9119,
+  "ambiguidades": [
+    "Entrada B: o pré-registro fixa a normalização só para a entrada A; aplicada também aos títulos, para as duas entradas passarem pelo mesmo pré-processamento.",
+    "Entrada A: 'primeiro fim de frase depois de 250 caracteres' foi lido literalmente -- o corte acontece no primeiro . ! ? a partir do caractere 250, onde quer que esteja; só sem nenhum fim de frase depois de 250 é que o corte é em 300."
+  ],
+  "ilegiveis": [],
+  "entrada_A_texto": {
+    "acuracia_balanceada": 0.7351,
+    "revocacao_falso": 0.7275,
+    "revocacao_verdadeiro": 0.7428,
+    "n": 7200,
+    "por_categoria": {
+      "politica": {
+        "acuracia_balanceada": 0.7352,
+        "n": 4180
+      },
+      "tv_celebridades": {
+        "acuracia_balanceada": 0.7927,
+        "n": 1544
+      },
+      "sociedade_cotidiano": {
+        "acuracia_balanceada": 0.6795,
+        "n": 1276
+      },
+      "ciencia_tecnologia": {
+        "acuracia_balanceada": 0.6071,
+        "n": 112
+      },
+      "religiao": {
+        "acuracia_balanceada": 0.6818,
+        "n": 44
+      },
+      "economia": {
+        "acuracia_balanceada": 0.7045,
+        "n": 44
+      }
+    }
+  },
+  "entrada_B_titulo": {
+    "acuracia_balanceada": 0.6718,
+    "revocacao_falso": 0.8531,
+    "revocacao_verdadeiro": 0.4905,
+    "n": 1892,
+    "por_categoria": {
+      "politica": {
+        "acuracia_balanceada": 0.6609,
+        "n": 976
+      },
+      "tv_celebridades": {
+        "acuracia_balanceada": 0.7208,
+        "n": 462
+      },
+      "sociedade_cotidiano": {
+        "acuracia_balanceada": 0.6359,
+        "n": 390
+      },
+      "ciencia_tecnologia": {
+        "acuracia_balanceada": 0.6667,
+        "n": 42
+      },
+      "economia": {
+        "acuracia_balanceada": 0.8333,
+        "n": 12
+      },
+      "religiao": {
+        "acuracia_balanceada": 0.7,
+        "n": 10
+      }
+    }
+  },
+  "titulos_identificados": {
+    "fake": 3388,
+    "true": 1126
+  },
+  "leitura": "70–85%: transferência parcial -- parte conteúdo/sensacionalismo, parte gênero."
+}

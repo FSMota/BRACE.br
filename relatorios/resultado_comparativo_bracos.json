@@ -1,0 +1,612 @@
+{
+  "prompt_versao": "cego-v2",
+  "prompt_sha": "61d3e5623fccdf41",
+  "ambiguidades": [
+    "C1: 'só o número de palavras (e o de caracteres)' -- implementado como os dois atributos juntos (palavras e log de caracteres), padronizados no treino, regressão logística com C pela validação na mesma grade.",
+    "C1 > 60%: 'a acurácia do refinado acima desse baseline' é relatada como diferença em pp (refinado − tamanho), interno e Fake.br; 'refinado + tamanho' = TF-IDF da frase ao lado dos dois atributos de tamanho padronizados.",
+    "C2: frases 'com a marca' são tiradas de TODAS as partes e das duas classes (treino, validação, teste e Fake.br), e o braço refinado é retreinado sem elas.",
+    "C4 sobreposição: frase refinada idêntica após minúsculas e espaços normalizados, presente em mais de uma parte do pareado. 'Acurácia sem elas' = o mesmo modelo, avaliado só nas frases do teste que não aparecem no treino nem na validação.",
+    "C4 embaralhado: usa o C que o braço escolheu com os rótulos reais.",
+    "H1: p-valor por bootstrap bicaudal, 2·min(P(dif ≤ 0), P(dif ≥ 0)), com piso 1/N_BOOT, para entrar na correção de Holm junto dos dois McNemar.",
+    "H1 (a)/(b): (a) se o refinado for melhor que o bruto no Fake.br com McNemar significativo após Holm; (b) se for pior com significância; se não houver diferença significativa no Fake.br, a queda menor vem só do interno -- lido como (b) (não é 'generaliza melhor').",
+    "Bootstrap: os mesmos índices reamostrados em todos os braços (os itens são os mesmos), o que torna pareadas as comparações entre braços."
+  ],
+  "conjunto": {
+    "registros_lidos": 31149,
+    "excluidos_nao_boato": 0,
+    "anotacao_apurada": false,
+    "perda_pareado_pct": 0.0,
+    "por_split": {
+      "treino": {
+        "FALSO": 8353,
+        "VERDADEIRO": 8354
+      },
+      "validacao": {
+        "FALSO": 1040,
+        "VERDADEIRO": 1040
+      },
+      "teste": {
+        "FALSO": 2581,
+        "VERDADEIRO": 2581
+      },
+      "fakebr": {
+        "FALSO": 3600,
+        "VERDADEIRO": 3600
+      }
+    }
+  },
+  "C2": {
+    "por_grupo": {
+      "corpus_falso": {
+        "n": 11974,
+        "palavras_media": 19.07,
+        "pct_mais_de_25": 13.21,
+        "pct_mais_de_1_frase": 1.14,
+        "pct_ajustada": 0.07,
+        "pct_atribuicao": 14.31,
+        "pct_distanciamento": 1.8,
+        "pct_veredito": 1.47,
+        "pct_metatexto": 4.43
+      },
+      "corpus_verdadeiro": {
+        "n": 11975,
+        "palavras_media": 21.48,
+        "pct_mais_de_25": 22.65,
+        "pct_mais_de_1_frase": 0.24,
+        "pct_ajustada": 0.01,
+        "pct_atribuicao": 15.06,
+        "pct_distanciamento": 0.44,
+        "pct_veredito": 0.3,
+        "pct_metatexto": 0.47
+      },
+      "fakebr_falso": {
+        "n": 3600,
+        "palavras_media": 19.69,
+        "pct_mais_de_25": 13.03,
+        "pct_mais_de_1_frase": 0.75,
+        "pct_ajustada": 0.03,
+        "pct_atribuicao": 20.03,
+        "pct_distanciamento": 1.42,
+        "pct_veredito": 0.19,
+        "pct_metatexto": 0.42
+      },
+      "fakebr_verdadeiro": {
+        "n": 3600,
+        "palavras_media": 21.86,
+        "pct_mais_de_25": 22.94,
+        "pct_mais_de_1_frase": 0.36,
+        "pct_ajustada": 0.03,
+        "pct_atribuicao": 19.67,
+        "pct_distanciamento": 1.42,
+        "pct_veredito": 0.19,
+        "pct_metatexto": 0.36
+      },
+      "diferenca_corpus": {
+        "atribuicao": -0.75,
+        "distanciamento": 1.36,
+        "veredito": 1.17,
+        "metatexto": 3.96,
+        "mais_de_25": -9.44,
+        "mais_de_1_frase": 0.9,
+        "ajustada": 0.06,
+        "palavras": -2.41
+      },
+      "diferenca_fakebr": {
+        "atribuicao": 0.36,
+        "distanciamento": 0.0,
+        "veredito": 0.0,
+        "metatexto": 0.06,
+        "mais_de_25": -9.91,
+        "mais_de_1_frase": 0.39,
+        "ajustada": 0.0,
+        "palavras": -2.17
+      }
+    },
+    "marcas_acima_do_limiar": [],
+    "veredito_falsas_corpus_pct": 1.47,
+    "vazamento_veredito": false,
+    "passou": true
+  },
+  "C1": {
+    "interno": 57.25,
+    "interno_ic95": [
+      55.93,
+      58.54
+    ],
+    "fakebr": 55.62,
+    "C": 0.1,
+    "atalho": 0.0,
+    "passou": true
+  },
+  "bracos": {
+    "bruto": {
+      "C": 10.0,
+      "validacao": 92.74,
+      "interno": 91.19,
+      "interno_ic95": [
+        90.43,
+        91.91
+      ],
+      "interno_rev_falso": 92.48,
+      "interno_rev_verdadeiro": 89.89,
+      "fakebr": 73.53,
+      "fakebr_ic95": [
+        72.47,
+        74.5
+      ],
+      "fakebr_rev_falso": 73.14,
+      "fakebr_rev_verdadeiro": 73.92,
+      "queda_pp": 17.66,
+      "queda_ic95": [
+        16.43,
+        18.89
+      ],
+      "fakebr_por_categoria": {
+        "politica": {
+          "acuracia_balanceada": 73.47,
+          "n": 4180
+        },
+        "tv_celebridades": {
+          "acuracia_balanceada": 79.02,
+          "n": 1544
+        },
+        "sociedade_cotidiano": {
+          "acuracia_balanceada": 68.26,
+          "n": 1276
+        },
+        "ciencia_tecnologia": {
+          "acuracia_balanceada": 62.5,
+          "n": 112
+        },
+        "economia": {
+          "acuracia_balanceada": 72.73,
+          "n": 44
+        },
+        "religiao": {
+          "acuracia_balanceada": 68.18,
+          "n": 44
+        }
+      }
+    },
+    "refinado": {
+      "C": 10.0,
+      "validacao": 82.79,
+      "interno": 81.73,
+      "interno_ic95": [
+        80.69,
+        82.78
+      ],
+      "interno_rev_falso": 82.64,
+      "interno_rev_verdadeiro": 80.82,
+      "fakebr": 66.31,
+      "fakebr_ic95": [
+        65.24,
+        67.36
+      ],
+      "fakebr_rev_falso": 68.39,
+      "fakebr_rev_verdadeiro": 64.22,
+      "queda_pp": 15.43,
+      "queda_ic95": [
+        13.86,
+        16.94
+      ],
+      "fakebr_por_categoria": {
+        "politica": {
+          "acuracia_balanceada": 64.71,
+          "n": 4180
+        },
+        "tv_celebridades": {
+          "acuracia_balanceada": 71.96,
+          "n": 1544
+        },
+        "sociedade_cotidiano": {
+          "acuracia_balanceada": 65.44,
+          "n": 1276
+        },
+        "ciencia_tecnologia": {
+          "acuracia_balanceada": 60.71,
+          "n": 112
+        },
+        "economia": {
+          "acuracia_balanceada": 63.64,
+          "n": 44
+        },
+        "religiao": {
+          "acuracia_balanceada": 61.36,
+          "n": 44
+        }
+      }
+    },
+    "combinado": {
+      "C": 10.0,
+      "validacao": 92.5,
+      "interno": 91.17,
+      "interno_ic95": [
+        90.4,
+        91.88
+      ],
+      "interno_rev_falso": 92.72,
+      "interno_rev_verdadeiro": 89.62,
+      "fakebr": 72.96,
+      "fakebr_ic95": [
+        71.91,
+        73.94
+      ],
+      "fakebr_rev_falso": 70.75,
+      "fakebr_rev_verdadeiro": 75.17,
+      "queda_pp": 18.21,
+      "queda_ic95": [
+        16.94,
+        19.47
+      ],
+      "fakebr_por_categoria": {
+        "politica": {
+          "acuracia_balanceada": 72.54,
+          "n": 4180
+        },
+        "tv_celebridades": {
+          "acuracia_balanceada": 78.89,
+          "n": 1544
+        },
+        "sociedade_cotidiano": {
+          "acuracia_balanceada": 68.34,
+          "n": 1276
+        },
+        "ciencia_tecnologia": {
+          "acuracia_balanceada": 62.5,
+          "n": 112
+        },
+        "economia": {
+          "acuracia_balanceada": 70.45,
+          "n": 44
+        },
+        "religiao": {
+          "acuracia_balanceada": 68.18,
+          "n": 44
+        }
+      }
+    }
+  },
+  "bruto_vs_adendo5_pp": {
+    "interno": 0.0,
+    "fakebr": 0.02
+  },
+  "termos_refinado": {
+    "FALSO": [
+      [
+        "globo",
+        9.806
+      ],
+      [
+        "texto",
+        9.581
+      ],
+      [
+        "uma",
+        9.159
+      ],
+      [
+        "um",
+        8.439
+      ],
+      [
+        "00",
+        7.558
+      ],
+      [
+        "foi",
+        7.113
+      ],
+      [
+        "ivermectina",
+        6.895
+      ],
+      [
+        "vídeo",
+        6.869
+      ],
+      [
+        "esquerda",
+        6.447
+      ],
+      [
+        "reais",
+        6.08
+      ],
+      [
+        "lula",
+        5.959
+      ],
+      [
+        "fraude",
+        5.76
+      ],
+      [
+        "bolsonaro",
+        5.658
+      ],
+      [
+        "whatsapp",
+        5.505
+      ],
+      [
+        "dinheiro",
+        5.387
+      ],
+      [
+        "proibiu",
+        5.313
+      ],
+      [
+        "exército",
+        5.247
+      ],
+      [
+        "falsa",
+        5.201
+      ],
+      [
+        "pt",
+        5.14
+      ],
+      [
+        "covid",
+        5.104
+      ],
+      [
+        "governo bolsonaro",
+        5.052
+      ],
+      [
+        "000",
+        5.047
+      ],
+      [
+        "vendeu",
+        5.028
+      ],
+      [
+        "deus",
+        4.967
+      ],
+      [
+        "faleceu",
+        4.863
+      ]
+    ],
+    "VERDADEIRO": [
+      [
+        "senado",
+        -8.344
+      ],
+      [
+        "câmara",
+        -6.269
+      ],
+      [
+        "casos",
+        -6.196
+      ],
+      [
+        "bolsonaro afirma",
+        -5.932
+      ],
+      [
+        "deixou",
+        -5.847
+      ],
+      [
+        "negou",
+        -5.782
+      ],
+      [
+        "sobre",
+        -5.69
+      ],
+      [
+        "violência",
+        -5.685
+      ],
+      [
+        "acordo",
+        -5.645
+      ],
+      [
+        "aprovou",
+        -5.574
+      ],
+      [
+        "fiocruz",
+        -5.551
+      ],
+      [
+        "ministério",
+        -5.46
+      ],
+      [
+        "presidente jair",
+        -5.386
+      ],
+      [
+        "anvisa",
+        -5.373
+      ],
+      [
+        "de",
+        -5.143
+      ],
+      [
+        "trabalho",
+        -5.137
+      ],
+      [
+        "defendeu",
+        -5.072
+      ],
+      [
+        "para",
+        -5.027
+      ],
+      [
+        "senado aprovou",
+        -4.998
+      ],
+      [
+        "novo",
+        -4.97
+      ],
+      [
+        "ampliar",
+        -4.824
+      ],
+      [
+        "disputa",
+        -4.795
+      ],
+      [
+        "venceu",
+        -4.765
+      ],
+      [
+        "são paulo",
+        -4.765
+      ],
+      [
+        "defende",
+        -4.702
+      ]
+    ]
+  },
+  "combinado_massa_coef_bloco_bruto_pct": 64.14,
+  "C4": {
+    "embaralhado": {
+      "refinado": {
+        "acuracias": [
+          52.07,
+          49.3,
+          49.73
+        ],
+        "ok": true
+      },
+      "combinado": {
+        "acuracias": [
+          54.01,
+          50.72,
+          48.53
+        ],
+        "ok": true
+      }
+    },
+    "sobreposicao": {
+      "frases_em_mais_de_uma_parte": 2,
+      "registros": 4,
+      "pct_registros": 0.017,
+      "teste_com_frase_vista": 1,
+      "refinado_interno_sem_elas": 81.73
+    },
+    "passou": true
+  },
+  "rodada_B": {
+    "bruto": {
+      "interno": 91.29,
+      "fakebr": 73.62,
+      "C": 10.0
+    },
+    "refinado": {
+      "interno": 82.03,
+      "fakebr": 66.32,
+      "C": 10.0
+    },
+    "combinado": {
+      "interno": 91.3,
+      "fakebr": 72.78,
+      "C": 10.0
+    }
+  },
+  "confirmatoria": {
+    "H1": {
+      "queda_bruto_menos_refinado_pp": 2.23,
+      "ic95": [
+        0.66,
+        3.85
+      ],
+      "p": 0.007,
+      "p_holm": 0.014,
+      "resultado": "confirmada",
+      "via": "(b)"
+    },
+    "refinado_vs_bruto_fakebr": {
+      "dif_pp": -7.22,
+      "ic95": [
+        -8.4,
+        -6.06
+      ],
+      "p": 2.5375462394145827e-32,
+      "p_holm": 7.612638718243748e-32
+    },
+    "combinado_vs_bruto_fakebr": {
+      "dif_pp": -0.57,
+      "ic95": [
+        -1.28,
+        0.12
+      ],
+      "p": 0.1230372247526604,
+      "p_holm": 0.1230372247526604
+    }
+  },
+  "validade": {
+    "C1_C2_C4_passaram": true,
+    "C3": "pendente"
+  },
+  "leituras": {
+    "refinado_interno": "o conteúdo separa bem, mas abaixo da forma: há diferença de assunto entre as classes dentro do tema",
+    "refinado_fakebr": "o conteúdo transfere de forma comparável à forma (65,18%)",
+    "combinado": "a frase refinada é redundante com o texto bruto"
+  },
+  "confronto": {
+    "R1": {
+      "valor": 81.73,
+      "secao2": true,
+      "pesquisador": true
+    },
+    "R2": {
+      "valor": 66.31,
+      "secao2": false,
+      "pesquisador": true
+    },
+    "R3": {
+      "valor": 15.43,
+      "secao2": true,
+      "pesquisador": false
+    },
+    "R4": {
+      "valor": 91.17,
+      "secao2": true,
+      "pesquisador": true
+    },
+    "R5": {
+      "valor": 72.96,
+      "secao2": true,
+      "pesquisador": true
+    },
+    "R6": {
+      "valor": 4.17,
+      "secao2": true,
+      "pesquisador": true
+    },
+    "C1": {
+      "valor": 57.25,
+      "secao2": false,
+      "pesquisador": true
+    },
+    "C2": {
+      "valor": "nenhuma",
+      "pesquisador": true,
+      "previsao": "nenhuma marca vai diferir >= 10 pp"
+    },
+    "H1": {
+      "valor": "confirmada",
+      "pesquisador": true
+    }
+  }
+}

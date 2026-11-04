@@ -1,0 +1,44 @@
+{
+  "modelo": "qwen3.5:9b",
+  "prompt_versao": "cego-v1",
+  "prompt_sha": "1b2cf00920b621b2",
+  "n_por_grupo": 25,
+  "resumo": {
+    "corpus_falso": {
+      "n": 25,
+      "palavras_media": 20.2,
+      "pct_mais_de_uma_frase": 0.0,
+      "pct_distanciamento": 8.0,
+      "pct_atribuicao": 0.0,
+      "pct_metatexto": 8.0,
+      "segundos_media": 1.83
+    },
+    "corpus_verdadeiro": {
+      "n": 25,
+      "palavras_media": 22.7,
+      "pct_mais_de_uma_frase": 0.0,
+      "pct_distanciamento": 12.0,
+      "pct_atribuicao": 16.0,
+      "pct_metatexto": 0.0,
+      "segundos_media": 1.41
+    },
+    "fakebr_falso": {
+      "n": 25,
+      "palavras_media": 20.6,
+      "pct_mais_de_uma_frase": 0.0,
+      "pct_distanciamento": 4.0,
+      "pct_atribuicao": 12.0,
+      "pct_metatexto": 0.0,
+      "segundos_media": 1.39
+    },
+    "fakebr_verdadeiro": {
+      "n": 25,
+      "palavras_media": 24.8,
+      "pct_mais_de_uma_frase": 0.0,
+      "pct_distanciamento": 4.0,
+      "pct_atribuicao": 12.0,
+      "pct_metatexto": 0.0,
+      "segundos_media": 1.54
+    }
+  }
+}

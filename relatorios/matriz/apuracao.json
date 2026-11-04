@@ -1,0 +1,746 @@
+{
+  "n_modelos": 13,
+  "contagem": {
+    "A1": {
+      "vale_em": 12.0,
+      "de": 13,
+      "leitura": "robusta"
+    },
+    "A2": {
+      "vale_em": 13.0,
+      "de": 13,
+      "leitura": "robusta"
+    },
+    "A3": {
+      "vale_em": 13,
+      "de": 13,
+      "leitura": "robusta"
+    },
+    "A4": {
+      "vale_em": 9,
+      "de": 12,
+      "leitura": "controle: esperado 12 de 12"
+    },
+    "A6": {
+      "vale_em": 6,
+      "de": 13,
+      "leitura": "dependente do modelo"
+    },
+    "A7": {
+      "vale_em": 10.0,
+      "de": 13,
+      "leitura": "robusta"
+    },
+    "A8": {
+      "vale_em": 11,
+      "de": 13,
+      "leitura": "robusta"
+    },
+    "A5": {
+      "vale": true,
+      "mediana": 73.61,
+      "leitura": "sim"
+    }
+  },
+  "por_modelo": {
+    "Ba": {
+      "nosso_teste": 99.05,
+      "nosso_fakebr": 70.26,
+      "fakebr_nosso": 76.87,
+      "ref_nosso_teste": 88.11,
+      "ref_nosso_fakebr": 67.97,
+      "ref_fakebr_nosso": 76.6,
+      "A1": {
+        "dif_pp": 2.29,
+        "so_bruto": 1401,
+        "so_refinado": 1236,
+        "p": 0.0014002937209823833,
+        "p_holm": 0.0028005874419647666,
+        "vale": 1.0
+      },
+      "A2": {
+        "dif_pp": 10.94,
+        "so_bruto": 591,
+        "so_refinado": 26,
+        "p": 1.9715467213637659e-140,
+        "p_holm": 1.971546721363766e-139,
+        "vale": 1.0
+      },
+      "A7": {
+        "dif_pp": 0.27,
+        "so_bruto": 680,
+        "so_refinado": 666,
+        "p": 0.7230980944679739,
+        "p_holm": 1.0,
+        "vale": false
+      },
+      "A3": {
+        "queda_pp": 28.79,
+        "vale": true
+      },
+      "A6": {
+        "valor": 76.87,
+        "vale": true
+      },
+      "A8": {
+        "dif_pp": 6.61,
+        "vale": true
+      },
+      "A4": {
+        "vale": null
+      }
+    },
+    "Bc_LR": {
+      "nosso_teste": 97.37,
+      "nosso_fakebr": 76.33,
+      "fakebr_nosso": 82.78,
+      "ref_nosso_teste": 85.41,
+      "ref_nosso_fakebr": 67.04,
+      "ref_fakebr_nosso": 76.52,
+      "fakebr_fakebr": 94.56,
+      "A1": {
+        "dif_pp": 9.29,
+        "so_bruto": 1323,
+        "so_refinado": 654,
+        "p": 5.414419557134703e-52,
+        "p_holm": 7.038745424275114e-51,
+        "vale": 1.0
+      },
+      "A2": {
+        "dif_pp": 11.96,
+        "so_bruto": 678,
+        "so_refinado": 61,
+        "p": 1.1387063689795594e-132,
+        "p_holm": 1.0248357320816035e-131,
+        "vale": 1.0
+      },
+      "A7": {
+        "dif_pp": 6.26,
+        "so_bruto": 772,
+        "so_refinado": 449,
+        "p": 1.8753915097174196e-20,
+        "p_holm": 9.376957548587098e-20,
+        "vale": 1.0
+      },
+      "A3": {
+        "queda_pp": 21.04,
+        "vale": true
+      },
+      "A6": {
+        "valor": 82.78,
+        "vale": false
+      },
+      "A8": {
+        "dif_pp": 6.45,
+        "vale": true
+      },
+      "A4": {
+        "acuracias": [
+          51.84,
+          53.82,
+          48.0
+        ],
+        "vale": true,
+        "original_semente0_grade_na_validacao": 53.14
+      }
+    },
+    "Bc_NB": {
+      "nosso_teste": 81.77,
+      "nosso_fakebr": 62.74,
+      "fakebr_nosso": 86.46,
+      "ref_nosso_teste": 77.24,
+      "ref_nosso_fakebr": 61.96,
+      "ref_fakebr_nosso": 70.44,
+      "fakebr_fakebr": 83.9,
+      "A1": {
+        "dif_pp": 0.78,
+        "so_bruto": 1626,
+        "so_refinado": 1570,
+        "p": 0.3306135940447569,
+        "p_holm": 0.3306135940447569,
+        "vale": 0.0
+      },
+      "A2": {
+        "dif_pp": 4.53,
+        "so_bruto": 777,
+        "so_refinado": 543,
+        "p": 1.2798561715228104e-10,
+        "p_holm": 1.2798561715228104e-10,
+        "vale": 1.0
+      },
+      "A7": {
+        "dif_pp": 16.02,
+        "so_bruto": 1001,
+        "so_refinado": 174,
+        "p": 1.5600202867264583e-141,
+        "p_holm": 2.0280263727443958e-140,
+        "vale": 1.0
+      },
+      "A3": {
+        "queda_pp": 19.03,
+        "vale": true
+      },
+      "A6": {
+        "valor": 86.46,
+        "vale": false
+      },
+      "A8": {
+        "dif_pp": 23.72,
+        "vale": true
+      },
+      "A4": {
+        "acuracias": [
+          47.68,
+          77.66,
+          55.37
+        ],
+        "vale": false,
+        "original_semente0_grade_na_validacao": 47.68
+      }
+    },
+    "Bc_SVM": {
+      "nosso_teste": 97.38,
+      "nosso_fakebr": 76.06,
+      "fakebr_nosso": 82.22,
+      "ref_nosso_teste": 85.61,
+      "ref_nosso_fakebr": 67.19,
+      "ref_fakebr_nosso": 76.58,
+      "fakebr_fakebr": 94.83,
+      "A1": {
+        "dif_pp": 8.87,
+        "so_bruto": 1319,
+        "so_refinado": 681,
+        "p": 8.196294721460168e-47,
+        "p_holm": 9.015924193606184e-46,
+        "vale": 1.0
+      },
+      "A2": {
+        "dif_pp": 11.77,
+        "so_bruto": 668,
+        "so_refinado": 60,
+        "p": 8.198271449393228e-131,
+        "p_holm": 6.558617159514582e-130,
+        "vale": 1.0
+      },
+      "A7": {
+        "dif_pp": 5.64,
+        "so_bruto": 773,
+        "so_refinado": 482,
+        "p": 1.9901568935602384e-16,
+        "p_holm": 7.960627574240954e-16,
+        "vale": 1.0
+      },
+      "A3": {
+        "queda_pp": 21.32,
+        "vale": true
+      },
+      "A6": {
+        "valor": 82.22,
+        "vale": false
+      },
+      "A8": {
+        "dif_pp": 6.16,
+        "vale": true
+      },
+      "A4": {
+        "acuracias": [
+          51.69,
+          54.2,
+          47.66
+        ],
+        "vale": true,
+        "original_semente0_grade_na_validacao": 53.12
+      }
+    },
+    "Ch_LR": {
+      "nosso_teste": 90.76,
+      "nosso_fakebr": 74.74,
+      "fakebr_nosso": 71.25,
+      "ref_nosso_teste": 79.52,
+      "ref_nosso_fakebr": 65.85,
+      "ref_fakebr_nosso": 69.59,
+      "fakebr_fakebr": 92.04,
+      "A1": {
+        "dif_pp": 8.89,
+        "so_bruto": 1317,
+        "so_refinado": 677,
+        "p": 3.046437800943484e-47,
+        "p_holm": 3.655725361132181e-46,
+        "vale": 1.0
+      },
+      "A2": {
+        "dif_pp": 11.24,
+        "so_bruto": 788,
+        "so_refinado": 208,
+        "p": 5.581478352336972e-80,
+        "p_holm": 3.3488870114021835e-79,
+        "vale": 1.0
+      },
+      "A7": {
+        "dif_pp": 1.66,
+        "so_bruto": 777,
+        "so_refinado": 691,
+        "p": 0.026488334006821133,
+        "p_holm": 0.0794650020204634,
+        "vale": 0.0
+      },
+      "A3": {
+        "queda_pp": 16.02,
+        "vale": true
+      },
+      "A6": {
+        "valor": 71.25,
+        "vale": true
+      },
+      "A8": {
+        "dif_pp": -3.49,
+        "vale": false
+      },
+      "A4": {
+        "acuracias": [
+          52.75,
+          52.48,
+          49.34
+        ],
+        "vale": true,
+        "original_semente0_grade_na_validacao": 55.77
+      }
+    },
+    "Ch_NB": {
+      "nosso_teste": 89.95,
+      "nosso_fakebr": 69.58,
+      "fakebr_nosso": 80.72,
+      "ref_nosso_teste": 80.34,
+      "ref_nosso_fakebr": 64.36,
+      "ref_fakebr_nosso": 70.26,
+      "fakebr_fakebr": 88.4,
+      "A1": {
+        "dif_pp": 5.22,
+        "so_bruto": 1029,
+        "so_refinado": 653,
+        "p": 4.242190875244349e-20,
+        "p_holm": 1.6968763500977396e-19,
+        "vale": 1.0
+      },
+      "A2": {
+        "dif_pp": 9.61,
+        "so_bruto": 660,
+        "so_refinado": 164,
+        "p": 3.220210366859028e-71,
+        "p_holm": 1.2880841467436112e-70,
+        "vale": 1.0
+      },
+      "A7": {
+        "dif_pp": 10.46,
+        "so_bruto": 874,
+        "so_refinado": 334,
+        "p": 3.968883809514301e-56,
+        "p_holm": 3.175107047611441e-55,
+        "vale": 1.0
+      },
+      "A3": {
+        "queda_pp": 20.37,
+        "vale": true
+      },
+      "A6": {
+        "valor": 80.72,
+        "vale": false
+      },
+      "A8": {
+        "dif_pp": 11.14,
+        "vale": true
+      },
+      "A4": {
+        "acuracias": [
+          54.3,
+          56.49,
+          52.65
+        ],
+        "vale": false,
+        "original_semente0_grade_na_validacao": 55.68
+      }
+    },
+    "Ch_SVM": {
+      "nosso_teste": 90.93,
+      "nosso_fakebr": 74.74,
+      "fakebr_nosso": 70.13,
+      "ref_nosso_teste": 79.85,
+      "ref_nosso_fakebr": 66.22,
+      "ref_fakebr_nosso": 69.8,
+      "fakebr_fakebr": 92.18,
+      "A1": {
+        "dif_pp": 8.52,
+        "so_bruto": 1283,
+        "so_refinado": 670,
+        "p": 2.5368615982455736e-44,
+        "p_holm": 2.536861598245574e-43,
+        "vale": 1.0
+      },
+      "A2": {
+        "dif_pp": 11.08,
+        "so_bruto": 764,
+        "so_refinado": 192,
+        "p": 2.4539896967659914e-81,
+        "p_holm": 1.717792787736194e-80,
+        "vale": 1.0
+      },
+      "A7": {
+        "dif_pp": 0.33,
+        "so_bruto": 764,
+        "so_refinado": 747,
+        "p": 0.6806378652460114,
+        "p_holm": 1.0,
+        "vale": false
+      },
+      "A3": {
+        "queda_pp": 16.19,
+        "vale": true
+      },
+      "A6": {
+        "valor": 70.13,
+        "vale": true
+      },
+      "A8": {
+        "dif_pp": -4.61,
+        "vale": false
+      },
+      "A4": {
+        "acuracias": [
+          52.65,
+          52.32,
+          49.77
+        ],
+        "vale": true,
+        "original_semente0_grade_na_validacao": 56.64
+      }
+    },
+    "Ol_LR": {
+      "nosso_teste": 97.29,
+      "nosso_fakebr": 73.61,
+      "fakebr_nosso": 85.97,
+      "ref_nosso_teste": 84.42,
+      "ref_nosso_fakebr": 67.42,
+      "ref_fakebr_nosso": 74.04,
+      "fakebr_fakebr": 88.07,
+      "A1": {
+        "dif_pp": 6.19,
+        "so_bruto": 1108,
+        "so_refinado": 662,
+        "p": 2.0753222029944034e-26,
+        "p_holm": 1.0376611014972016e-25,
+        "vale": 1.0
+      },
+      "A2": {
+        "dif_pp": 12.87,
+        "so_bruto": 723,
+        "so_refinado": 59,
+        "p": 3.2715407794303166e-146,
+        "p_holm": 3.92584893531638e-145,
+        "vale": 1.0
+      },
+      "A7": {
+        "dif_pp": 11.93,
+        "so_bruto": 881,
+        "so_refinado": 265,
+        "p": 1.1570013943221321e-77,
+        "p_holm": 1.3884016731865584e-76,
+        "vale": 1.0
+      },
+      "A3": {
+        "queda_pp": 23.68,
+        "vale": true
+      },
+      "A6": {
+        "valor": 85.97,
+        "vale": false
+      },
+      "A8": {
+        "dif_pp": 12.36,
+        "vale": true
+      },
+      "A4": {
+        "acuracias": [
+          54.61,
+          53.55,
+          52.73
+        ],
+        "vale": true,
+        "original_semente0_grade_na_validacao": 55.11
+      }
+    },
+    "Ol_NB": {
+      "nosso_teste": 92.35,
+      "nosso_fakebr": 66.74,
+      "fakebr_nosso": 79.78,
+      "ref_nosso_teste": 77.47,
+      "ref_nosso_fakebr": 61.06,
+      "ref_fakebr_nosso": 69.82,
+      "fakebr_fakebr": 79.67,
+      "A1": {
+        "dif_pp": 5.68,
+        "so_bruto": 881,
+        "so_refinado": 472,
+        "p": 5.209875940493984e-29,
+        "p_holm": 3.1259255642963905e-28,
+        "vale": 1.0
+      },
+      "A2": {
+        "dif_pp": 14.88,
+        "so_bruto": 841,
+        "so_refinado": 73,
+        "p": 2.597693417222201e-166,
+        "p_holm": 3.3770014423888614e-165,
+        "vale": 1.0
+      },
+      "A7": {
+        "dif_pp": 9.96,
+        "so_bruto": 687,
+        "so_refinado": 173,
+        "p": 3.702675267860367e-73,
+        "p_holm": 4.0729427946464037e-72,
+        "vale": 1.0
+      },
+      "A3": {
+        "queda_pp": 25.61,
+        "vale": true
+      },
+      "A6": {
+        "valor": 79.78,
+        "vale": true
+      },
+      "A8": {
+        "dif_pp": 13.04,
+        "vale": true
+      },
+      "A4": {
+        "acuracias": [
+          64.96,
+          64.37,
+          58.81
+        ],
+        "vale": false,
+        "original_semente0_grade_na_validacao": 64.96
+      }
+    },
+    "Ol_SVM": {
+      "nosso_teste": 97.44,
+      "nosso_fakebr": 74.0,
+      "fakebr_nosso": 85.65,
+      "ref_nosso_teste": 84.52,
+      "ref_nosso_fakebr": 67.36,
+      "ref_fakebr_nosso": 74.08,
+      "fakebr_fakebr": 88.47,
+      "A1": {
+        "dif_pp": 6.64,
+        "so_bruto": 1132,
+        "so_refinado": 654,
+        "p": 6.978889055893034e-30,
+        "p_holm": 4.885222339125124e-29,
+        "vale": 1.0
+      },
+      "A2": {
+        "dif_pp": 12.92,
+        "so_bruto": 728,
+        "so_refinado": 61,
+        "p": 6.432247698209454e-146,
+        "p_holm": 7.075472468030399e-145,
+        "vale": 1.0
+      },
+      "A7": {
+        "dif_pp": 11.57,
+        "so_bruto": 870,
+        "so_refinado": 273,
+        "p": 5.2634319069417755e-73,
+        "p_holm": 5.263431906941776e-72,
+        "vale": 1.0
+      },
+      "A3": {
+        "queda_pp": 23.44,
+        "vale": true
+      },
+      "A6": {
+        "valor": 85.65,
+        "vale": false
+      },
+      "A8": {
+        "dif_pp": 11.65,
+        "vale": true
+      },
+      "A4": {
+        "acuracias": [
+          54.88,
+          53.18,
+          50.66
+        ],
+        "vale": true,
+        "original_semente0_grade_na_validacao": 57.15
+      }
+    },
+    "P_LR": {
+      "nosso_teste": 91.19,
+      "nosso_fakebr": 73.53,
+      "fakebr_nosso": 78.07,
+      "ref_nosso_teste": 81.73,
+      "ref_nosso_fakebr": 66.31,
+      "ref_fakebr_nosso": 69.2,
+      "fakebr_fakebr": 89.57,
+      "A1": {
+        "dif_pp": 7.22,
+        "so_bruto": 1233,
+        "so_refinado": 713,
+        "p": 2.5375462394145827e-32,
+        "p_holm": 2.030036991531666e-31,
+        "vale": 1.0
+      },
+      "A2": {
+        "dif_pp": 9.46,
+        "so_bruto": 679,
+        "so_refinado": 191,
+        "p": 8.443273795067158e-65,
+        "p_holm": 2.5329821385201475e-64,
+        "vale": 1.0
+      },
+      "A7": {
+        "dif_pp": 8.87,
+        "so_bruto": 1002,
+        "so_refinado": 544,
+        "p": 1.1383178960827745e-31,
+        "p_holm": 7.968225272579421e-31,
+        "vale": 1.0
+      },
+      "A3": {
+        "queda_pp": 17.66,
+        "vale": true
+      },
+      "A6": {
+        "valor": 78.07,
+        "vale": true
+      },
+      "A8": {
+        "dif_pp": 4.54,
+        "vale": true
+      },
+      "A4": {
+        "acuracias": [
+          52.87,
+          51.55,
+          48.82
+        ],
+        "vale": true,
+        "original_semente0_grade_na_validacao": 58.97
+      },
+      "A5": {
+        "mediana": 73.61,
+        "vale": true
+      }
+    },
+    "P_NB": {
+      "nosso_teste": 90.97,
+      "nosso_fakebr": 70.15,
+      "fakebr_nosso": 82.66,
+      "ref_nosso_teste": 81.34,
+      "ref_nosso_fakebr": 65.26,
+      "ref_fakebr_nosso": 70.15,
+      "fakebr_fakebr": 86.25,
+      "A1": {
+        "dif_pp": 4.89,
+        "so_bruto": 1040,
+        "so_refinado": 688,
+        "p": 2.3954934602331047e-17,
+        "p_holm": 7.186480380699314e-17,
+        "vale": 1.0
+      },
+      "A2": {
+        "dif_pp": 9.63,
+        "so_bruto": 655,
+        "so_refinado": 158,
+        "p": 1.285246925370834e-72,
+        "p_holm": 6.426234626854169e-72,
+        "vale": 1.0
+      },
+      "A7": {
+        "dif_pp": 12.51,
+        "so_bruto": 1037,
+        "so_refinado": 391,
+        "p": 1.1411115048102935e-67,
+        "p_holm": 1.0270003543292642e-66,
+        "vale": 1.0
+      },
+      "A3": {
+        "queda_pp": 20.82,
+        "vale": true
+      },
+      "A6": {
+        "valor": 82.66,
+        "vale": false
+      },
+      "A8": {
+        "dif_pp": 12.51,
+        "vale": true
+      },
+      "A4": {
+        "acuracias": [
+          54.07,
+          54.3,
+          51.92
+        ],
+        "vale": true,
+        "original_semente0_grade_na_validacao": 54.57
+      }
+    },
+    "P_SVM": {
+      "nosso_teste": 91.32,
+      "nosso_fakebr": 73.79,
+      "fakebr_nosso": 76.44,
+      "ref_nosso_teste": 81.81,
+      "ref_nosso_fakebr": 66.44,
+      "ref_fakebr_nosso": 69.16,
+      "fakebr_fakebr": 89.42,
+      "A1": {
+        "dif_pp": 7.35,
+        "so_bruto": 1258,
+        "so_refinado": 729,
+        "p": 9.766158619947537e-33,
+        "p_holm": 8.789542757952783e-32,
+        "vale": 1.0
+      },
+      "A2": {
+        "dif_pp": 9.51,
+        "so_bruto": 691,
+        "so_refinado": 200,
+        "p": 6.195747551540901e-64,
+        "p_holm": 1.2391495103081802e-63,
+        "vale": 1.0
+      },
+      "A7": {
+        "dif_pp": 7.28,
+        "so_bruto": 981,
+        "so_refinado": 605,
+        "p": 3.0630249565571504e-21,
+        "p_holm": 1.8378149739342902e-20,
+        "vale": 1.0
+      },
+      "A3": {
+        "queda_pp": 17.53,
+        "vale": true
+      },
+      "A6": {
+        "valor": 76.44,
+        "vale": true
+      },
+      "A8": {
+        "dif_pp": 2.65,
+        "vale": true
+      },
+      "A4": {
+        "acuracias": [
+          52.77,
+          51.16,
+          49.36
+        ],
+        "vale": true,
+        "original_semente0_grade_na_validacao": 57.57
+      }
+    }
+  }
+}

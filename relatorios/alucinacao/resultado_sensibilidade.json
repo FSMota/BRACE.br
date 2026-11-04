@@ -1,0 +1,32 @@
+{
+ "n_marcadas": 111,
+ "removidas_por_split": {
+  "treino": 68,
+  "validacao": 5,
+  "teste": 12
+ },
+ "bruto|com": {
+  "C": 10.0,
+  "nosso_teste": 91.19,
+  "nosso_fakebr": 73.53
+ },
+ "bruto|sem": {
+  "C": 10.0,
+  "nosso_teste": 91.34,
+  "nosso_fakebr": 73.58
+ },
+ "bruto|dif_pp|nosso_teste": 0.15,
+ "bruto|dif_pp|nosso_fakebr": 0.05,
+ "refinado|com": {
+  "C": 10.0,
+  "nosso_teste": 81.73,
+  "nosso_fakebr": 66.31
+ },
+ "refinado|sem": {
+  "C": 10.0,
+  "nosso_teste": 81.73,
+  "nosso_fakebr": 66.26
+ },
+ "refinado|dif_pp|nosso_teste": 0.0,
+ "refinado|dif_pp|nosso_fakebr": -0.05
+}

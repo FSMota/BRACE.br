@@ -1,0 +1,52 @@
+{
+  "n": {
+    "treino": 16707,
+    "validacao": 2080,
+    "teste": 5162,
+    "fakebr": 7200
+  },
+  "grade_original": [
+    0.1,
+    1,
+    10
+  ],
+  "linhas": [
+    {
+      "C": 0.1,
+      "validacao": 89.28,
+      "teste": 87.68,
+      "fakebr": 70.67
+    },
+    {
+      "C": 1,
+      "validacao": 92.02,
+      "teste": 89.89,
+      "fakebr": 72.64
+    },
+    {
+      "C": 10,
+      "validacao": 92.74,
+      "teste": 91.19,
+      "fakebr": 73.53
+    },
+    {
+      "C": 30,
+      "validacao": 93.08,
+      "teste": 91.38,
+      "fakebr": 73.68
+    },
+    {
+      "C": 100,
+      "validacao": 93.51,
+      "teste": 91.5,
+      "fakebr": 73.82
+    },
+    {
+      "C": 1000,
+      "validacao": 93.37,
+      "teste": 91.3,
+      "fakebr": 73.01
+    }
+  ],
+  "escolhido_grade_ampliada": 100
+}

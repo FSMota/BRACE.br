@@ -1,0 +1,28 @@
+{
+ "baixa": {
+  "contagem": {
+   "inventado": 30
+  },
+  "pct_inventado": 100.0
+ },
+ "media": {
+  "contagem": {
+   "inventado": 2,
+   "existe_no_artigo": 2
+  },
+  "pct_inventado": 50.0
+ },
+ "taxa_estimada_invencao_pct": 1.24,
+ "taxa_estimada_invencao_pareado_pct": 1.16,
+ "confronto": {
+  "A3": [
+   100.0,
+   true
+  ],
+  "A4": [
+   50.0,
+   false
+  ]
+ },
+ "leitura": "defeito material: marcar, retirar e refazer o modelo de referência"
+}
