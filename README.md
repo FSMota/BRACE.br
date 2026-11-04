@@ -1,8 +1,9 @@
-# BRACE.br — Boatos Reunidos de Agências de Checagem, em Escala
+# BRACE.br — Boatos e Reportagens de Agências, Coletados em Escala
 
-Base de desinformação em português, construída automaticamente a partir de
-portais de checagem (classe FALSO) e da Agência Brasil (classe VERDADEIRO), e
-auditada quanto aos seus limites de validade. Trabalho de Conclusão de Curso
+Base de desinformação em português, com boatos desmentidos por agências de
+checagem (classe FALSO) pareados a reportagens de uma agência pública de
+notícias, a Agência Brasil (classe VERDADEIRO), por tema e por ano. A base foi
+construída automaticamente e auditada quanto aos seus limites de validade. Trabalho de Conclusão de Curso
 (Ciência da Computação, Instituto de Computação, UFAL).
 
 - **Autor:** Filipe Simões Mota

@@ -97,7 +97,7 @@ def fig_forma_conteudo():
     """Halteres: interno → Fake.br, por entrada (só forma, refinado, combinado, bruto)."""
     cb = ler("resultado_comparativo_bracos.json")["bracos"]
     est = ler("resultado_modelo_estilo.json")["gradient_boosting"]
-    linhas = [("só forma (17 atributos)", 100 * est["interno"], None, 100 * est["fakebr"], [100 * v for v in est["fakebr_ic95"]], AQUA),
+    linhas = [("só forma (17 atributos)", 100 * est["interno"], [100 * v for v in est["interno_ic95"]], 100 * est["fakebr"], [100 * v for v in est["fakebr_ic95"]], AQUA),
               ("só conteúdo (refinado)", cb["refinado"]["interno"], cb["refinado"]["interno_ic95"], cb["refinado"]["fakebr"], cb["refinado"]["fakebr_ic95"], LARANJA),
               ("forma + conteúdo (bruto)", cb["bruto"]["interno"], cb["bruto"]["interno_ic95"], cb["bruto"]["fakebr"], cb["bruto"]["fakebr_ic95"], AZUL),
               ("bruto + refinado (combinado)", cb["combinado"]["interno"], cb["combinado"]["interno_ic95"], cb["combinado"]["fakebr"], cb["combinado"]["fakebr_ic95"], CINZA)]
@@ -165,33 +165,45 @@ NOMES = {"P_LR": "TF-IDF palavras + LR", "P_SVM": "TF-IDF palavras + SVM", "P_NB
 
 
 def fig_matriz():
-    """Para cada modelo (texto bruto): teste interno, BRACE.br → Fake.br, Fake.br → BRACE.br."""
+    """Para cada modelo (texto bruto): as quatro células de treino × teste."""
     pm = ler("matriz", "apuracao.json")["por_modelo"]
+    fbfb = {}
+    for parte in ("resumo_tfidf", "resumo_densa"):
+        for k, v in ler("matriz", parte + ".json").items():
+            if k.endswith("|bruto"):
+                fbfb[k.split("|")[0].replace("+", "_")] = v["fakebr_fakebr"]
     ordem = sorted(pm, key=lambda k: pm[k]["nosso_teste"])
-    fig, ax = plt.subplots(figsize=(LARGURA, 4.4))
-    series = (("nosso_teste", "BRACE.br → teste interno", "o", AZUL),
+    fig, ax = plt.subplots(figsize=(LARGURA, 4.6))
+    series = (("nosso_teste", "BRACE.br → BRACE.br", "o", AZUL),
+              ("fakebr_fakebr", "Fake.br → Fake.br", "s", CINZA),
               ("nosso_fakebr", "BRACE.br → Fake.br", "D", LARANJA),
               ("fakebr_nosso", "Fake.br → BRACE.br", "^", AQUA))
     for i, k in enumerate(ordem):
-        L = pm[k]
+        L = dict(pm[k], fakebr_fakebr=fbfb.get(k))
         excluido = k in ("Bc_NB", "Ol_NB")
         ax.plot([L["nosso_fakebr"], L["nosso_teste"]], [i, i], color=CINZA, lw=1.2, alpha=0.6)
         for chave, _, mk, cor in series:
-            ax.plot(L[chave], i, mk, color=cor, ms=7, mec="white", mew=1.2, alpha=0.35 if excluido else 1)
-        ax.text(L["nosso_teste"] + 0.7, i, br(L["nosso_teste"]), va="center", fontsize=7.5, color=TINTA2)
-        ax.text(min(L["nosso_fakebr"], L["fakebr_nosso"]) - 0.7, i,
+            if L[chave] is not None:
+                ax.plot(L[chave], i, mk, color=cor, ms=7, mec="white", mew=1.2, alpha=0.35 if excluido else 1)
+        todos = [L[c] for c, _, _, _ in series if L[c] is not None]
+        fb = br(L["fakebr_fakebr"]) if L["fakebr_fakebr"] is not None else "—"
+        ax.text(max(todos) + 0.7, i, f"{br(L['nosso_teste'])} · {fb}", va="center", fontsize=7.5, color=TINTA2)
+        ax.text(min(todos) - 0.7, i,
                 f"{br(L['nosso_fakebr'])} · {br(L['fakebr_nosso'])}", va="center", ha="right", fontsize=7.5, color=TINTA2)
     ax.set_yticks(range(len(ordem)), [NOMES[k] for k in ordem])
     for t, k in zip(ax.get_yticklabels(), ordem):
         if k in ("Bc_NB", "Ol_NB"):
             t.set_color(CINZA)
-    ax.set_xlim(45, 103)
+    ax.set_xlim(45, 110)
+    ax.set_xticks(range(50, 101, 10))
     ax.set_xlabel("acurácia balanceada (%), texto bruto")
     ax.grid(axis="y", visible=False)
     for _, rot, mk, cor in series:
         ax.plot([], [], mk, color=cor, ms=7, label=rot)
-    ax.legend(loc="lower center", bbox_to_anchor=(0.45, 1.0), ncol=3)
-    fig.text(0.01, -0.04, "Números à esquerda: BRACE.br → Fake.br · Fake.br → BRACE.br. À direita: teste interno.\n"
+    ax.legend(loc="lower center", bbox_to_anchor=(0.45, 1.0), ncol=2)
+    fig.text(0.01, -0.04, "Números à esquerda: BRACE.br → Fake.br · Fake.br → BRACE.br. "
+             "À direita: BRACE.br → BRACE.br · Fake.br → Fake.br.\n"
+             "Fake.br → Fake.br: validação cruzada em 5 dobras; não calculada no BERTimbau ajustado (—).\n"
              "* NB gaussiano: falhou no controle com rótulos embaralhados e está fora da contagem (em cinza).",
              fontsize=7.5, color=TINTA2, va="top")
     salvar(fig, "fig_matriz_modelos.pdf")

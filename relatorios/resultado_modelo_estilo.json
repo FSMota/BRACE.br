@@ -7,7 +7,11 @@
       0.6572
     ],
     "rev_falso": 0.3956,
-    "rev_verdadeiro": 0.9003
+    "rev_verdadeiro": 0.9003,
+    "interno_ic95": [
+      0.8368,
+      0.8563
+    ]
   },
   "gradient_boosting": {
     "interno": 0.8721,
@@ -17,7 +21,11 @@
       0.6617
     ],
     "rev_falso": 0.7664,
-    "rev_verdadeiro": 0.5372
+    "rev_verdadeiro": 0.5372,
+    "interno_ic95": [
+      0.8631,
+      0.8808
+    ]
   },
   "pesos_rl": {
     "exclamacao_100c": 7.579,
@@ -38,5 +46,6 @@
     "tam_medio_frase": -0.833,
     "log_caracteres": -5.565
   },
-  "leitura": "o estilo explica boa parte da transferência; o resto é léxico/conteúdo."
+  "leitura": "o estilo explica boa parte da transferência; o resto é léxico/conteúdo.",
+  "nota_interno_ic95": "interno_ic95 calculado depois da rodada (04/11/2026) por scripts/diagnosticos/ic_estilo_interno.py; os valores pontuais são os mesmos."
 }
