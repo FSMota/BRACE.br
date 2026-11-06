@@ -57,7 +57,7 @@ Comparação com as maiores bases do levantamento:
 | Base COVID-19 | 13.087 | tema único; 21% falsas |
 | FakeRecogna | 11.902 | balanceada |
 | Fake.br | 7.200 | falsas de *sites* de desinformação |
-| **BRACE.br** | **27.891** | veredito por alegação e justificativa do checador |
+| **BRACE.br** | **27.871** | veredito por alegação e justificativa do checador |
 
 ### Perguntas de pesquisa
 

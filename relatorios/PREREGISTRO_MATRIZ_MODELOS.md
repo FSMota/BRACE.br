@@ -331,3 +331,11 @@ texto com essa ressalva.
 gaussianos fora da contagem); o Ba sem controle e sem a célula Fake.br →
 Fake.br (exceção declarada no §1.3); a aplicação proporcional dos limiares do
 §3 para 11 modelos, que o pré-registro não previa.
+
+### Adendo 4 — 05/11/2026, correção de contagem
+
+O adendo 3 diz, na linha de A6, "5 passam de 80%". A contagem certa, conferida em
+`relatorios/matriz/apuracao.json`, é **6**: Bc + LR, Bc + SVM, Ch + NB, Ol + LR,
+Ol + SVM e P + NB. Os 5 dentro da faixa de 65% a 80% (Ba, Ch + LR, Ch + SVM, P + LR
+e P + SVM) e a leitura "dependente do modelo" não mudam. O adendo 3 não foi
+editado; o TCC usa o número certo.

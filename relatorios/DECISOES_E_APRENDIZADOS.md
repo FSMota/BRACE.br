@@ -205,3 +205,37 @@ a base inteira antes de concluir**.
   volta sem reset do sistema).
 - Throughput medido na RTX 4060 com qwen3.5:9b: ~43 tokens/s de geração;
   8,6 s por artigo na extração completa.
+
+## 7. Revisão dos rótulos da classe falsa (05/11/2026, versão 1.1.0)
+
+Exploratório e posterior aos experimentos, a partir de uma dúvida na revisão do
+TCC: como se sabe que cada entrada da classe falsa é falsa?
+
+- **O problema.** O rótulo FALSO é herdado do artigo de checagem
+  (`"veredito": "FALSO"` em `web_scraping_limpo.py`); nenhum campo trazia o
+  veredito de cada mensagem.
+- **Primeira tentativa, abandonada.** Uma varredura de títulos com revisão
+  manual (`marcar_rotulo_duvidoso.py`) separou 104 entradas duvidosas, mas errou:
+  casos tidos como verdadeiros ou como "não é checagem" tinham selo de "Fake
+  news" ou "Exagerado". Não usar `rotulo_duvidoso.json` como referência.
+- **O método final.** O Boatos.org fecha os artigos recentes com um selo de
+  veredito, e os antigos têm #boato no título. `veredito_checador.py` lê essas
+  marcas: 84% das falsas têm veredito explícito do checador, 15% têm palavra de
+  desmentido no título (regra ampla, a parte menos segura) e 144 entradas, de 73
+  artigos, não têm marca nenhuma.
+- **A revisão.** O pesquisador abriu os artigos dessas 144 entradas e localizou o
+  veredito no texto do checador (`aplicar_revisao_rotulos.py`). As 3 entradas do
+  artigo do Neymar são alucinações, sem veredito a localizar, e já saíam da base.
+- **Decisões com o orientador.** O veredito vem do checador, não do pesquisador.
+  Meias-verdades (selos Enganoso, Exagerado, Real com erros; 67) ficam FALSO, e a
+  base não se declara multiclasse. Mensagens verdadeiras ou em apuração (20) saem;
+  conteúdo sem veredito (4) vira NAO_E_CHECAGEM, fora do pareado. Quando a planilha
+  divergiu de um veredito explícito do checador (bebê do Ceará, "Anitta é bi",
+  caso Gael), prevaleceu o checador.
+- **Efeito.** Versão 1.1.0 (DOI 10.5281/zenodo.23982799): 27.871 instâncias,
+  pareado 11.823 x 2. Os experimentos não foram refeitos e continuam na versão
+  de 28.002. Retreinar o modelo de referência sem as entradas muda a acurácia em
+  no máximo 0,40 ponto (`sensibilidade_revisao_rotulos.py`), variação que também
+  aparece ao retreinar com mudanças mínimas, sem alterar nenhuma conclusão.
+- **Limites.** A regra de título é ampla, e conteúdo patrocinado não tem marca no
+  texto: há casos conhecidos que ficaram com o rótulo que o checador publicou.

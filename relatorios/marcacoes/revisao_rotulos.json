@@ -1,0 +1,1283 @@
+{
+ "fonte": "veredito_checador_revisar.xlsx",
+ "n": 212,
+ "por_decisao": {
+  "REMOVER": 23,
+  "FALSO": 185,
+  "NAO_E_CHECAGEM": 4
+ },
+ "decisoes": {
+  "F974af4649497": {
+   "decisao": "REMOVER",
+   "planilha": "falso",
+   "observacao": "selo 'Em apuração ❓': o checador não deu veredito",
+   "origem": "checador"
+  },
+  "Fb032e7592e37": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": "infundado",
+   "origem": "pesquisador"
+  },
+  "Fdeccd0754893": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F5161e36386bb": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fb89f8edae6ed": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fa2ac432e6ade": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": "declaração falsa, video verdadeiro",
+   "origem": "pesquisador"
+  },
+  "F9290bef7844a": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fc444c8f6b024": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F2207122cc445": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F9635ccde1c24": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F298ce72fde00": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F695a0c215ab8": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fa768c94da78a": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fda836cc50e72": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F159791051ca8": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F387cd55f00e8": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ffa4618144c6b": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F1a9cac38a477": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F6624b3cf36ea": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F7aefc83b3131": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F493da0bd5755": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F81fd825446f6": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F5d991c072f85": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F39988930130d": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F9011a094eaa7": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F62ee06ba08b2": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F8d262f7b7f5d": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F4c8438fbfdd3": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ff009a4e2db87": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ffce14bf67091": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ffdc9331d3fba": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ff030c7c575cf": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fa58fe24423ae": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F89edf0609dfa": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fe3789c37c17c": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F3e9e35992087": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F2a2aa90374ae": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fcbe5ed1838af": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F9f5e925a4be3": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F2925d79f6ad9": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fc839b0e5c195": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F918bb634c963": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F56324950c2ce": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fcf67b4bcadaa": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fc17506da3edd": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F0ec7ef379ce3": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F114713c9d232": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fab1ed43e62a3": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F2491f496916d": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F837b40b2aa1a": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F218cd9d4ce76": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F347d97ccdb0a": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F78f94bef6504": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F7a04840a1f15": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F226ceb208a99": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ffbea2f3602f7": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fbf127490cc8b": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F0418fae08196": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F33f46a3a2631": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fa9406b6c8c3a": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F60ffcd6e6159": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fd82f8fd5f4e9": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F43157e620ed4": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F8369e46e9e3e": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fc2e31e98ff32": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F5a3976b148ea": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fe2fbc2d5ecb4": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F948245cdd9cb": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F3d96c1cf0b2d": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F9d027c35cbd3": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F756ba907375d": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F1cf10dee405f": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ff98f56c70b4e": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F989cf22c0f09": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F4c8d39b8f684": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F583782a1bbb8": {
+   "decisao": "FALSO",
+   "planilha": "verdadeiro",
+   "observacao": "entrada traz o veredito do checador: 'Anitta é bi – Boato'",
+   "origem": "checador"
+  },
+  "F7eb91e2ec02c": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fc68543fcb7ef": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F241d588242a5": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F447959e69a4a": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F3c9890dc0843": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F1de740e3bd37": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fcc3a65dcb035": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fcbaf3f330a54": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fc1e3950c5fe3": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F462640f09791": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fa0c288abac83": {
+   "decisao": "FALSO",
+   "planilha": "verdadeiro",
+   "observacao": "artigo abre com 'Boato –' (bebê do Ceará)",
+   "origem": "checador"
+  },
+  "F0964bf26b45e": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fbe04a80e327b": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fbc0b5b608d73": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F6e6e06a3a231": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F660f85810b19": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F029dd94cadcd": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fb90fd13b3854": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ff26f4e877efa": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fbaef8ad57e83": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F96845d2f0cab": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F6ae86878a57b": {
+   "decisao": "NAO_E_CHECAGEM",
+   "planilha": "NAO_E_CHECAGEM",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F302862502bed": {
+   "decisao": "NAO_E_CHECAGEM",
+   "planilha": "NAO_E_CHECAGEM",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fec40f5f0098a": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fd721b0fff6c7": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fdbbc1226c1db": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F1a9a2ae44646": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F752e03fc6b9e": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fae403a4ad15a": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fb259528af8c7": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F7f895dca21ee": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F9be1e6298a74": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fdc196bda30c2": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fc71531c35c73": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F41ed16caf976": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F0a3db6f820db": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F1a4e6cea63cb": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ff4ce8afc8ce5": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F65b820f57173": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fc761d6d1bda1": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ff4ce8afc8ce5-2": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F5a7bfbf71917": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fd8df88ce6c84": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F4706a4c00f73": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ff045dec08610": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F73a7e17b8388": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fb79edce7e721": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ff40d28edc79b": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F73b0cb83ddc9": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F3510f4c21323": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F4dfcb298d1b0": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fe34c7e16f75a": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F543af6740218": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F8e3ca69cf203": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ff6f685776115": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ffb69ec4f2c61": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fd90c83ec2185": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ff9302044eb99": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fdb1ee0129929": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F2bada06b61c6": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F0e65594077ab": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fb3cc9ef555ad": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fd396e104ed77": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F057f19ff6ca5": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Faaa6a29148eb": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fbc4a023e365b": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F3f8c88e21368": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F34adf5d58fe5": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F02096f56aa03": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fb05cb1945989": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F2fdc0fe92db1": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fa0de94633ddb": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F49bb5e0e3227": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": "desatualizado",
+   "origem": "pesquisador"
+  },
+  "Fe6d0ba1a319b": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fae649347cc8a": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F33f42caf8074": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fdb66a5c01f0e": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fcf3cb3c303ef": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fb4578db708a1": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F66a8a4a8e8ea": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F820f20fffd95": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fa3a147a6372a": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F3bfbbc928a14": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F30f8ef2e065a": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ff2505b3ae609": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F31d15913d7c3": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fc0f5bc01fb7c": {
+   "decisao": "REMOVER",
+   "planilha": "NAO_VERIFICADO",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fecb14f67dbd3": {
+   "decisao": "REMOVER",
+   "planilha": "NAO_VERIFICADO",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ff4a4c134d4f0": {
+   "decisao": "REMOVER",
+   "planilha": "NAO_VERIFICADO",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Feb9c7e10166d": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F56f820398b9a": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fab3452e435d2": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fb3ceab9aff09": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F524856b2a6c9": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Feff4f4ccfdb6": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fbcee7d19aab0": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fc8f440ffcddf": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F1eae583e5cd7": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F81418f51312d": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fe5489d1db74d": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F952187d6c6d1": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F7d5aa4a71397": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fe69a94bc70d8": {
+   "decisao": "NAO_E_CHECAGEM",
+   "planilha": "NAO_E_CHECAGEM",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F6c654839409b": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ffd1163f530f2": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F67ccb3d55bc8": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fe2e358369c55": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Feeaaf25f45db": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ff9895bdc4cf0": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F2606291abd28": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F14c54119c50a": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fcb8b1145f3a3": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F2d5f1b420b97": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fb109ce7f3ff9": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F1c74a9e9317d": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F1f106d64b0f0": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F5f9dda42f961": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fef20f3ee7e86": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F7bac2728619d": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fdc63c604d303": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F2047f0dca336": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F86bbac330397": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fb44920d8af84": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fd260238b3377": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F7e11d99a0a61": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Ff07203e8418f": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F2248e881b826": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fe59fe7399e8d": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fe9a5fee00f55": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fe71b9459ec08": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F62c2e48832c8": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F39673695d9a5": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fd2c84a0e1637": {
+   "decisao": "REMOVER",
+   "planilha": "verdadeiro",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fd93bcd31a8f9": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "F71960cdf16d9": {
+   "decisao": "NAO_E_CHECAGEM",
+   "planilha": "NAO_E_CHECAGEM",
+   "observacao": null,
+   "origem": "pesquisador"
+  },
+  "Fa935a3a45150": {
+   "decisao": "FALSO",
+   "planilha": "falso",
+   "observacao": null,
+   "origem": "pesquisador"
+  }
+ }
+}
