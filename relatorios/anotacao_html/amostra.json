@@ -1,0 +1,610 @@
+{
+ "semente": 20261106,
+ "populacao": {
+  "2016": 463,
+  "2026": 715
+ },
+ "n_por_ano": 50,
+ "itens": [
+  {
+   "n": 1,
+   "id": "F166be9219aa2",
+   "ano": "2016",
+   "url": "https://www.boatos.org/entretenimento/dinho-do-mamonas-assassinas-faz-profecia-sobre-esquerda-boato.html"
+  },
+  {
+   "n": 2,
+   "id": "F2025e2eb5353",
+   "ano": "2026",
+   "url": "https://www.boatos.org/brasil/cacau-show-esta-dando-presente-de-dia-do-trabalhador-para-quem-responder-a-quiz-na-internet.html"
+  },
+  {
+   "n": 3,
+   "id": "Fbf8ceb5cb2f8",
+   "ano": "2026",
+   "url": "https://www.boatos.org/brasil/defesa-civil-enviou-alerta-extremo-com-mensagem-misantropi4-para-as-pessoas.html"
+  },
+  {
+   "n": 4,
+   "id": "F0dd4cbaa2d30",
+   "ano": "2016",
+   "url": "https://www.boatos.org/entretenimento/alexandre-frota-feliciano-namorados.html"
+  },
+  {
+   "n": 5,
+   "id": "Fadc8522e57c1",
+   "ano": "2026",
+   "url": "https://www.boatos.org/entretenimento/leandro-hassum-morreu-apos-parada-cardica-em-junho-de-2026.html"
+  },
+  {
+   "n": 6,
+   "id": "Fc0c59c445cf9",
+   "ano": "2016",
+   "url": "https://www.boatos.org/saude/frutas-etiqueta-transgenicas.html"
+  },
+  {
+   "n": 7,
+   "id": "F00e2b19afed0",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/bolsonaro-e-renato-machado-lava-jato.html"
+  },
+  {
+   "n": 8,
+   "id": "F52cc833499b5",
+   "ano": "2016",
+   "url": "https://www.boatos.org/entretenimento/filme-disney-beijo-gay-mulheres.html"
+  },
+  {
+   "n": 9,
+   "id": "F26497e4f91b2",
+   "ano": "2016",
+   "url": "https://www.boatos.org/entretenimento/alinne-moraes-diz-que-e-contra-impeachment.html"
+  },
+  {
+   "n": 10,
+   "id": "Fcaa159075d13",
+   "ano": "2026",
+   "url": "https://www.boatos.org/mundo/frio-na-russia-chegou-a-81-graus-e-homens-salvaram-cervo-congelado-em-video.html"
+  },
+  {
+   "n": 11,
+   "id": "F618efb71b2ba",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/mala-cheia-de-dinheiro-waldir-maranhao.html"
+  },
+  {
+   "n": 12,
+   "id": "F9ae2baa1784d",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/bolsonaro-pode-ser-solto-a-qualquer-momento-por-nunes-marques.html"
+  },
+  {
+   "n": 13,
+   "id": "Fab536d86a333",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/sergio-moro-compartilha-boato-sobre-mst.html"
+  },
+  {
+   "n": 14,
+   "id": "Fdbc144acbf87",
+   "ano": "2016",
+   "url": "https://www.boatos.org/religiao/onu-diz-criancas-cultos-direitos-humanos.html"
+  },
+  {
+   "n": 15,
+   "id": "F2fa41c14c6c5",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/integrante-do-mst-tira-foto-com-dilma.html"
+  },
+  {
+   "n": 16,
+   "id": "F0ac080b9ea22",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/donald-trump-enviou-uma-nova-carta-para-bolsonaro-e-ameacou-invadir-o-brasil-em-janeiro-de-2026.html"
+  },
+  {
+   "n": 17,
+   "id": "F1518c335aac2",
+   "ano": "2026",
+   "url": "https://www.boatos.org/tecnologia/alerta-que-aponta-que-golpistas-estao-enviando-videos-com-a-palavra-hiperlog-para-roubar-dados-no-whatsapp-nao-procede.html"
+  },
+  {
+   "n": 18,
+   "id": "F7cdfcedde2ea",
+   "ano": "2026",
+   "url": "https://www.boatos.org/brasil/bancos-como-nubank-inter-e-itau-vao-falir-por-causa-do-banco-master.html"
+  },
+  {
+   "n": 19,
+   "id": "F4e27af44b8d3",
+   "ano": "2026",
+   "url": "https://www.boatos.org/saude/medica-neurologista-alertou-que-tomar-banho-quente-causa-avc-em-idosos.html"
+  },
+  {
+   "n": 20,
+   "id": "F381682cc1983",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/pf-afirma-que-mensagens-no-celular-de-vorcaro-eram-para-alexandre-caetano-dos-reis.html"
+  },
+  {
+   "n": 21,
+   "id": "F64ca3d127829",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/jean-wyllys-prisao-professora.html"
+  },
+  {
+   "n": 22,
+   "id": "F84f48251ee60",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/lula-e-expulso-sob-vaias-do-carnaval-e-leva-chuva-de-ovos-em-desfile.html"
+  },
+  {
+   "n": 23,
+   "id": "F002b9ea0684f",
+   "ano": "2016",
+   "url": "https://www.boatos.org/saude/cadeiras-de-rodas-gratuitas-no-clube.html"
+  },
+  {
+   "n": 24,
+   "id": "F941bbdc3a9d7",
+   "ano": "2016",
+   "url": "https://www.boatos.org/entretenimento/chico-buarque-diz-que-nao-voltara-ao-brasil-se-lula-for-preso-boato.html"
+  },
+  {
+   "n": 25,
+   "id": "Fe5c4c154c534",
+   "ano": "2026",
+   "url": "https://www.boatos.org/esporte/endrick-doou-o-cache-ganho-na-copa-do-mundo-para-a-caridade-e-para-a-venezuela.html"
+  },
+  {
+   "n": 26,
+   "id": "Fa180071b61fa",
+   "ano": "2016",
+   "url": "https://www.boatos.org/entretenimento/morre-claudia-rodrigues-aos-44-anos-no-rio-boato.html"
+  },
+  {
+   "n": 27,
+   "id": "Ff9302044eb99",
+   "ano": "2016",
+   "url": "https://www.boatos.org/opiniao/fotos-preto-branco-facebook-cancer.html"
+  },
+  {
+   "n": 28,
+   "id": "F18f2bd5d0ce9",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/quando-assaltado-aceite-freixo.html"
+  },
+  {
+   "n": 29,
+   "id": "Fd822bd6675c4",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/flavio-dino-fez-o-l-durante-apresentacao-no-carnaval-de-2026.html"
+  },
+  {
+   "n": 30,
+   "id": "F3bd627ec48fb",
+   "ano": "2016",
+   "url": "https://www.boatos.org/brasil/silas-malafaia-temer-chip.html"
+  },
+  {
+   "n": 31,
+   "id": "F06163c5e26ea",
+   "ano": "2026",
+   "url": "https://www.boatos.org/entretenimento/ratinho-anuncia-que-serasa-foi-multada-e-tera-que-limpar-o-nome-dos-brasileiros-por-r-40.html"
+  },
+  {
+   "n": 32,
+   "id": "F92796e957d22",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/lula-defende-que-pobre-nao-precisa-estudar-tem-que-trabalhar-em-evento-na-casa-da-moeda-em-2026.html"
+  },
+  {
+   "n": 33,
+   "id": "Ff03a6eb27eb4",
+   "ano": "2016",
+   "url": "https://www.boatos.org/religiao/diabo-aparece-foto-de-jovens-bebendo.html"
+  },
+  {
+   "n": 34,
+   "id": "F57fe8f17edf1",
+   "ano": "2026",
+   "url": "https://www.boatos.org/mundo/terremoto-na-venezuela-foi-causado-por-sistema-haarp-dos-estados-unidos.html"
+  },
+  {
+   "n": 35,
+   "id": "F9974e23bb723",
+   "ano": "2016",
+   "url": "https://www.boatos.org/brasil/troca-rg-por-identidade-chip-boato.html"
+  },
+  {
+   "n": 36,
+   "id": "F0799a8caa9ae",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/erika-hilton-e-internada-as-pressas-com-torcao-testicular.html"
+  },
+  {
+   "n": 37,
+   "id": "F6b4fb5f196c6",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/lula-e-expulso-de-igreja-na-espanha-apos-aparecer-bebado.html"
+  },
+  {
+   "n": 38,
+   "id": "F8da59b8de606",
+   "ano": "2016",
+   "url": "https://www.boatos.org/brasil/ovni-governador-valadares-recife.html"
+  },
+  {
+   "n": 39,
+   "id": "Fb31d20cbd638",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/temer-manda-cancelar-bilhoes-cuba.html"
+  },
+  {
+   "n": 40,
+   "id": "F421b70cf8bf4",
+   "ano": "2016",
+   "url": "https://www.boatos.org/brasil/furacao-atingir-rio-fim-de-semana.html"
+  },
+  {
+   "n": 41,
+   "id": "F081384284e56",
+   "ano": "2016",
+   "url": "https://www.boatos.org/entretenimento/carta-despedida-montagner-encontrada.html"
+  },
+  {
+   "n": 42,
+   "id": "F3efedbc88715",
+   "ano": "2016",
+   "url": "https://www.boatos.org/tecnologia/tim-claro-oi-creditos-gratis.html"
+  },
+  {
+   "n": 43,
+   "id": "Fe18d120bc821",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/jose-de-abreu-tentou-humilhar-tarcisio-no-roda-viva-mas-acabou-calado.html"
+  },
+  {
+   "n": 44,
+   "id": "F013b6ea3e6b1",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/cargo-de-ministro-exige-curso-superior-boato.html"
+  },
+  {
+   "n": 45,
+   "id": "Ffc4a29386855",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/universidades-publicas-extintas-pais.html"
+  },
+  {
+   "n": 46,
+   "id": "F1d36cfeac2b1",
+   "ano": "2026",
+   "url": "https://www.boatos.org/saude/nao-nascerao-mais-criancas-com-sindrome-de-down-apos-japao-eliminar-cromossomo-ligado-a-condicao.html"
+  },
+  {
+   "n": 47,
+   "id": "Fbfcdaec60e31",
+   "ano": "2016",
+   "url": "https://www.boatos.org/brasil/lei-quebrar-celular-conversa.html"
+  },
+  {
+   "n": 48,
+   "id": "F9f3f3b09826e",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/michel-temer-disse-que-o-pt-errou.html"
+  },
+  {
+   "n": 49,
+   "id": "F12964b28f758",
+   "ano": "2026",
+   "url": "https://www.boatos.org/mundo/trump-decide-que-eua-passara-a-aplicar-pena-de-morte-por-fuzilamento-para-estupradores.html"
+  },
+  {
+   "n": 50,
+   "id": "F53aa7c201391",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/grampo-foi-no-telefone-de-dilma.html"
+  },
+  {
+   "n": 51,
+   "id": "F74dc295884ab",
+   "ano": "2026",
+   "url": "https://www.boatos.org/religiao/cristao-sao-enterrados-vivos-com-as-maos-para-cima-em-paises-da-africa.html"
+  },
+  {
+   "n": 52,
+   "id": "F5fa83d645fa4",
+   "ano": "2016",
+   "url": "https://www.boatos.org/mundo/mae-larga-bebe-no-chao-aeroporto.html"
+  },
+  {
+   "n": 53,
+   "id": "Fe996ee592560",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/eduardo-suplicy-beijou-adolescente.html"
+  },
+  {
+   "n": 54,
+   "id": "F9e08af7db812",
+   "ano": "2026",
+   "url": "https://www.boatos.org/esporte/yuri-alberto-foi-pego-no-antidoping-e-expulso-do-corinthians.html"
+  },
+  {
+   "n": 55,
+   "id": "Fc47e65680326",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/moro-processo-disciplinar-lava-jato.html"
+  },
+  {
+   "n": 56,
+   "id": "Fb7546c19406b",
+   "ano": "2026",
+   "url": "https://www.boatos.org/esporte/carlo-ancelotti-deixa-selecao-brasileira-para-assumir-a-italia.html"
+  },
+  {
+   "n": 57,
+   "id": "Fdf9a4c69df8a",
+   "ano": "2016",
+   "url": "https://www.boatos.org/esporte/torre-eiffel-verde-chapecoense.html"
+  },
+  {
+   "n": 58,
+   "id": "F299e76c677eb",
+   "ano": "2026",
+   "url": "https://www.boatos.org/entretenimento/roberto-carlos-morreu-em-2026-e-morte-foi-anunciada-na-tv.html"
+  },
+  {
+   "n": 59,
+   "id": "F888c06482ee6",
+   "ano": "2016",
+   "url": "https://www.boatos.org/entretenimento/wagner-moura-sergio-moro-serie.html"
+  },
+  {
+   "n": 60,
+   "id": "F1e28f583ea6b",
+   "ano": "2016",
+   "url": "https://www.boatos.org/tecnologia/facebook-bebe-cancer-curtidas-amem.html"
+  },
+  {
+   "n": 61,
+   "id": "F4a5d2ee33cdb",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/governo-lula-proibiu-uso-do-chapeu-por-peoes-na-fazenda.html"
+  },
+  {
+   "n": 62,
+   "id": "Ff1c45ec727f4",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/navio-de-alexandre-de-moraes-foi-aprendido-no-porto-de-antuerpia-com-carregamento-de-cocaina.html"
+  },
+  {
+   "n": 63,
+   "id": "F46f3791a760e",
+   "ano": "2016",
+   "url": "https://www.boatos.org/tecnologia/contas-facebook-estao-sendo-hackeadas.html"
+  },
+  {
+   "n": 64,
+   "id": "F0275f34123be",
+   "ano": "2026",
+   "url": "https://www.boatos.org/religiao/pastor-thomas-whitfield-foi-enterrado-vivo-na-neve-e-sobreviveu-por-milagre.html"
+  },
+  {
+   "n": 65,
+   "id": "F730a6dadee0a",
+   "ano": "2026",
+   "url": "https://www.boatos.org/tecnologia/mensagem-nao-autorizo-evita-que-meta-utilize-fotos-publicas-e-acesse-suas-mensagens-no-facebook.html"
+  },
+  {
+   "n": 66,
+   "id": "F5836739fa3ac",
+   "ano": "2026",
+   "url": "https://www.boatos.org/esporte/the-economist-previu-que-espanha-seria-campea-do-mundo-e-comprova-que-elites-ja-sabiam-sobre-copa-do-mundo.html"
+  },
+  {
+   "n": 67,
+   "id": "F4ee412eca759",
+   "ano": "2026",
+   "url": "https://www.boatos.org/tecnologia/cacau-show-da-presente-de-dia-internacional-da-mulher-para-quem-compartilhar-mensagem.html"
+  },
+  {
+   "n": 68,
+   "id": "F1bb5c1b181de",
+   "ano": "2026",
+   "url": "https://www.boatos.org/brasil/video-mostra-vaca-carregando-caes-durante-enchente.html"
+  },
+  {
+   "n": 69,
+   "id": "Fa0f30287e7b1",
+   "ano": "2026",
+   "url": "https://www.boatos.org/saude/video-que-mostra-fabrica-de-linguicas-feitas-de-sapos-e-real.html"
+  },
+  {
+   "n": 70,
+   "id": "Fd7f005435164",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/trump-vai-vir-ao-brasil-para-interferir-nas-eleicoes-de-2026.html"
+  },
+  {
+   "n": 71,
+   "id": "F8189f7575ace",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/bolsonaro-recebeu-alvara-de-liberdade-e-vai-concorrer-nas-eleicoes-de-2026.html"
+  },
+  {
+   "n": 72,
+   "id": "F437e5a8f3f9f",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/dente-de-renan-calheiros-cai-durante.html"
+  },
+  {
+   "n": 73,
+   "id": "F74981d2b6929",
+   "ano": "2016",
+   "url": "https://www.boatos.org/brasil/radar-movel-em-carro-da-prf.html"
+  },
+  {
+   "n": 74,
+   "id": "F0ee86b93a418",
+   "ano": "2026",
+   "url": "https://www.boatos.org/tecnologia/jeff-bezos-disse-que-agua-deve-ser-priorizada-para-inteligencia-artificial-e-nao-dada-para-o-consumo-humano.html"
+  },
+  {
+   "n": 75,
+   "id": "F8f4a93984033",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/palocci-lotus-senna-apartamento.html"
+  },
+  {
+   "n": 76,
+   "id": "Fadc05cda475e",
+   "ano": "2026",
+   "url": "https://www.boatos.org/religiao/papa-leao-vix-nomeia-frei-gilson-como-ferramenta-de-deus-em-milagres.html"
+  },
+  {
+   "n": 77,
+   "id": "F02b0eeaf84e6",
+   "ano": "2016",
+   "url": "https://www.boatos.org/brasil/stf-derruba-lei-farol-aceso-boato.html"
+  },
+  {
+   "n": 78,
+   "id": "F76ae913c5a02",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/extincao-secadi-mec-promovida-temer.html"
+  },
+  {
+   "n": 79,
+   "id": "Fa462138a7a9e",
+   "ano": "2026",
+   "url": "https://www.boatos.org/saude/biscoito-oreo-e-feito-de-componentes-derivados-do-petroleo.html"
+  },
+  {
+   "n": 80,
+   "id": "F7ae45b5ab39c",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/obama-tira-sarro-do-grampo-em-lula.html"
+  },
+  {
+   "n": 81,
+   "id": "F8d696b201039",
+   "ano": "2026",
+   "url": "https://www.boatos.org/brasil/mmartan-esta-dando-desconto-de-diversos-jogos-de-cama-pelo-preco-de-um.html"
+  },
+  {
+   "n": 82,
+   "id": "Fc747e3444f2c",
+   "ano": "2026",
+   "url": "https://www.boatos.org/brasil/jovem-vende-chaveiros-artesanais-para-poder-criar-a-irma-em-site-anunciado-em-redes-sociais.html"
+  },
+  {
+   "n": 83,
+   "id": "Fae3be34f25c4",
+   "ano": "2026",
+   "url": "https://www.boatos.org/brasil/camera-de-seguranca-filmou-criancas-invadindo-cemiterio-em-curitiba-e-deitando-nos-tumulos.html"
+  },
+  {
+   "n": 84,
+   "id": "Fc7e6b0a18660",
+   "ano": "2016",
+   "url": "https://www.boatos.org/religiao/blue-beam-nasa-vinda-jesus.html"
+  },
+  {
+   "n": 85,
+   "id": "Fa6351444b703",
+   "ano": "2026",
+   "url": "https://www.boatos.org/ciencia/vaca-onca-foi-criada-geneticamente-no-mato-grosso.html"
+  },
+  {
+   "n": 86,
+   "id": "Fcd7416c5f6cf",
+   "ano": "2026",
+   "url": "https://www.boatos.org/brasil/lobisomem-foi-flagrado-durante-a-madrugada-em-cidades-do-brasil-em-2026.html"
+  },
+  {
+   "n": 87,
+   "id": "Fa52ffcc41af3",
+   "ano": "2026",
+   "url": "https://www.boatos.org/brasil/mercado-livre-da-presente-de-aniversario-no-pix-em-raspadinha-online.html"
+  },
+  {
+   "n": 88,
+   "id": "F6aed111e97db",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/lula-vai-pagar-r-7-mil-para-palestinos-na-operacao-acolhida.html"
+  },
+  {
+   "n": 89,
+   "id": "F1782f4dbc22f",
+   "ano": "2016",
+   "url": "https://www.boatos.org/brasil/pao-de-acucar-vale-presente.html"
+  },
+  {
+   "n": 90,
+   "id": "F6c9634367633",
+   "ano": "2026",
+   "url": "https://www.boatos.org/mundo/video-que-mostra-elefante-salvando-tigre-em-meio-a-uma-enchente-na-indonesia.html"
+  },
+  {
+   "n": 91,
+   "id": "F4f9a577f2237",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/ulysses-guimaraes-fez-denuncia-contra-bolsonaro-em-1988.html"
+  },
+  {
+   "n": 92,
+   "id": "Fb925abc98dab",
+   "ano": "2016",
+   "url": "https://www.boatos.org/esporte/cristiano-ronaldo-milhoes-chapecoense.html"
+  },
+  {
+   "n": 93,
+   "id": "Fbbcf71dbc366",
+   "ano": "2016",
+   "url": "https://www.boatos.org/religiao/hostia-sangra-flutua-mt.html"
+  },
+  {
+   "n": 94,
+   "id": "F426ebc75e6ac",
+   "ano": "2026",
+   "url": "https://www.boatos.org/entretenimento/oruam-morreu-apos-tentar-fugir-da-policia-em-seu-apartamento.html"
+  },
+  {
+   "n": 95,
+   "id": "F3ca4668b0122",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/ex-mulher-de-alexandre-de-moraes-foi-entregue-como-oferenda-para-seita.html"
+  },
+  {
+   "n": 96,
+   "id": "F254586c21cd4",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/folha-mulher-moro-assessora-psdb.html"
+  },
+  {
+   "n": 97,
+   "id": "F1246cd0668e8",
+   "ano": "2026",
+   "url": "https://www.boatos.org/politica/embaixadora-da-venezuela-calou-e-expulsou-lula-de-reuniao-na-onu.html"
+  },
+  {
+   "n": 98,
+   "id": "Fcc625b88c60d",
+   "ano": "2016",
+   "url": "https://www.boatos.org/mundo/navio-reaparece-apos-90-anos.html"
+  },
+  {
+   "n": 99,
+   "id": "Ff81eab34c42f",
+   "ano": "2016",
+   "url": "https://www.boatos.org/brasil/teto-shopping-tucuruvi-riomar-desabou.html"
+  },
+  {
+   "n": 100,
+   "id": "F6b223f2c843a",
+   "ano": "2016",
+   "url": "https://www.boatos.org/politica/dilma-compra-fazenda-mato-grosso.html"
+  }
+ ]
+}
