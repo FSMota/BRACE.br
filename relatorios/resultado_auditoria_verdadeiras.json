@@ -788,7 +788,7 @@
     "similaridade": 0.409,
     "id_v": "V12e6b640b737",
     "id_f": "Fa2349634c4c4",
-    "relacao": "mesmo fato: detalhe difere"
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.405,
@@ -908,13 +908,13 @@
     "similaridade": 0.332,
     "id_v": "Vd16f6547b082",
     "id_f": "Ffd0fe8aa5803",
-    "relacao": "mesmo fato: detalhe difere"
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.33,
     "id_v": "V9699fb1e6941",
     "id_f": "Fa2349634c4c4",
-    "relacao": "so mesmo assunto"
+    "relacao": "mesmo fato: detalhe difere"
    },
    {
     "similaridade": 0.329,
@@ -962,7 +962,7 @@
     "similaridade": 0.324,
     "id_v": "Vdcb141c7945e",
     "id_f": "F9d74ebbb4935",
-    "relacao": "mesmo fato: detalhe difere"
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.321,
@@ -1004,7 +1004,7 @@
     "similaridade": 0.307,
     "id_v": "V48cf74ff7411",
     "id_f": "Fc40425ee9151",
-    "relacao": "so mesmo assunto"
+    "relacao": "mesmo fato: detalhe difere"
    },
    {
     "similaridade": 0.307,
@@ -1026,8 +1026,8 @@
    }
   ],
   "leitura": {
-   "mesmo fato: detalhe difere": 12,
-   "so mesmo assunto": 31
+   "mesmo fato: detalhe difere": 11,
+   "so mesmo assunto": 32
   }
  }
 }

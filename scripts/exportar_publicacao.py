@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Gera o pacote de publicação da BRACE.br (Zenodo, DOI 10.5281/zenodo.23982799).
+"""Gera o pacote de publicação da BRACE.br (Zenodo, DOI 10.5281/zenodo.24019899).
 
     python scripts/exportar_publicacao.py             # simula: mostra contagens, não grava
     python scripts/exportar_publicacao.py --aplicar   # grava em datasets/publicacao/
@@ -21,6 +21,8 @@ O que entra e o que não entra:
     mensagens verdadeiras ou não verificadas saem do arquivo; o conteúdo publicado
     no formato de checagem sem veredito vira NAO_E_CHECAGEM, fora do pareado; as
     meias-verdades (selos Enganoso, Exagerado, Real com erros) continuam FALSO.
+  - v1.1.1: saem 5 entradas da série Autoboataria com veredito "Fato" ou
+    "Inconclusivo" do checador e 6 da auditoria da via html que não são a mensagem.
     Cada falsa leva o veredito do checador e a fonte dele como atributos.
 """
 import os
@@ -35,8 +37,8 @@ ARQ_CORPUS = os.path.join(_RAIZ, "datasets", "corpus_fundido.jsonl")
 ARQ_BRACO = os.path.join(_RAIZ, "datasets", "braco_refinado.jsonl")
 PASTA_MARCAS = os.path.join(_RAIZ, "relatorios", "marcacoes")
 SAIDA = os.path.join(_RAIZ, "datasets", "publicacao")
-VERSAO = "1.1.0"
-DOI = (sys.argv[sys.argv.index("--doi") + 1] if "--doi" in sys.argv else "10.5281/zenodo.23982799")
+VERSAO = "1.1.1"
+DOI = (sys.argv[sys.argv.index("--doi") + 1] if "--doi" in sys.argv else "10.5281/zenodo.24019899")
 
 ARQ_DADOS = f"brace_br_v{VERSAO}.jsonl.gz"
 SEMENTE = 0
@@ -208,7 +210,9 @@ VERDADEIRO), por tema e por ano.
 
 - 111 entradas falsas da via LLM que não existem no artigo de origem (texto
   inventado pelo modelo), identificadas por medida pré-registrada.
-- {retiradas_rotulo} entradas que, pelo veredito do checador localizado no texto do artigo, são mensagens verdadeiras ou ainda em apuração (v1.1.0).
+- {retiradas_rotulo} entradas que, pelo veredito do checador, são mensagens verdadeiras,
+  inconclusivas ou ainda em apuração, ou que a auditoria da via html mostrou não serem
+  a mensagem que circulou (v1.1.0 e v1.1.1).
 - O texto integral dos artigos de checagem e os recortes literais da apuração.
 
 ## Limitações medidas

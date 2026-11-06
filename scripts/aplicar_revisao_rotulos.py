@@ -29,7 +29,15 @@ CHECADOR_PREVALECE = {
     "Fa0c288abac83": ("FALSO", "artigo abre com 'Boato –' (bebê do Ceará)"),
     "F583782a1bbb8": ("FALSO", "entrada traz o veredito do checador: 'Anitta é bi – Boato'"),
     "F974af4649497": ("REMOVER", "selo 'Em apuração ❓': o checador não deu veredito"),
+    # v1.1.1: série Autoboataria, em que o checador dá um veredito por item
+    "Fcf3cb3c303ef": ("REMOVER", "checador: 'Marina Silva é evangélica – Fato'"),
+    "Fcc3a65dcb035": ("REMOVER", "checador: 'Anitta é processada por plágio – Fato'"),
+    "Ff045dec08610": ("REMOVER", "checador: 'Evaristo Costa é testemunha de jeová – Inconclusivo'"),
+    "F447959e69a4a": ("REMOVER", "checador: 'Anitta é metida – Inconclusivo'"),
+    "F3c9890dc0843": ("REMOVER", "checador: 'Anitta é filha de quem – Inconclusivo'"),
 }
+# v1.1.1: as 6 linhas da auditoria da via html que não são a mensagem que circulou
+ERROS_AUDITORIA_HTML = (15, 72, 81, 89, 92, 93)
 
 
 def main():
@@ -46,6 +54,11 @@ def main():
     for i, (dec, motivo) in CHECADOR_PREVALECE.items():
         decisoes[i] = {"decisao": dec, "planilha": decisoes.get(i, {}).get("planilha"),
                        "observacao": motivo, "origem": "checador"}
+    amostra = json.load(open(os.path.join(_RAIZ, "relatorios", "anotacao_html", "amostra.json"), encoding="utf-8"))
+    for item in amostra["itens"]:
+        if item["n"] in ERROS_AUDITORIA_HTML:
+            decisoes[item["id"]] = {"decisao": "REMOVER", "planilha": None, "origem": "auditoria_html",
+                                    "observacao": "lida como lixo ou desmentido; a mensagem está em outra entrada do artigo"}
     json.dump({"fonte": os.path.basename(sys.argv[1]), "n": len(decisoes),
                "por_decisao": dict(Counter(v["decisao"] for v in decisoes.values())),
                "decisoes": decisoes}, open(ARQ_SAIDA, "w", encoding="utf-8"), indent=1, ensure_ascii=False)

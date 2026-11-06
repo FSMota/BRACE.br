@@ -33,11 +33,11 @@ execução.
 
 ### Números
 
-| | versão publicada (1.1.0) | versão dos experimentos (TCC) |
+| | versão publicada (1.1.1) | versão dos experimentos (TCC) |
 |---|---:|---:|
-| total | **27.871** (14.721 falsas + 13.146 verdadeiras + 4 que não são checagem) | 28.002 (14.856 + 13.146) |
-| subconjunto pareado (tema × ano × parte da divisão) | **23.646** (11.823 + 11.823) | 23.950 (11.975 + 11.975) |
-| treino / validação / teste (pareado) | 16.544 / 2.068 / 5.034 | 16.707 / 2.080 / 5.162 |
+| total | **27.860** (14.710 falsas + 13.146 verdadeiras + 4 que não são checagem) | 28.002 (14.856 + 13.146) |
+| subconjunto pareado (tema × ano × parte da divisão) | **23.632** (11.816 + 11.816) | 23.950 (11.975 + 11.975) |
+| treino / validação / teste (pareado) | 16.532 / 2.068 / 5.032 | 16.707 / 2.080 / 5.162 |
 | período | 2014 a 2026 | 2014 a 2026 |
 
 A versão publicada retira as 111 entradas falsas inventadas pelo LLM na
@@ -45,8 +45,7 @@ extração e exclui do pareado as checagens de discurso, reequilibrando as
 células afetadas. A partir da 1.1.0, cada falsa leva o veredito publicado pelo
 próprio checador (`veredito_checador`: o selo do fim do artigo no Boatos.org ou
 a hashtag #boato), lido por `scripts/veredito_checador.py`; nos artigos sem essa marca, o pesquisador localizou o veredito no texto do checador
-(`scripts/aplicar_revisao_rotulos.py`), e as 20 mensagens verdadeiras ou ainda
-em apuração saíram da base. O pareado exato dos experimentos vai no atributo
+(`scripts/aplicar_revisao_rotulos.py`), e as 25 mensagens verdadeiras, inconclusivas ou ainda em apuração saíram da base, junto com as 6 entradas que a auditoria da via html mostrou não serem a mensagem (versão 1.1.1). O pareado exato dos experimentos vai no atributo
 `subconjunto_pareado_tcc`; retirar as entradas inventadas altera a acurácia do
 modelo de referência em no máximo 0,15 ponto.
 
@@ -57,7 +56,7 @@ Comparação com as maiores bases do levantamento:
 | Base COVID-19 | 13.087 | tema único; 21% falsas |
 | FakeRecogna | 11.902 | balanceada |
 | Fake.br | 7.200 | falsas de *sites* de desinformação |
-| **BRACE.br** | **27.871** | veredito por alegação e justificativa do checador |
+| **BRACE.br** | **27.860** | veredito por alegação e justificativa do checador |
 
 ### Perguntas de pesquisa
 
@@ -339,8 +338,8 @@ reinstalar o sistema. Os vetores BERTimbau e bge-m3 e o ajuste fino exigem GPU.
 
 ## 9. Dados e licenças
 
-Os dados não vão para o git. A base está no Zenodo, versão 1.1.0:
-**https://doi.org/10.5281/zenodo.23982799**. Este repositório fica com o
+Os dados não vão para o git. A base está no Zenodo, versão 1.1.1:
+**https://doi.org/10.5281/zenodo.24019899**. Este repositório fica com o
 código, a documentação e os resultados; `scripts/exportar_publicacao.py` gera
 a versão publicada a partir da base usada nos experimentos.
 

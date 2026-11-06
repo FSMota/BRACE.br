@@ -239,3 +239,11 @@ TCC: como se sabe que cada entrada da classe falsa é falsa?
   aparece ao retreinar com mudanças mínimas, sem alterar nenhuma conclusão.
 - **Limites.** A regra de título é ampla, e conteúdo patrocinado não tem marca no
   texto: há casos conhecidos que ficaram com o rótulo que o checador publicou.
+
+**Versão 1.1.1 (06/11/2026, DOI 10.5281/zenodo.24019899).** Uma segunda leitura dos
+pares entre as classes mostrou entradas da série Autoboataria com veredito "Fato" ou
+"Inconclusivo" do checador que a revisão havia mantido como falsas. Saem essas 5 e os 6
+erros da auditoria da via html: 27.860 instâncias, pareado 11.816 x 2. Os 43 pares
+foram lidos pelo pesquisador e conferidos pelo assistente; nenhuma matéria é negada
+pelo checador (11 do mesmo fato, 32 só do mesmo assunto). Retirar as 38 entradas da
+revisão muda a acurácia em no máximo 0,30 ponto.

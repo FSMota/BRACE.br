@@ -1,34 +1,34 @@
 {
  "modelo": "TF-IDF de palavras + LR, C=10",
- "fora_da_tarefa_binaria": 27,
+ "fora_da_tarefa_binaria": 38,
  "retiradas_do_pareado": {
-  "treino": 14,
+  "treino": 20,
   "validacao": 1,
-  "teste": 4
+  "teste": 5
  },
  "bracos": {
   "bruto": {
    "teste": {
     "antes": 91.19,
-    "depois": 91.59,
-    "dif_pp": 0.4
+    "depois": 91.49,
+    "dif_pp": 0.3
    },
    "fakebr": {
     "antes": 73.53,
-    "depois": 73.64,
-    "dif_pp": 0.11
+    "depois": 73.53,
+    "dif_pp": 0.0
    }
   },
   "refinado": {
    "teste": {
     "antes": 81.73,
-    "depois": 81.78,
-    "dif_pp": 0.05
+    "depois": 81.91,
+    "dif_pp": 0.18
    },
    "fakebr": {
     "antes": 66.31,
-    "depois": 66.07,
-    "dif_pp": -0.24
+    "depois": 66.22,
+    "dif_pp": -0.09
    }
   }
  }
