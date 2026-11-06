@@ -1,0 +1,68 @@
+{
+ "modelo": "TF-IDF de palavras + LR, C=10",
+ "html_multiplos_no_corpus": 717,
+ "cenarios": {
+  "sem_6_erros": {
+   "retiradas_do_pareado": {
+    "treino": 3,
+    "validacao": 0,
+    "teste": 1
+   },
+   "bruto": {
+    "teste": [
+     91.19,
+     91.22,
+     0.03
+    ],
+    "fakebr": [
+     73.53,
+     73.43,
+     -0.1
+    ]
+   },
+   "refinado": {
+    "teste": [
+     81.73,
+     81.67,
+     -0.06
+    ],
+    "fakebr": [
+     66.31,
+     66.24,
+     -0.07
+    ]
+   }
+  },
+  "sem_html_multiplos": {
+   "retiradas_do_pareado": {
+    "treino": 428,
+    "validacao": 23,
+    "teste": 84
+   },
+   "bruto": {
+    "teste": [
+     91.19,
+     90.92,
+     -0.27
+    ],
+    "fakebr": [
+     73.53,
+     72.76,
+     -0.77
+    ]
+   },
+   "refinado": {
+    "teste": [
+     81.73,
+     81.61,
+     -0.12
+    ],
+    "fakebr": [
+     66.31,
+     66.0,
+     -0.31
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "por_ano": {
+  "2016": {
+   "categorias": {
+    "boato": 45,
+    "lixo": 2,
+    "desmentido": 3
+   },
+   "nao_e_a_mensagem": 5,
+   "n_validos": 50,
+   "pct": 10.0,
+   "ic95": [
+    4.3,
+    21.4
+   ]
+  },
+  "2026": {
+   "categorias": {
+    "boato": 49,
+    "desmentido": 1
+   },
+   "nao_e_a_mensagem": 1,
+   "n_validos": 50,
+   "pct": 2.0,
+   "ic95": [
+    0.4,
+    10.5
+   ]
+  }
+ }
+}
