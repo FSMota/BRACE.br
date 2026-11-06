@@ -769,218 +769,265 @@
    {
     "similaridade": 0.753,
     "id_v": "Vde7d2e06fca3",
-    "id_f": "F849a969f6157"
+    "id_f": "F849a969f6157",
+    "relacao": "mesmo fato: detalhe difere"
    },
    {
     "similaridade": 0.471,
     "id_v": "V57ba61b75638",
-    "id_f": "Fd612a2dcc5e2"
+    "id_f": "Fd612a2dcc5e2",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.428,
     "id_v": "V7f64f413890a",
-    "id_f": "Fc1d5935db289"
+    "id_f": "Fc1d5935db289",
+    "relacao": "mesmo fato: detalhe difere"
    },
    {
     "similaridade": 0.409,
     "id_v": "V12e6b640b737",
-    "id_f": "Fa2349634c4c4"
+    "id_f": "Fa2349634c4c4",
+    "relacao": "mesmo fato: detalhe difere"
    },
    {
     "similaridade": 0.405,
     "id_v": "V2da597ec96fe",
-    "id_f": "F6ccafbd044eb"
+    "id_f": "F6ccafbd044eb",
+    "relacao": "mesmo fato: detalhe difere"
    },
    {
     "similaridade": 0.4,
     "id_v": "V4a463839f391",
-    "id_f": "F11f2fa0e9566"
+    "id_f": "F11f2fa0e9566",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.39,
     "id_v": "V1cc308c29482",
-    "id_f": "F697a5f012c3a"
+    "id_f": "F697a5f012c3a",
+    "relacao": "mesmo fato: detalhe difere"
    },
    {
     "similaridade": 0.382,
     "id_v": "Vc4554f6cd3ae",
-    "id_f": "F8f3e87b4d13b"
+    "id_f": "F8f3e87b4d13b",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.376,
     "id_v": "V6026cab5b100",
-    "id_f": "Ff964ad1aaf1f"
+    "id_f": "Ff964ad1aaf1f",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.368,
     "id_v": "Ve1cc42f2d358",
-    "id_f": "Fd37ddc1ca8b4"
+    "id_f": "Fd37ddc1ca8b4",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.359,
     "id_v": "V81bfcf0e8bec",
-    "id_f": "F9faa6a906f12"
+    "id_f": "F9faa6a906f12",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.358,
     "id_v": "V7b419adfa1e6",
-    "id_f": "F0ec7ef379ce3"
+    "id_f": "F0ec7ef379ce3",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.355,
     "id_v": "Vf83781c6fb80",
-    "id_f": "F8ae8d50a81d8"
+    "id_f": "F8ae8d50a81d8",
+    "relacao": "mesmo fato: detalhe difere"
    },
    {
     "similaridade": 0.353,
     "id_v": "Vc711fb5d5a75",
-    "id_f": "Fcf3cb3c303ef"
+    "id_f": "Fcf3cb3c303ef",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.352,
     "id_v": "V2fbbc6996f69",
-    "id_f": "F8f3e87b4d13b"
+    "id_f": "F8f3e87b4d13b",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.348,
     "id_v": "V9d09ef584959",
-    "id_f": "F58ead127a720"
+    "id_f": "F58ead127a720",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.341,
     "id_v": "V3c804de8a6cb",
-    "id_f": "Ff78d9b64c75d"
+    "id_f": "Ff78d9b64c75d",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.341,
     "id_v": "V8bcfe2e41e01",
-    "id_f": "F76e51e6305b2"
+    "id_f": "F76e51e6305b2",
+    "relacao": "mesmo fato: detalhe difere"
    },
    {
     "similaridade": 0.339,
     "id_v": "V1f3d9a020d75",
-    "id_f": "Fcf0d40b13054"
+    "id_f": "Fcf0d40b13054",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.338,
     "id_v": "Vcfc9b460d0bb",
-    "id_f": "F7e8bebc35a58"
+    "id_f": "F7e8bebc35a58",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.335,
     "id_v": "Vc6094483f5ff",
-    "id_f": "F4478cddea4e0"
+    "id_f": "F4478cddea4e0",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.332,
     "id_v": "Vd8ea8a254e46",
-    "id_f": "Fad7cf75151d9"
+    "id_f": "Fad7cf75151d9",
+    "relacao": "mesmo fato: detalhe difere"
    },
    {
     "similaridade": 0.332,
     "id_v": "V6d1a40570aaa",
-    "id_f": "F8ae8d50a81d8"
+    "id_f": "F8ae8d50a81d8",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.332,
     "id_v": "Vd16f6547b082",
-    "id_f": "Ffd0fe8aa5803"
+    "id_f": "Ffd0fe8aa5803",
+    "relacao": "mesmo fato: detalhe difere"
    },
    {
     "similaridade": 0.33,
     "id_v": "V9699fb1e6941",
-    "id_f": "Fa2349634c4c4"
+    "id_f": "Fa2349634c4c4",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.329,
     "id_v": "Vc1d8cf3f91ea",
-    "id_f": "Ff46030de020c"
+    "id_f": "Ff46030de020c",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.328,
     "id_v": "V83b29c28eceb",
-    "id_f": "Ff90c98af75cb"
+    "id_f": "Ff90c98af75cb",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.326,
     "id_v": "Ve223d520e014",
-    "id_f": "F46468d8bbe97"
+    "id_f": "F46468d8bbe97",
+    "relacao": "mesmo fato: detalhe difere"
    },
    {
     "similaridade": 0.326,
     "id_v": "Va5cc510a8768",
-    "id_f": "F3236eed6e242"
+    "id_f": "F3236eed6e242",
+    "relacao": "mesmo fato: detalhe difere"
    },
    {
     "similaridade": 0.326,
     "id_v": "Vb2abf33ff7ec",
-    "id_f": "F7e0542ab7920"
+    "id_f": "F7e0542ab7920",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.326,
     "id_v": "V345e149b9033",
-    "id_f": "F85cee2221733"
+    "id_f": "F85cee2221733",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.326,
     "id_v": "Vd5b5667391f5",
-    "id_f": "Fe7451bf545e3"
+    "id_f": "Fe7451bf545e3",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.324,
     "id_v": "Vdcb141c7945e",
-    "id_f": "F9d74ebbb4935"
+    "id_f": "F9d74ebbb4935",
+    "relacao": "mesmo fato: detalhe difere"
    },
    {
     "similaridade": 0.321,
     "id_v": "Ve275fd4bf49b",
-    "id_f": "F791198145fb1"
+    "id_f": "F791198145fb1",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.321,
     "id_v": "V71218b396fb9",
-    "id_f": "Fc71531c35c73"
+    "id_f": "Fc71531c35c73",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.318,
     "id_v": "V055598c5097e",
-    "id_f": "F2e64ffe2cf28"
+    "id_f": "F2e64ffe2cf28",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.316,
     "id_v": "Vdaed7c34258f",
-    "id_f": "Fcb357d0cf3ad"
+    "id_f": "Fcb357d0cf3ad",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.313,
     "id_v": "V3eab6e0f5469",
-    "id_f": "F1d36cfeac2b1"
+    "id_f": "F1d36cfeac2b1",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.311,
     "id_v": "V2e24474dfba6",
-    "id_f": "F76e51e6305b2"
+    "id_f": "F76e51e6305b2",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.307,
     "id_v": "V48cf74ff7411",
-    "id_f": "Fc40425ee9151"
+    "id_f": "Fc40425ee9151",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.307,
     "id_v": "V91567bd0e044",
-    "id_f": "F102d9df49075"
+    "id_f": "F102d9df49075",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.305,
     "id_v": "V4f4354635ad7",
-    "id_f": "F98a3e0023b7e"
+    "id_f": "F98a3e0023b7e",
+    "relacao": "so mesmo assunto"
    },
    {
     "similaridade": 0.303,
     "id_v": "V0c84cb40bb7b",
-    "id_f": "F1d36cfeac2b1"
+    "id_f": "F1d36cfeac2b1",
+    "relacao": "so mesmo assunto"
    }
-  ]
+  ],
+  "leitura": {
+   "mesmo fato: detalhe difere": 12,
+   "so mesmo assunto": 31
+  }
  }
 }
