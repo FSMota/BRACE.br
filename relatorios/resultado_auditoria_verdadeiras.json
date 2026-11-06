@@ -1,0 +1,986 @@
+{
+ "notas_de_alteracao": 222,
+ "correcoes": {
+  "n": 150,
+  "total": 13146,
+  "pct": 1.14,
+  "casos": [
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2020-04/governo-aumenta-limite-de-compra-de-municao-para-pessoas-fisicas",
+    "pareado": true,
+    "trecho": " que se posiciona contrária à ampliação do acesso a armas”. Matéria alterada às 15h53 para correção de informação no primeiro parágrafo. O limite de compra de munição subiu para 550 e não 300, como informado inicialmente. Texto atualizado às 16h07 para acréscimo da posição"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-03/yanomami-oferecem-estatueta-alternativa-indicados-ao-oscar-2023",
+    "pareado": true,
+    "trecho": "cia Brasil , da crise humanitária na TI Yanomami *Título da matéria alterado às 15h11 para correção de informação. Estatueta alternativa será entregue a alguns indicados ao Oscar, e não vencedores, como publicado inicialmente."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-08/covid-19-brasil-registra-mais-561-mortes-total-chega-94665",
+    "pareado": true,
+    "trecho": " Tocantins (402), Roraima (513), Acre (539) e Amapá (576). *Texto alterado às 19h57 para correção no número de recuperados e de pacientes em acompanhamento."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2022-08/policias-civis-deflagram-operacao-de-combate-crime-contra-idosos",
+    "pareado": true,
+    "trecho": "plesmente por sua condição. Ouça na Radioagência Nacional : Matéria atualizada às 18h47 para correção de informação. A operação termina no dia 23 de setembro e não 23 de agosto."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2023-05/maio-roxo-alerta-para-doencas-inflamatorias-intestinais",
+    "pareado": true,
+    "trecho": "e (SUS) e têm cobertura obrigatória pelos planos de saúde. *matéria atualizada para correção de informação. São dez casos novos de doenças inflamatórias intestinais para cada 10 mil habitantes por ano, e não 6 mil casos para 10 mil habitantes, como havia sido inform"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2018-04/maia-e-lideres-partidarios-discutem-pauta-economica-em-tramitacao-no",
+    "pareado": true,
+    "trecho": "i. A pauta da reunião com os ministros não foi divulgada. O texto foi alterado às 15h25 para correção"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/cultura/noticia/2017-04/terreno-do-planetario-do-rio-vai-leilao-nesta-terca-feira",
+    "pareado": true,
+    "trecho": "udantes de escolas das redes de ensino pública e privada. * Texto alterado às 19h06, do dia 18/04/2017, para correção de informação. A Cehab ofereceu terreno na região dos Lagos em substituição ao ocupado pelo planetário para execução da dívida, e não para o terreno ser ocupado pelo planetá"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/justica/noticia/2019-06/mpt-recomenda-monitoramento-de-43-barragens-de-oito-estados",
+    "pareado": true,
+    "trecho": "datórias e os estados onde as estruturas estão localizadas: Matéria alterada às 15h44 do dia 05 de junho para correção de informação na lista do MPT. A barragem de Fortaleza de Minas (MG) não pertence mais à Nexa Resources. A unidade foi vendida em maio de 2018 à Extrativa Metalurgia"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2019-03/mpf-acusa-temer-e-moreira-franco-de-corrupcao-em-obras-de-angra-3",
+    "pareado": true,
+    "trecho": "ntra ainda firmada, em procedimento desconhecido até aqui\". Texto alterado às 14h58 para corrigir informação. O juiz Marcelo Bretas indeferiu o pedido de prisão preventiva do almirante Othon Luiz Pinheiro da Silva, ex-presidente da Eletronuclear; e de sua filha, Ana C"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2021-04/cfm-diz-noo-senado-que-nao-aprova-tratamento-precoce-contra-covid-19",
+    "pareado": true,
+    "trecho": "m os quais nós estamos muito acostumados a lidar”, avaliou. Matéria alterada às 14h54 do dia 20/04/2021 para correção e acréscimo de informações. As declarações que estavam no sétimo e oitavo parágrafos do texto original foram atribuídas erroneamente à microbiologista Natália "
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-11/vice-presidente-eleito-anuncia-mais-61-nomes-da-equipe-de-transicao",
+    "pareado": true,
+    "trecho": "Criança e Adolescente OAB SP e diretora do Instituto Alana. Matéria alterada, às 13h30 de 15 de novembro de 2022, para corrigir o nome e o cargo de Marcus Barão. Ele nunca foi filiado ao MDB."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2025-05/estudante-de-gana-da-unb-e-encontrada-no-parana",
+    "pareado": true,
+    "trecho": "de uma oportunidade de emprego\", afirmou a PCDF, em nota. * Matéria atualizada em 04/05, às 15h02, para correção de informações a respeito do local aonde a estudante foi encontrada e acréscimo das informações sobre seu retorno à Brasília."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/latam-incorpora-na-frota-os-primeiros-avioes-da-embraer",
+    "pareado": true,
+    "trecho": "ambém cuidará dos reparos nos jatos da brasileira Embraer. *Matéria alterada para correção de informação. O título e o primeiro parágrafo foram corrigidos."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2023-05/brasil-condena-invasao-da-ucrania-mas-e-contra-isolamento-da-r%C3%BAssia",
+    "pareado": true,
+    "trecho": "didatos a nove postos em embaixadas do Brasil, no exterior. Matéria atualizada às 13h30 para acréscimo de informações e às 14h11 para corrigir número de sabatinados."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2022-01/cristian-ribeira-e-vice-campeao-mundial-paralimpico-na-noruega",
+    "pareado": true,
+    "trecho": "picos de Inverno em Pequim, de 4 a 13 de março deste ano. * Texto corrigido em 24/01/2022, às 11h32, para correção da grafia do sobrenome do atleta no título da matéria: Ribera"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2020-02/bolsonaro-inaugura-pavimentacao-de-rodovia-no-para",
+    "pareado": true,
+    "trecho": "deixará o País mais competitivo. pic.twitter.com/HWQ8o2YyJy Matéria alterada às 20h22 para correção do título"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/justica/noticia/2019-03/desembargador-manda-soltar-temer-e-moreira-franco",
+    "pareado": true,
+    "trecho": "om direito a defesa, até que a verdade seja restabelecida\". Texto alterado às 15h49 para corrigir informação e atualizado às 16h37."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2023-03/baixa-cobertura-vacinal-contra-hpv-favorece-casos-de-cancer",
+    "pareado": true,
+    "trecho": "o público adulto, a vacina passa a precisar de três doses. *Matéria alterada às 18h40 para correção de informação no sexto parágrafo. A vacina é indicada a partir dos 9 anos e não 11, como informado inicialmente."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/cultura/noticia/2017-01/site-cataloga-poesia-traduzida-no-brasil-ao-longo-de-49-anos",
+    "pareado": true,
+    "trecho": "ncia. Claro que não é algo massificado”, disse. O título da matéria foi alterado no dia 16/01/2017, às 10h38 para correção de informação"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/economia/noticia/2017-09/petrobras-reajusta-preco-do-diesel-em-16-e-da-gasolina-em-13-nas-refinarias",
+    "pareado": true,
+    "trecho": "tembro e a gasolina, valorização de 5,5% no mesmo período. *Matéria atualizada às 11h33 do dia 15 de setembro para correção de informações: o acumulado da gasolina no mês foi de 5,5%, e não 5,7%, como informado anteriormente"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-06/pf-indicia-carlos-bolsonaro-e-ramagem-no-inquerito-da-abin-paralela",
+    "pareado": true,
+    "trecho": "inal. * Colaborou Gabriel Brum, repórter da Rádio Nacional *Matéria foi alterada às 13h10 do dia 18 de junho para correção de informação. Diferentemente do informado, o ex-presidente Jair Bolsonaro não foi indiciado pela Polícia Federal no inquérito da Abin Paralela. A Polícia Federal entendeu q"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2019-06/plenario-da-camara-aprova-pec-do-orcamento-impositivo",
+    "pareado": true,
+    "trecho": "de barris, esse é o excedente que ainda deve ser licitado. *Texto alterado às 16h48 para corrigir informação."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/internacional/noticia/2017-08/angola-vai-urnas-quarta-para-eleger-o-novo-presidente",
+    "pareado": true,
+    "trecho": ", deveria estar entre os mais ricos do continente africano. Matéria alterada às 9h56 do dia 23/08 para corrigir informação incluída no texto pela Agência Brasil. Diferentemente do publicado, as eleições em Angola são nesta quarta-feira (23), e não dia 22."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2019-08/bolsonaro-e-merkel-conversam-sobre-recursos-para-amazonia",
+    "pareado": true,
+    "trecho": "ente e estabelecer um status internacional para a Amazônia. Matéria alterada às 20h24 para corrigir informação"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-10/amazonas-wilson-lima-e-amazonino-vao-ao-2o-turno",
+    "pareado": true,
+    "trecho": "o vice a secretária nacional de Mulheres do PT, Anne Moura. Matéria alterada às 21h16 para correção de informações"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2024-09/oito-em-cada-dez-municipios-tem-risco-alto-ou-muito-alto-para-sarampo",
+    "pareado": true,
+    "trecho": "jou a convite da Sociedade Brasileira de Imunizações (SBIm) Matéria alterada às 13h do dia 19/9/2024 para corrigir o cargo da entrevistada Flávia Cardoso."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/agencia-brasil-explica-quem-pode-ser-candidato-no-brasil",
+    "pareado": true,
+    "trecho": " dia para a diplomação dos eleitos é no dia 19 de dezembro. Matéria alterada, no último parágrafo, às 11h45, para corrigir a data de diplomação que será neste ano, não em 2023 como informado anteriormente."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2024-04/brasil-concentra-quase-70-dos-casos-de-dengue-da-al-e-caribe",
+    "pareado": true,
+    "trecho": " aparecer com mais facilidade em consequência de temporais. Matéria alterada às 15h52 do dia 14/05/2024 para corrigir informação. Os dados de incidência da dengue citados no sétimo parágrafo são por grupo de 100 mil habitantes, e não mil, como estava na matéria."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-01/oms-declara-estado-de-emergencia-global-em-razao-do-coronavirus",
+    "pareado": true,
+    "trecho": "ção revisada pode ser lido pelo site da Imprensa Nacional . Matéria alterada às 10h de 31/1 para correção de informação no segundo parágrafo. O coronavírus foi detectado na China e em mais 18 países (totalizando 19) e não na China e em mais 19 países, como informado inicialmente"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-04/instituto-butantan-pretende-desenvolver-anticorpos-contra-covid-19",
+    "pareado": true,
+    "trecho": " anticorpos monoclonais para o tratamento de zika e tétano. Matéria alterada às 15h39 para correção de informação"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/stf-marca-para-8-de-abril-decisao-sobre-eleicao-para-governador-no-rio",
+    "pareado": true,
+    "trecho": "dual Rodrigo Bacellar, ex-secretário de governo de Castro. *Matéria atualizada às 15h52 dia dia 22 de abril para correção da duração do mandato-tampão Saiba mais no Repórter Brasil Tarde, da TV Brasil"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-11/pec-da-transicao-e-formalizada-no-senado",
+    "pareado": true,
+    "trecho": "os pela regra do teto de gastos, como acontece atualment e. Matéria alterada, às 9h08 de 29 de novembro de 2022, para corrigir o número de senadores que precisam subscrever o texto: são 27, não 26 como publicado anteriormente."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2019-06/japao-doa-us-36-milhoes-para-onu-atender-venezuelanos-no-brasil",
+    "pareado": true,
+    "trecho": "nezuelanos e 70 mil solicitações de residência temporária. *Matéria alterada às 19h20 para correção de informação. Diferentemente do informado, a doação será de US$ 3,6 milhões e não bilhões."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-04/covid-19-df-inicia-pesquisa-de-plasma-de-pacientes-curados",
+    "pareado": true,
+    "trecho": "ção de plasma de pacientes que já estão curados”, destacou. Matéria alterada às 17h50 para correção. Diferentemente do informado, são requisitos para ser doador não ter histórico de gestações e ter diagnóstico laboratorial de covid-19."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-02/caso-suspeito-de-coronavirus-e-monitorado-pelo-ministerio-da-saude",
+    "pareado": true,
+    "trecho": "pelo menos cinco casos com transmissão interna da doença”. *Matéria atualizada às 12h12 para correção de informação. Ao contrário do informado, o paciente não está internado no Hospital Albert Einstein."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/economia/noticia/2020-03/banco-do-brasil-inaugura-primeira-usina-propria-de-energia-solar",
+    "pareado": true,
+    "trecho": "abilidade Empresarial da B3, a bolsa de valores brasileira. Texto alterado às 10h55 para correção de informação"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2020-06/casos-de-feminicidio-crescem-22-em-12-estados-durante-pandemia",
+    "pareado": true,
+    "trecho": "ando o papel de cada um e como podem conseguir atendimento. Texto alterado às 14h36 para corrigir informação no primeiro parágrafo: o correto é \"na primeira atualização\", e não \"na segunda atualização\""
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2019-10/livro-destaca-lutas-das-mulheres-rurais-no-mundo",
+    "pareado": true,
+    "trecho": "dúvida, a maior dívida do Estado mexicano”, diz a ativista. Matéria alterada às 13h57 para correção de informação. O levantamento da Corteva, parceira do IICA, ouviu 4.200 mulheres e não 2 mil."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2024-01/bndes-investe-em-vacina-contra-covid-19-desenvolvida-pela-fiocruz",
+    "pareado": true,
+    "trecho": "er, doenças genéticas raras, alergias e doenças autoimunes. Matéria alterada às 19h01 do dia 10/1/2024 para corrigir informação. A Fundação para o Desenvolvimento Científico e Tecnológico em Saúde (Fiotec) não será responsável pela criação da nova vacina, mas sim pela gestão dos recurso"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2019-04/vacina-previne-complicacoes-da-gripe-em-grupos-de-risco",
+    "pareado": true,
+    "trecho": "as privadas de liberdade. A mobilização vai até 31 de maio. Matéria alterada às 16h40 de 12 de abril para correção de informação. Diferentemente do informado, as mulheres puérperas (que tiveram bebê há 45 dias) não estão no público alvo da primeira fase da camapnha."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-04/petrobras-tem-510-casos-confirmados-de-covid-19",
+    "pareado": true,
+    "trecho": "e é monitorado por equipes de saúde”, garantiu a empresa. * Matéria alterada às 16h para correção de informação. O comunicado da FUP aponta irregularidades no transporte de funcionários, e não regularidades como publicado anteriormente"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-06/oms-anuncia-retomada-de-testes-com-hidroxicloroquina-para-covid-19",
+    "pareado": true,
+    "trecho": "cano, Donald Trump, também enviou respiradores mecânicos . *Matéria atualizada em 03 de junho, às 15h25, para correção da data do anúncio da suspensão das pesquisas."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2021-02/prefeitura-do-rio-vai-encaminhar-projeto-para-armar-guarda-municipal",
+    "pareado": true,
+    "trecho": "e de aplicar. Já chegamos a 3,5% da população”, disse Paes. Matéria alterada às 20h02 para retirar informação. Diferentemente do dito pelo prefeito Eduardo Paes, a cidade do Rio de Janeiro não foi a que proporcionalmente mais vacinou sua população contra a covid-19."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2024-09/governo-vai-abrir-15-centros-para-cuidado-de-pessoa-com-deficiencia",
+    "pareado": true,
+    "trecho": "algum tipo de deficiência, sendo mais de metade mulheres. * Matéria atualizada no dia 01/10 para correção no número de municípios onde as unidades serão instaladas."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2020-08/camara-aprova-mp-que-adia-inicio-da-vigencia-da-lei-de-dados",
+    "pareado": true,
+    "trecho": "do houve autorização prévia e expressa para tal abatimento. Matéria corrigida às 17h05 do dia 26/08. Diferentemente do informado, o início da entrada em vigor da Lei Geral de Proteção de Dados foi adiado para 31 de dezembro e não para ma"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/governo-suspende-34-milhoes-de-multas-por-nao-pagar-pedagio",
+    "pareado": true,
+    "trecho": " o valor cheio mesmo que saia da rodovia logo após a praça. Matéria alterada às 17h para corrigir informação enviada pelo Ministério dos Transportes."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2021-08/cni-pequenas-industrias-apresentam-evolucao-positiva-no-2o-trimestre",
+    "pareado": true,
+    "trecho": "uvem mais de 900 empresários de empresas de pequeno porte. *Matéria alterada às 9h23 para corrigir informação repassada pela CNI. O resultado de 46,5 pontos é referente ao Indicador de Desempenho, não à média de todos os indicadores - desempenho, situação financeira, p"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2014-10/agencia-brasil-errou-1",
+    "pareado": true,
+    "trecho": "eleições de 2010. O titulo também foi alterado. Leia aqui a matéria corrigida."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2023-09/lula-reduz-ritmo-de-agenda-e-se-prepara-para-cirurgia",
+    "pareado": true,
+    "trecho": "disso, Lula deve voltar a despachar do Palácio da Alvorada. Texto alterado às 20h44 para correção de informação: Lula recebe o primeiro-ministro do Vietnã na segunda, e não na terça-feira"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2019-08/terapias-alternativas-no-sus-dao-suporte-para-superacao-do-tabagismo",
+    "pareado": true,
+    "trecho": "31 óbitos por câncer de pulmão registrados no país em 2017. Matéria alterada às 19h41 do dia 30/8 para correção de informação. Diferentemente do informado, a Freguesia do Ó fica na zona norte paulistana e não na zona leste."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2022-09/elizabeth-ii-70-anos-do-maior-reinado-do-trono-britanico",
+    "pareado": true,
+    "trecho": "74 anos, que se tornará o novo rei da comunidade britânica. Matéria alterada às 13h06 do dia 9/9/2022 para correção de informação."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2019-04/cientistas-alertam-para-risco-de-chikungunya-em-areas-de-mata",
+    "pareado": true,
+    "trecho": "o ficou comprovado que macacos conseguem hospedar o vírus. *Texto alterado às 16h do dia 11 de abril para correção de informação."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2022-05/dia-nacional-da-adocao-tem-acoes-para-conscientizacao-sobre-o-tema",
+    "pareado": true,
+    "trecho": " e o enfrentamento de premissas equivocadas sobre a adoção. Matéria alterada às 16h51 para correção de informação no primeiro parágrafo. O Dia Nacional da Adoção é celebrado na quarta-feira (25) e não hoje, como informado inicialmente."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2025-01/casos-de-covid-19-aumentam-nas-regioes-norte-e-nordeste",
+    "pareado": true,
+    "trecho": " deficiência ou comorbidade, devem tomar um reforço anual. *Matéria alterada às 17h19 para corrigir informação no primeiro parágrafo. O Boletim Infogripe mostra que pelo menos 287 pessoas morreram por síndrome respiratória aguda grave (SRAG) causada por algum vírus resp"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-04/anac-autoriza-modificacoes-em-aeronaves-para-transporte-de-pacientes",
+    "pareado": true,
+    "trecho": "nk para acessar). * Com informações da assessoria da Anac * Texto alterado às 13h08 para correção de informação. Ao contrário do informado anteriormente, a decisão da Anac vale apenas para aeronaves operadas por órgãos públicos e operadores aéreos autorizados para serviç"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2019-06/um-em-cada-cinco-brasileiros-usa-o-celular-enquanto-dirige",
+    "pareado": true,
+    "trecho": "; Belo Horizonte (44,7); Salvador (42,7%) e Maceió (42,9%). Matéria alterada às 16h24 do dia 25/06/2019 para correção Assista na TV Brasil: Usar celular no trânsito pode ser tão perigoso quanto beber e dirigir"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2025-05/impactos-da-violencia-atingem-quase-metade-dos-alunos-no-grande-rio-0",
+    "pareado": true,
+    "trecho": "cia armada sobre aprendizado e taxa de abandono escolar. *A matéria foi alterada às 11h41 para correção dos números feita pelo próprio Unicef. O título também foi alterado."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-01/homem-negro-e-denunciado-por-injuria-racial-em-alagoas",
+    "pareado": true,
+    "trecho": "o Ministério Público de Alagoas e aguarda posicionamento. O texto foi alterado às 16h47 para esclarecimento e correção de informações. O título também foi alterado"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2020-06/camara-aprova-criacao-de-linha-de-credito-pequena-e-media-empresas",
+    "pareado": true,
+    "trecho": "ividade, a exemplo da sazonalidade de demanda”, argumentou. Matéria alterada às 19h09 para correção de informação. Diferentemente do informado, a MP não segue para o Senado. Os deputados ainda precisam analisar propostas de mudanças ao texto, antes de encaminhá-lo ao Senad"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/cultura/noticia/2017-06/zona-leste-de-sp-recebe-circuito-de-festas-juninas-de-sao-miguel-paulista",
+    "pareado": true,
+    "trecho": "ompleta está disponível no site da Fundação Tide Setúbal . *texto atualizado às 14h47 para correção de informação no primeiro parágrafo. O nome do evento é Encontro de Cultura Capira, que faz parte do Circuito de Festas Juninas de São Miguel Paulista"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2024-04/lula-governo-tem-que-garantir-oportunidades-criancas-e-adolescentes",
+    "pareado": true,
+    "trecho": " e adolescente, é sim, no Orçamento”, disseram os jovens. * Matéria alterada em 04/04 às 10h20 para corrigir os dados de mortes de crianças em Gaza. Foram 12,3 mil, e não 12,3 milhões."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2024-07/concurso-vai-escolher-arquiteto-negro-para-projeto-na-pequena-africa",
+    "pareado": true,
+    "trecho": " e a gente possa, a partir disso, corrigir as injustiças”. *Texto alterado às 17h05 para correção de informações no sétimo parágrafo"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/pesquisa-e-inovacao/noticia/2017-10/robos-aprendem-jogar-futebol-ao-imitar-humanos",
+    "pareado": true,
+    "trecho": "pensas, trabalho automatizado e robôs como criados (Rose) O texto foi alterado às 16h41 do dia 27 de outubro para correção no segundo parágrafo: o projeto foi desenvolvido pela Universidade de Campinas (Unicamp), em conjunto com Universidade Estadual Paulista (Unesp), e não com a U"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2025-11/saude-anuncia-compra-de-18-milhao-de-doses-contra-virus-sincicial",
+    "pareado": true,
+    "trecho": "nifica proteger o bebê mesmo antes dele nascer”, completou. Matéria alterada às 14h18 para corrigir título. Foram compradas 1,8 milhão de doses, e não 2,8 milhões."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2019-08/ccj-do-senado-comeca-discutir-reforma-da-previdencia-esta-semana",
+    "pareado": true,
+    "trecho": "precisaria de 49 dos 81 votos de senadores em cada turno. * Texto alterado às 10h38 para correção de informações"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2023-01/covid-19-brasil-tem-264-novos-casos-e-mais-103-mortes-em-24-horas",
+    "pareado": true,
+    "trecho": " milhões e o reforço adicional, em 40,7 milhões de pessoas. Matéria atualizada em 12/1 para correção do título - foram 26,4 mil novos casos registrados em 24 horas, não 26,4 casos."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-05/covid-19-brasil-registra-156-milhoes-de-casos-e-4357-mil-mortes",
+    "pareado": true,
+    "trecho": ",7 milhões da primeira dose e 16,9 milhões da segunda dose. Matéria alterada às 23h07 para corrigir informação. O número de mortes registradas em 24 horas é 1.036, e não 1.036.211, como havia sido informado."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/justica/noticia/2019-05/trf4-determina-prisao-de-jose-dirceu-em-2a-condenacao-na-lava-jato",
+    "pareado": true,
+    "trecho": "ão, porém, não abrange a segunda condenação do ex-ministro. Texto alterado às 22h03 do dia 17/05/2019 para corrigir informação"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-06/covid-19-brasil-chega-5264-mil-casos-e-299-mil-mortes",
+    "pareado": true,
+    "trecho": "do os dados são tomados proporcionalmente a sua população. *Texto alterado às 22h13 para correção de dados do Ministério da Saúde repassados pelo estado do Rio Grande do Norte ontem. Diferentemente do informado, o total de casos confirmados de covid-19 no B"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2021-04/forum-discute-desafios-garantia-de-direitos-da-pessoa-idosa",
+    "pareado": true,
+    "trecho": "da pessoa idosa e mecanismos de valorização desse segmento. Matéria alterada às 17h43 do dia 15/4 para correção de informação. O 1º Fórum Nacional da Pessoa Idosa segue até sexta-feira (16) e não até quinta-feira (15)."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2019-03/casos-de-dengue-crescem-224-no-brasil-com-229-pacientes-este-ano",
+    "pareado": true,
+    "trecho": ". No mesmo período de 2018, foram confirmadas nove mortes. *Matéria alterada às 18h40 para correção de informação pelo Ministério da Saúde. O percentual de aumento dos casos de dengue nas primeiras onze semanas do ano é 264% e não 224%, como informado inicialmente pelo órg"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2023-07/caixa-renegocia-r-51-milhoes-em-dividas-em-3-dias-do-desenrola-brasil",
+    "pareado": true,
+    "trecho": "correr diversas alterações na renda das pessoas”, ponderou. Matéria alterada às 14h43 para correção. Diferentemente do informado, nos três primeiros dias do programa Desenrola Brasil, foram renegociados mais de R$ 51 milhões em dívidas e 10 mil contatos foram"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-03/prefeitos-do-rio-e-de-niteroi-discutem-medidas-de-combate-covid-19",
+    "pareado": true,
+    "trecho": "do estado, especialmente no combate às festas clandestinas. Matéria alterada às 10h32 para corrigir informação repassada pela assessoria da prefeitura. O local e horário da coletiva de anúncio das novas medidas foram alterados."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2024-05/lula-discute-crise-climatica-com-juizes-de-corte-internacional",
+    "pareado": true,
+    "trecho": " Rica, Haiti, México, Jamaica, Peru, Granada, entre outros. Matéria alterada às 19h42 para corrigir informações da agenda da comitiva da Corte Interamericana de Direitos Humanos (CIDH) no Brasil."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-12/senado-aprova-pec-da-transicao",
+    "pareado": true,
+    "trecho": "segundo a PEC, garantiria a estabilidade econômica do país. Matéria atualizada em 8/12 para correção de informação no segundo parágrafo. A cifra correta é R$ 145 bilhões e não R$ 145 milhões, como informado anteriormente."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2020-03/senado-aprova-mp-do-agro-e-texto-vai-sancao-presidencial",
+    "pareado": true,
+    "trecho": "s, usando, entre outros títulos, a Cédula de Produto Rural. Matéria alterada às 16h30 para corrigir informação no sexto parágrafo. Inicialmente, informamos que o fundo poderia ser criado com a participação de dois a 10 produtores. Essa limitação, no entanto, caiu durant"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2024-10/cinquenta-cidades-terao-segundo-turno-na-disputa-pelas-prefeituras",
+    "pareado": true,
+    "trecho": "asos para que se tenha um tratamento adequado\", completou. *Matéria foi alterada às 15h36 do dia 7 de outubro para correção do número de municípios que irão para segundo turno. O número correto é 52 municípios."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-06/partido-novo-e-unico-renunciar-recursos-do-fundo-eleitoral",
+    "pareado": true,
+    "trecho": "com base na proporção da representação no Senado Federal. * Matéria alterada às 16h30 do dia 3 de junho para corrigir informação. No terceiro parágrafo o correto é \"A quantia será devolvida ao Tesouro, conforme resolução do TSE que regulamenta a gestão e distribuição do Fundo Eleitoral p"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2021-06/relator-da-reforma-administrativa-apresenta-roteiro-de-trabalho",
+    "pareado": true,
+    "trecho": "assada. Cada emenda terá de ser assinada por 171 deputados. Matéria alterada às 18h para correção da foto e da linha fina. A foto publicada inicialmente e o nome citado na linha fina se referiam a Arthur Lira. O correto é Arthur Maia."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2019-09/laboratorio-produz-pele-humana-para-substituir-testes-em-animais",
+    "pareado": true,
+    "trecho": "nteressados em reduzir ou substituir os testes em animais. *Matéria alterada às 18h44 para correção de informação e adequação de texto. Diferentemente do informado, o laboratório não pertende à Universidade Federal do Rio de Janeiro (UFRJ)"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-10/cinco-paises-aderem-fundo-para-conservacao-de-florestas-tropicais",
+    "pareado": true,
+    "trecho": "e Mudanças Climáticas (COP28), nos Emirados Árabes Unidos. *Matéria alterada -para correção de informações."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2018-04/pt-dem-ptdob-e-pco-tem-de-devolver-r-27-milhoes-decide-tse",
+    "pareado": true,
+    "trecho": " Ambos também perderam um mês da cota partidária em 2019. O texto foi alterado às 13h22 para correção de informação. O valor que os partidos terão de devolver aos cofres públicos é R$ 2,5 milhões, e não R$ 2,7 milhões. O título também foi alterado"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2018-09/mais-de-82-dos-atendimentos-de-emergencia-sao-problemas-cardiologicos",
+    "pareado": true,
+    "trecho": "endimento, perde 10% de chance de sobreviver.\" *O título da matéria foi alterado para correção de informação"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/pesquisa-e-inovacao/noticia/2016-10/alunos-desenvolvem-projetos-inovadores-para-auxiliar-pessoas-com",
+    "pareado": true,
+    "trecho": "uindo critérios de inovação, criatividade e apresentação. O texto foi alterado às 14h12 do dia 24 de outubro para correção da grafia do nome de Otávio Pellegrini Buscaratto e da instituição da qual é aluno: Faculdade de Tecnologia - Fatec Itaquera - Prof. Miguel Reale, e não Escola Técnica E"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-09/nenhum-candidato-podera-ser-preso-partir-deste-sabado",
+    "pareado": true,
+    "trecho": "r a prisão e responsabilizar eventuais coautores da prisão. Matéria alterada, às 11h33, para correção do período em que não pode haver prisão de eleitores."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-10/em-sp-prefeito-de-hortolandia-e-preso-por-boca-de-urna",
+    "pareado": true,
+    "trecho": "esa, o prefeito já retornou às suas atividades partidárias. Matéria atualizada às 11h44 para corrigir a informação repassada pelo TRE-SP: o prefeito é da cidade de Bocaina e não de Hortolândia, como publicado anteriormente . Às 14h24, foi atualizada com a nota da defesa do "
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2025-10/ministerio-confirma-11-casos-de-contaminacao-por-metanol",
+    "pareado": true,
+    "trecho": " fim de semana está cancelada e agradeceu o apoio dos fãs. *Matéria atualizada às 18h33 para corrigir informação repassada inicialmente pelo Ministério da Saúde. Título também foi alterado."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2024-05/senado-retoma-debate-de-pec-que-pode-privatizar-praias",
+    "pareado": true,
+    "trecho": "ia ampliada às 12h50 para incluir informação sobre o MMA. * Matéria alterada em 28/05, às 14h30 para correção da expressão referente aos terrenos no litoral. São chamados de \"terrenos de marinha\" e não \"terrenos da Marinha\", como anteriormente informado."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2017-07/vice-lider-do-dem-tem-encontro-com-temer-e-nega-crise",
+    "pareado": true,
+    "trecho": "çamento se não houver uma reforma da Previdência”, afirmou. Matéria atualizada às 15h31 para corrigir informações. Diferentemente do que dizia a matéria, o vice-líder do DEM usou a expressão \"página virada\" ao se referir à \"falsa crise\", e não a atritos com o g"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2021-01/covid-19-equipe-da-oms-visita-hospital-de-wuhan-na-china",
+    "pareado": true,
+    "trecho": "otel. \"Primeiro encontro cara a cara com os nossos colegas. Correção: máscara para máscara, dadas as restrições médicas\", disse a virologista holandesa Marion Koopmans, por meio da rede social Twitter . Membros da equipe deixaram"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2023-01/desemprego-recua-81-no-trimestre-encerrado-em-novembro-diz-ibge",
+    "pareado": true,
+    "trecho": "dados que podem ser solicitados pelo informante”, informou. Matéria alterada às 11h04 para correção no título. O desemprego recuou para 8,1% e não em 8,1%. Ouça na Radioagência Nacional :"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-10/jorginho-mello-e-decio-lima-vao-para-segundo-turno-em-santa-catarina",
+    "pareado": true,
+    "trecho": "em teve dois filhos. A candidata a vice é Bia Vargas (PSB). Matéria alterada à 20h59 para correção. Diferentemente do informado, os nomes dos dois candidatos que vão disputar o segundo turno não estão definidos, apenas de um deles (Jorginho Mello)"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-02/mundo-lembra-psiquiatra-que-descreveu-sindrome-de-asperger",
+    "pareado": true,
+    "trecho": "ida. Não é uma doença, porque não pode ser curada, afirmou. Matéria alterada às 16h33 do dia 20/02 para correção de informação"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2019-12/operacao-investiga-repasses-que-teriam-beneficiado-filho-de-lula",
+    "pareado": true,
+    "trecho": "e. Matéria também foi alterada para correção de informação. Diferentemente do informado inicialmente pelo Ministério Público, a empresa Movile não pertence ao grupo Telefônica/Vivo."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2022-10/seguranca-alimentar-e-debatida-em-evento-internacional-no-rio",
+    "pareado": true,
+    "trecho": "das ao vivo pelo Youtube . Ouça na Radioagência Nacional : *Matéria alterada às 20h34 para correção de informação. Diferentemente do que foi publicado, Graziano é ex-diretor da FAO e não ocupa o cargo atualmente."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2019-12/inca-alerta-para-uso-de-dispositivos-eletronicos-para-fumantes",
+    "pareado": true,
+    "trecho": "nutenção da medida tomada pela Agência reguladora de saúde. Matéria alterada às 20h20 para correção de informação no último parágrafo. A resolução da Anvisa que proíbe comercialização de dispositivos eletrônicos é de 2009 e não 2019, como informado inicialmente."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2024-05/pais-precisa-de-politicas-contra-o-neonazismo-diz-conselheiro-do-cndh",
+    "pareado": true,
+    "trecho": "nos integrou a missão a Santa Catarina, liderada pelo CNDH. Matéria alterada às 17h10 do dia 9/5/2024 para correção no sexto parágrafo. O aumento de denúncias de neonazismo no primeiro semestre de 2022 foi verificado na comparação com o mesmo período de 2021, e não do ano pa"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-09/celso-sabino-anuncia-saida-do-comando-do-ministerio-do-turismo",
+    "pareado": true,
+    "trecho": "não há, no entanto, confirmação sobre uma saída de Fufuca. *Matéria alterada às 14h55 para correção de informação no último parágrafo. André Fufuca é filiado ao PP, e não ao União Brasil, como informado anteriormente."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2020-03/presidente-da-camara-suspende-mandato-de-12-deputados-por-um-ano",
+    "pareado": true,
+    "trecho": "odem ser apresentados e o quórum para a escolha do líder. O texto foi alterado às 16h29 para correção de informações. O título também foi corrigido"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/alerj-escolhe-hoje-novo%20presidente-que-ira-assumir-governo-do-rj",
+    "pareado": true,
+    "trecho": "F) para prender e afastar Bacellar da presidência da Alerj. Matéria alterada às 15h16 para corrigir informação no primeiro parágrafo sobre a função do novo presidente da Alerj."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-11/quase-quatro-em-cada-dez-escolas-de-capitais-nao-tem-area-verde",
+    "pareado": true,
+    "trecho": "gente enxerga nesses indicadores”, conclui a especialista. *Matéria alterada às 15h19 do dia 28/11 para correção do número de escolas pesquisadas"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-07/lei-muda-calculo-de-gasto-com-publicidade-institucional-suspensa",
+    "pareado": true,
+    "trecho": "de covid-19 dos limites impostos pela legislação eleitoral. Matéria alterada às 22h06 para corrigir informação sobre metodologia de gastos com publicidade institucional em ano eleitoral."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2018-02/temer-e-ministros-discutem-medidas-para-situacao-de-venezuelanos-em-roraima",
+    "pareado": true,
+    "trecho": "epública, Moreira Franco, e da Casa Civil, Eliseu Padilha. *texto alterado às 15h22 para correção de informação no último parágrafo."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2023-05/lula-vai-bahia-lancar-plataforma-de-planejamento-participativo",
+    "pareado": true,
+    "trecho": "deral ao Congresso Nacional até o dia 31 agosto deste ano. *Matéria foi alterada às 15h35 do dia 10 de maio para correção do título. A política a ser lançada é a plataforma de planejamento participativo, e não a de orçamento."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-02/cnj-reduz-nota-de-corte-para-deficientes-em-exame-da-magistratura",
+    "pareado": true,
+    "trecho": "cimentos que, justa ou injustamente, apareçam aqui e ali”. *Matéria alterada às 10h43 do dia 21 de fevereiro para correção da data da primeira prova. A data correta é 14 de abril."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-03/contra-coronavirus-cabreuva-vai-multar-idoso-encontrado-fora-de-casa",
+    "pareado": true,
+    "trecho": "-19, sendo dois casos negativos e 15 aguardando resultado. *matéria alterada às 15h07 do dia 31/03/2020 para correção de informação. O texto informava que o município de Cabreúva registrava 17 casos de covid-19. Até o momento, no entanto, a cidada não contabiliza registro da doença, mas sim"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-01/ministro-inclui-minuta-apreendida-em-acao-contra-bolsonaro-no-tse",
+    "pareado": true,
+    "trecho": " Torres disse que o documento foi vazado fora do contexto”. Matéria atualizada em 17/1 para correção de informação. Jair Bolsonaro tem três dias para se manifestar em relação ao processo, não cinco, como afirmava o texto."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2019-08/organizacao-indigena-questiona-laudo-de-morte-de-cacique-no-para",
+    "pareado": true,
+    "trecho": "as, até a conclusão da reportagem, não recebeu respostas. * Texto atualizado às 9h52 do dia 20/08/2019 para correção de informação. Inicialmente publicada às 13h44 do dia 19/08/2019, a matéria informava no título que a morte do cacique aconteceu no Pará. Na verdade, o caso aconteceu no Ama"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2019-12/brasil-avanca-no-idh-em-2019-mas-tera-novos-desafios",
+    "pareado": true,
+    "trecho": "asil e o top 3 do ranking de IDH. Ouça na Rádio Nacional : *Matéria alterada às 10h37 de hoje (8/12/2019) para corrigir informação. O título também foi alterado. Diferentemente do informado, o Brasil perdeu uma posição no ranking global do IDH."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-09/bolsonaro-participa-do-funeral-da-rainha-elizabeth-ii-em-londres",
+    "pareado": true,
+    "trecho": "Eleições 2022 e, por isso, não podem assumir a Presidência. Matéria alterada às 11h05 do dia 20/9 para correção no último parágrafo. O vice-presidente é o primeiro na linha sucessória e não o segundo, como publicado inicialmente. O presidente da Câmara é o segundo na lin"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2019-06/ans-suspende-venda-de-51-planos-de-saude-de-11-operadoras",
+    "pareado": true,
+    "trecho": "zação para voltar a ser comercializados a partir de hoje. * Matéria atualizada às 9h58 para correção de informação"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2025-11/filme-rejeito-aborda-violencia-que-mineracao-leva-cidades-mineiras",
+    "pareado": true,
+    "trecho": "e patrimônio histórico e a criação de um museu em Mariana. *Matéria atualizada às 18h40 para correção de informações"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-12/flavio-dino-recua-de-nomeacao-e-anuncia-novo-comandante-da-prf",
+    "pareado": true,
+    "trecho": "estão”, havia declarado ontem o futuro ministro da Justiça. Matéria corrigida às 16h22 do dia 13/01/2022 para retirar a informação de que o MCCE participou da campanha “10 Medidas contra a Corrupção”"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2022-04/brasil-doa-867-milhoes-para-distribuicao-de-vacinas-contra-covid",
+    "pareado": true,
+    "trecho": " de doses de vacinas contra covid-19 realizada pelo Brasil. Matéria alterada, às 09h49 do dia 11 de abril de 2022, para corrigir informação: serão doados US$ 86,7 milhões, não 86,7 milhões de doses de vacina como informado anteriormente."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2024-09/metodo-wolbachia-contra-o-aedes-mira-cidades-da-bacia-do-paraopeba",
+    "pareado": true,
+    "trecho": " a convite da Sociedade Brasileira de Imunizações (SBIm) ** Matéria alterada para correção de informações. Os mosquitos usados nessa iniciativa não são geneticamente modificados."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2023-05/pacto-contra-fome-quer-tirar-20-milhoes-de-pessoas-da%20extrema-pobreza",
+    "pareado": true,
+    "trecho": "vitar desperdício com o dinheiro público”, acrescentou. * O texto foi alterado às 9h08 de quarta-feira (24) para correção no título e no terceiro parágrafo. Inicialmente, o texto informava que o pacto retiraria 20 milhões de pessoas da extrema pobreza, mas esta é a proposta do gov"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2021-05/governo-lanca-programa-para-ampliar-renda-de-caminhoneiros",
+    "pareado": true,
+    "trecho": "iberar sobre a atualização e revisão periódica do programa. Matéria alterada dia 24 de maio para correção da sigla de Confederação Nacional de Transportadores Autônomos."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2021-06/rosa-weber-vai-relatar-queixa-crime-sobre-compra-da-covaxin",
+    "pareado": true,
+    "trecho": "umentos apresentados por Luis Ricardo Miranda seria falso. *Matéria alterada às 12h41 doa dia 29/06/2021 para correção de informação. A ação protocolada foi uma notícia-crime e não uma queixa crime. **Matéria alterada para corrigir o nome do parlamentar Fabiano Contarato."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-03/ao-vivo-brasil-registra-60-casos-de-coronavirus-nesta-quinta",
+    "pareado": true,
+    "trecho": "po acionam o sistema”, comentou. *Colaborou Jonas Valente **Texto alterado às 11h34 para correção do número de casos confirmados do novo coranavírus no Brasil"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-03/covid-19-brasil-registra-mais-2333-mortes-e-75412-infectados",
+    "pareado": true,
+    "trecho": "re o cronograma das vacinas para este e os próximos meses. *Matéria alterada às 8h24 em 12/03/2021 para corrigir o título. O número de mortes é 2.233 e não 2.333."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2019-09/mais-de-82-mil-pessoas-desapareceram-no-ultimo-ano-segundo-anuario",
+    "pareado": true,
+    "trecho": "purado. O problema é que desaparecido não vota”, enfatiza. *matéria atualizada às 14h32 para correção do nome da desaparecida. Ao contrário do publicado, o nome correto é Sueli de Oliveira e não Sueli Costa"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-06/covid-19-brasil-tem-2o-dia-com-maior-registro-de-novos-casos",
+    "pareado": true,
+    "trecho": "2), Espírito Santo (1.507), Alagoas (975) e Paraíba (864). *Texto alterado às 17h73, do dia 29/6/2020, para correção de informações. Diferentemente do informado, a taxa de mortalidade é de 26,6 e não 26,6%. A taxa de incidência é 606,7 e não 606,7%."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2021-02/bolsonaro-passa-o-carnaval-no-litoral-de-santa-catarina",
+    "pareado": true,
+    "trecho": "siva para militares, com cerca de 45 casas e apartamentos. *Matéria alterada às 18h07 para correção de informação no segundo parágrafo. Diferentemente do informado, a primeira-dama Michelle Bolsonaro permanece em Brasília."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2022-05/projeto-em-19-maternidades-do-sus-reduz-mortalidade-materna-em-37",
+    "pareado": true,
+    "trecho": "mento adequado. Isso tudo acaba contribuindo”, acrescentou. Matéria alterada no dia 30/05/2022 às 10h35 para correção de informação. O projeto é coordenado pelo Hospital Albert Einstein com apoio do programa MSD para Mães e a Agência Nacional de Saúde Suplementar (ANS)."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-11/brasil-ja-aplicou-mais-de-300-milhoes-de-vacinas-contra-covid-19",
+    "pareado": true,
+    "trecho": " número de vidas perdidas para a pandemia chegou a 612.144. Matéria atualizada às 11h48 para correção de informação. Foram 300 milhões de doses aplicadas e não 360 milhões"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-04/pgr-defende-no-stf-derrubada-de-marco-temporal-das-terras-indigenas",
+    "pareado": true,
+    "trecho": "ireito aos indígenas da posse a suas terras tradicionais. * Matéria alterada às 15h21 para corrigir o número da lei que reestabelece o marco temporal. O correto é 14.701/2023, e não 14.701/2013, como informado anteriormente."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/internacional/noticia/2020-05/coronavirus-argentina-prorroga-quarentena-ate-24-de-maio",
+    "pareado": true,
+    "trecho": " maneira diferente em todo o país\", diz o texto do decreto. ERRATA: Ao contrário do que foi informado originalmente 83% dos municípios argentinos não registraram casos de covid-19. No texto original, aparecia a informação de h"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2022-03/caixa-paga-auxilio-brasil-beneficiarios-com-nis-final-4",
+    "pareado": true,
+    "trecho": " quilos, só é pago a cada dois meses e retornará em abril. *Matéria alterada às 10h46 para correção de informação: de acordo com o cronograma, o Auxílio Gás não está sendo pago neste mês e voltará em abril. O pagamento é feito a cada dois meses."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/joao-fonseca-estreia-bem-e-tera-kahachanov-pela-frente-em-indian-wells",
+    "pareado": true,
+    "trecho": "a chinesa As Jiang Xinyu com a norueguesa Ulrikke Eikeri. * Matéria atualizada às 18h32 para correção do sobrenome do russo Karen Kashanov no título."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-10/tse-concede-lula-24-direitos-de-resposta-contra-bolsonaro",
+    "pareado": true,
+    "trecho": "exta-feira (28), conforme o calendário eleitoral oficial. * Matéria alterada às 15h14 para correção de informações relativas ao placar do julgamento."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-03/presidente-sanciona-pl-da-cobranca-unica-de-icms-de-combustivel",
+    "pareado": true,
+    "trecho": "súbito aumento do petróleo decorrente da guerra na Ucrânia. Matéria alterada às 13h59 do dia 17 de março de 2022 para corrigir e esclarecer informação repassada pela Secretaria-Geral da Presidência da República. Diferentemente do publicado, querosene de aviação não está na lista de combustíveis com cobrança u"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-08/sofia-manzano-propoe-reestatizar-vale-embraer-e-eletrobras",
+    "pareado": true,
+    "trecho": "o da agenda dos candidatos à presidência desta terça-feira. Matéria alterada às 20h50 para correção de informação. Diferentemente do que a candidata falou, a Petrobras não foi privatizada."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/novo-presidente-da-alerj-sera-escolhido-nesta-quinta-feira",
+    "pareado": true,
+    "trecho": "F) para prender e afastar Bacellar da presidência da Alerj. Matéria alterada às 15h16 para corrigir informação no primeiro parágrafo sobre a função do novo presidente da Alerj."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/internacional/noticia/2019-04/coracao-e-impresso-em-3d-em-israel-partir-de-tecido-humano",
+    "pareado": true,
+    "trecho": "informações da Deutsche Welle (agência pública da Alemanha) Texto alterado às 09h51 do dia 18/04/2019 para corrigir informação"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2023-05/prefeitos-pedem-aumento-de-15-em-fundo-para-pagar-piso-da-enfermagem",
+    "pareado": true,
+    "trecho": "o de vista feito pelo ministro Gilmar Mendes há uma semana. Matéria alterada às 15h44 para correção de valor no segundo parágrafo."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2019-02/aviao-da-fab-com-ajuda-huminataria-ja-esta-em-boa-vista",
+    "pareado": true,
+    "trecho": "alongado. Dois, três meses [estocados] não nos preocupa.” * Texto alterado às 16h15 para correção de informação. São 4 kits com 500 toneladas de medicamentos e insumos"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2020-04/governo-fala-sobre-acoes-de-combate-ao-coronavirus-0",
+    "pareado": true,
+    "trecho": "to foi para 1.420.466 pessoas com contas em outros bancos. *Texto alterado às 18h31 para correção de informações divulgas pelo Ministério da Saúde. O total de óbitos é 2.575 e não 2.845 conforme a pasta havia anunciado."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-05/covid-19-brasil-tem-mil-novas-mortes-e-total-chega-21048",
+    "pareado": true,
+    "trecho": "idade (quantidade de falecimentos em relação à população). *Texto alterado dia 25/5/20, às 14h, para correção do índice de mortalidade."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2019-05/bolsonaro-discute-pacto-federativo-com-governadores-e-senadores",
+    "pareado": true,
+    "trecho": "a ser aperfeiçoado, com nova redistribuição de recursos. *A matéria foi alterada às 10h25 para correção de informação. Diferentemente do informado, o governador de Mato Grosso está presente na reunião"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/justica/noticia/2018-06/gilmar-mendes-manda-soltar-empresario-preso-na-operacao-rizoma",
+    "pareado": true,
+    "trecho": "em episódios requentados mais do que duvidosos\", declarou. *Texto atualizado às 13h01 para corrigir o nome do empresário e às 17h42 para acrescentar nota da defesa"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-09/confira-agenda-dos-candidatos-presidencia-para-esta-sexta-169",
+    "pareado": true,
+    "trecho": "cia Federal (ADPF). Atualizada às 8h11 e às 8h16. Às 11h16, matéria foi alterada para corrigir o estado onde acontecem os eventos de campanha de Felipe D’Avila."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/saude/noticia/2020-03/coronavirus-leva-regiao-dos-lagos-pedir-que-hoteis-desocupem-quartos",
+    "pareado": true,
+    "trecho": "tornar ao país vizinho, que adotou uma quarentena nacional. Matéria atualizada às 15h45 para corrigir informação. Diferentemente do informado, o decreto da prefeitura de Cabo Frio foi publicado no dia 23 e não hoje."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2021-10/cpi-da-pandemia-aprova-relatorio-final-e-pede-80-indiciamentos",
+    "pareado": true,
+    "trecho": "Lima; • Marcellus Campêlo; • Precisa Medicamentos; • VTCLog Matéria alterada às 7h35 do dia 27/10/2021 para correção do número de pedidos de indiciamento e e às 8h08 para inclusão de dois nomes na lista ao final do texto. O título também foi corrigido"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-05/stf-julga-mais-250-denuncias-sobre-atos-golpistas-ate-esta-segunda",
+    "pareado": true,
+    "trecho": "ornar réus por incitação ao crime e associação criminosa. * Matéria atualizada às 19h14 para correção de informação sobre número de denúncias julgadas até esta segunda. Como cinco julgamos foram adiados, o total ficou em 245."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/internacional/noticia/2019-10/bolsonaro-visita-paises-do-oriente-medio-em-busca-de-investimentos",
+    "pareado": true,
+    "trecho": "na do fundo soberano de US$ 850 bilhões da Arábia Saudita. *Matéria atualizada às 10h42 para correção de informações. Ouça na Radioagência Nacional :"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2018-10/camara-dos-deputados-tera-15%25-de-mulheres",
+    "pareado": true,
+    "trecho": "tas, bem como 30% do tempo no horário eleitoral gratuito. * Texto atualizado às 15h18 para correção e acréscimo de informação"
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2020-07/camara-aprova-mp-que-concede-credito-para-empresas",
+    "pareado": true,
+    "trecho": "tiça do trabalho cujo valor total não ultrapasse R$ 15 mil. Matéria alterada às 20h36 para corrigir valor limite, no terceiro parágrafo."
+   },
+   {
+    "url": "http://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2018-09/renda-das-mulheres-e-427-menor-que-dos-homens-diz-pnud",
+    "pareado": true,
+    "trecho": "mulheres com assento no Parlamento (17%) do que o Brasil. * Texto atualizado às 15h38, do dia 18 de setembro de 2018, para correção de informação."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2024-10/capitais-do-agronegocio-no-centro-oeste-acumulam-problemas-sociais",
+    "pareado": true,
+    "trecho": "es de toneladas de CO2, de janeiro de 2023 a julho de 2024. Matéria alterada às 18h04 do dia 24/10/2024 para corrigir dados sobre tratamento de esgoto na cidade de Campo Grande."
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-02/covid-19-medidas-restritivas-comecam-amanha-em-salvador",
+    "pareado": true,
+    "trecho": "º), 5h, vamos fechar todas as atividades não essenciais. *A matéria foi alterada às 17h05 para correção de informação. Diferentemente do que havia sido publicado, as restrições começam a valer às 17h de sexta-feira (26) e não de hoje (25)."
+   }
+  ]
+ },
+ "fala_atribuida": {
+  "n": 3937,
+  "total": 11975,
+  "pct": 32.9
+ },
+ "pares_parecidos": {
+  "limiar": 0.3,
+  "n": 43,
+  "itens": [
+   {
+    "similaridade": 0.753,
+    "id_v": "Vde7d2e06fca3",
+    "id_f": "F849a969f6157"
+   },
+   {
+    "similaridade": 0.471,
+    "id_v": "V57ba61b75638",
+    "id_f": "Fd612a2dcc5e2"
+   },
+   {
+    "similaridade": 0.428,
+    "id_v": "V7f64f413890a",
+    "id_f": "Fc1d5935db289"
+   },
+   {
+    "similaridade": 0.409,
+    "id_v": "V12e6b640b737",
+    "id_f": "Fa2349634c4c4"
+   },
+   {
+    "similaridade": 0.405,
+    "id_v": "V2da597ec96fe",
+    "id_f": "F6ccafbd044eb"
+   },
+   {
+    "similaridade": 0.4,
+    "id_v": "V4a463839f391",
+    "id_f": "F11f2fa0e9566"
+   },
+   {
+    "similaridade": 0.39,
+    "id_v": "V1cc308c29482",
+    "id_f": "F697a5f012c3a"
+   },
+   {
+    "similaridade": 0.382,
+    "id_v": "Vc4554f6cd3ae",
+    "id_f": "F8f3e87b4d13b"
+   },
+   {
+    "similaridade": 0.376,
+    "id_v": "V6026cab5b100",
+    "id_f": "Ff964ad1aaf1f"
+   },
+   {
+    "similaridade": 0.368,
+    "id_v": "Ve1cc42f2d358",
+    "id_f": "Fd37ddc1ca8b4"
+   },
+   {
+    "similaridade": 0.359,
+    "id_v": "V81bfcf0e8bec",
+    "id_f": "F9faa6a906f12"
+   },
+   {
+    "similaridade": 0.358,
+    "id_v": "V7b419adfa1e6",
+    "id_f": "F0ec7ef379ce3"
+   },
+   {
+    "similaridade": 0.355,
+    "id_v": "Vf83781c6fb80",
+    "id_f": "F8ae8d50a81d8"
+   },
+   {
+    "similaridade": 0.353,
+    "id_v": "Vc711fb5d5a75",
+    "id_f": "Fcf3cb3c303ef"
+   },
+   {
+    "similaridade": 0.352,
+    "id_v": "V2fbbc6996f69",
+    "id_f": "F8f3e87b4d13b"
+   },
+   {
+    "similaridade": 0.348,
+    "id_v": "V9d09ef584959",
+    "id_f": "F58ead127a720"
+   },
+   {
+    "similaridade": 0.341,
+    "id_v": "V3c804de8a6cb",
+    "id_f": "Ff78d9b64c75d"
+   },
+   {
+    "similaridade": 0.341,
+    "id_v": "V8bcfe2e41e01",
+    "id_f": "F76e51e6305b2"
+   },
+   {
+    "similaridade": 0.339,
+    "id_v": "V1f3d9a020d75",
+    "id_f": "Fcf0d40b13054"
+   },
+   {
+    "similaridade": 0.338,
+    "id_v": "Vcfc9b460d0bb",
+    "id_f": "F7e8bebc35a58"
+   },
+   {
+    "similaridade": 0.335,
+    "id_v": "Vc6094483f5ff",
+    "id_f": "F4478cddea4e0"
+   },
+   {
+    "similaridade": 0.332,
+    "id_v": "Vd8ea8a254e46",
+    "id_f": "Fad7cf75151d9"
+   },
+   {
+    "similaridade": 0.332,
+    "id_v": "V6d1a40570aaa",
+    "id_f": "F8ae8d50a81d8"
+   },
+   {
+    "similaridade": 0.332,
+    "id_v": "Vd16f6547b082",
+    "id_f": "Ffd0fe8aa5803"
+   },
+   {
+    "similaridade": 0.33,
+    "id_v": "V9699fb1e6941",
+    "id_f": "Fa2349634c4c4"
+   },
+   {
+    "similaridade": 0.329,
+    "id_v": "Vc1d8cf3f91ea",
+    "id_f": "Ff46030de020c"
+   },
+   {
+    "similaridade": 0.328,
+    "id_v": "V83b29c28eceb",
+    "id_f": "Ff90c98af75cb"
+   },
+   {
+    "similaridade": 0.326,
+    "id_v": "Ve223d520e014",
+    "id_f": "F46468d8bbe97"
+   },
+   {
+    "similaridade": 0.326,
+    "id_v": "Va5cc510a8768",
+    "id_f": "F3236eed6e242"
+   },
+   {
+    "similaridade": 0.326,
+    "id_v": "Vb2abf33ff7ec",
+    "id_f": "F7e0542ab7920"
+   },
+   {
+    "similaridade": 0.326,
+    "id_v": "V345e149b9033",
+    "id_f": "F85cee2221733"
+   },
+   {
+    "similaridade": 0.326,
+    "id_v": "Vd5b5667391f5",
+    "id_f": "Fe7451bf545e3"
+   },
+   {
+    "similaridade": 0.324,
+    "id_v": "Vdcb141c7945e",
+    "id_f": "F9d74ebbb4935"
+   },
+   {
+    "similaridade": 0.321,
+    "id_v": "Ve275fd4bf49b",
+    "id_f": "F791198145fb1"
+   },
+   {
+    "similaridade": 0.321,
+    "id_v": "V71218b396fb9",
+    "id_f": "Fc71531c35c73"
+   },
+   {
+    "similaridade": 0.318,
+    "id_v": "V055598c5097e",
+    "id_f": "F2e64ffe2cf28"
+   },
+   {
+    "similaridade": 0.316,
+    "id_v": "Vdaed7c34258f",
+    "id_f": "Fcb357d0cf3ad"
+   },
+   {
+    "similaridade": 0.313,
+    "id_v": "V3eab6e0f5469",
+    "id_f": "F1d36cfeac2b1"
+   },
+   {
+    "similaridade": 0.311,
+    "id_v": "V2e24474dfba6",
+    "id_f": "F76e51e6305b2"
+   },
+   {
+    "similaridade": 0.307,
+    "id_v": "V48cf74ff7411",
+    "id_f": "Fc40425ee9151"
+   },
+   {
+    "similaridade": 0.307,
+    "id_v": "V91567bd0e044",
+    "id_f": "F102d9df49075"
+   },
+   {
+    "similaridade": 0.305,
+    "id_v": "V4f4354635ad7",
+    "id_f": "F98a3e0023b7e"
+   },
+   {
+    "similaridade": 0.303,
+    "id_v": "V0c84cb40bb7b",
+    "id_f": "F1d36cfeac2b1"
+   }
+  ]
+ }
+}
