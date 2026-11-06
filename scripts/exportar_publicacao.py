@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Gera o pacote de publicação da BRACE.br (Zenodo, DOI 10.5281/zenodo.23932000).
+"""Gera o pacote de publicação da BRACE.br (Zenodo, DOI 10.5281/zenodo.23982799).
 
     python scripts/exportar_publicacao.py             # simula: mostra contagens, não grava
     python scripts/exportar_publicacao.py --aplicar   # grava em datasets/publicacao/
@@ -15,7 +15,13 @@ O que entra e o que não entra:
     saem do arquivo;
   - subconjunto_pareado exclui também as checagens de discurso; o pareado usado no
     TCC fica em subconjunto_pareado_tcc, para reprodução;
-  - registros_no_artigo (falsas) e as marcações de qualidade vão como atributos.
+  - registros_no_artigo (falsas) e as marcações de qualidade vão como atributos;
+  - v1.1.0: veredito do checador (relatorios/marcacoes/veredito_checador.json) e
+    revisão humana dos casos sem veredito explícito (revisao_rotulos.json). As
+    mensagens verdadeiras ou não verificadas saem do arquivo; o conteúdo publicado
+    no formato de checagem sem veredito vira NAO_E_CHECAGEM, fora do pareado; as
+    meias-verdades (selos Enganoso, Exagerado, Real com erros) continuam FALSO.
+    Cada falsa leva o veredito do checador e a fonte dele como atributos.
 """
 import os
 import sys
@@ -29,8 +35,9 @@ ARQ_CORPUS = os.path.join(_RAIZ, "datasets", "corpus_fundido.jsonl")
 ARQ_BRACO = os.path.join(_RAIZ, "datasets", "braco_refinado.jsonl")
 PASTA_MARCAS = os.path.join(_RAIZ, "relatorios", "marcacoes")
 SAIDA = os.path.join(_RAIZ, "datasets", "publicacao")
-VERSAO = "1.0.0"
-DOI = "10.5281/zenodo.23932000"
+VERSAO = "1.1.0"
+DOI = (sys.argv[sys.argv.index("--doi") + 1] if "--doi" in sys.argv else "10.5281/zenodo.23982799")
+
 ARQ_DADOS = f"brace_br_v{VERSAO}.jsonl.gz"
 SEMENTE = 0
 
@@ -39,7 +46,7 @@ CAMPOS = ["id", "veredito", "texto_entrada", "ideia_central", "justificativa", "
           "subconjunto_pareado", "subconjunto_pareado_tcc", "origem_viral", "verificacao_viral",
           "registros_no_artigo", "duplicata_canonica", "grupo_duplicata", "entrada_degenerada",
           "entrada_repetida", "entrada_com_veredito", "entrada_narrativa_checador",
-          "entrada_cabecalho_checador", "checagem_de_discurso", "desmentido"]
+          "entrada_cabecalho_checador", "checagem_de_discurso", "desmentido", "veredito_checador", "fonte_do_veredito"]
 PROIBIDOS = {"texto_bruto_jornalista", "justificativa_bruta"}
 
 
@@ -56,22 +63,37 @@ def montar():
             cego[r["id"]] = r["ideia_central"]
     inventadas, discurso, desmentido = ids_marcados("entrada_inventada"), ids_marcados("checagem_de_discurso"), ids_marcados("desmentido")
     registros = Counter((r.get("url") or "").rstrip("/") for r in corpus if r["veredito"] == "FALSO")
+    checador = {i["id"]: i for i in
+                json.load(open(os.path.join(PASTA_MARCAS, "veredito_checador.json"), encoding="utf-8"))["itens"]}
+    revisao = json.load(open(os.path.join(PASTA_MARCAS, "revisao_rotulos.json"), encoding="utf-8"))["decisoes"]
 
-    saida, retiradas = [], 0
+    saida, retiradas, retiradas_rotulo = [], 0, 0
     for r in corpus:
         if r["id"] in inventadas:
             retiradas += 1
+            continue
+        if revisao.get(r["id"], {}).get("decisao") == "REMOVER":
+            retiradas_rotulo += 1
             continue
         x = {c: r.get(c) for c in CAMPOS}
         x["ideia_central"] = cego.get(r["id"])                # versão cega; None fora do pareado
         x["subconjunto_pareado_tcc"] = bool(r.get("subconjunto_pareado"))
         x["checagem_de_discurso"] = r["id"] in discurso
         x["desmentido"] = r["id"] in desmentido
-        x["subconjunto_pareado"] = x["subconjunto_pareado_tcc"] and not x["checagem_de_discurso"]
+        c = checador.get(r["id"])
+        x["veredito_checador"] = (c["veredito_checador"] if c and c["fonte_do_veredito"] in ("selo", "hashtag")
+                                  else None)
+        x["fonte_do_veredito"] = ((c["fonte_do_veredito"] if c["fonte_do_veredito"] != "nenhuma" else "texto_do_artigo")
+                                  if c else None)
+        if revisao.get(r["id"], {}).get("decisao") == "NAO_E_CHECAGEM":
+            x["veredito"] = "NAO_E_CHECAGEM"
+        x["subconjunto_pareado"] = (x["subconjunto_pareado_tcc"] and not x["checagem_de_discurso"]
+                                    and x["veredito"] in ("FALSO", "VERDADEIRO"))
         x["registros_no_artigo"] = registros[(r.get("url") or "").rstrip("/")] if r["veredito"] == "FALSO" else None
         assert not PROIBIDOS & set(x)
         saida.append(x)
     reequilibrar(saida)
+    montar.retiradas_rotulo = retiradas_rotulo
     return corpus, saida, retiradas, cego
 
 
@@ -102,6 +124,10 @@ def resumo(corpus, saida, retiradas, cego):
     res = {
         "corpus_original": len(corpus),
         "inventadas_retiradas": retiradas,
+        "retiradas_rotulo_do_checador": montar.retiradas_rotulo,
+        "fonte_do_veredito": dict(Counter(x["fonte_do_veredito"] for x in saida if x["fonte_do_veredito"])),
+        "selos_meia_verdade_mantidos_falso": sum((x["veredito_checador"] or "").lower() in
+                                                 ("enganoso", "exagerado", "real com erros") for x in saida),
         "publicadas": len(saida),
         "por_classe": dict(v),
         "pareado_tcc": dict(Counter(x["veredito"] for x in par_tcc)),
@@ -120,10 +146,11 @@ def resumo(corpus, saida, retiradas, cego):
     return res
 
 
-LEIAME = """# BRACE.br v{versao} — Boatos Reunidos de Agências de Checagem, em Escala
+LEIAME = """# BRACE.br v{versao} — Boatos e Reportagens de Agências, Coletados em Escala
 
-Base de desinformação em português, construída automaticamente a partir de
-portais de checagem (classe FALSO) e da Agência Brasil (classe VERDADEIRO).
+Base de desinformação em português, com boatos desmentidos por agências de
+checagem (classe FALSO) pareados a reportagens da Agência Brasil (classe
+VERDADEIRO), por tema e por ano.
 
 - DOI: https://doi.org/{doi}
 - Código e documentação: https://github.com/FSMota/BRACE.br
@@ -136,12 +163,20 @@ portais de checagem (classe FALSO) e da Agência Brasil (classe VERDADEIRO).
 
 | | instâncias |
 |---|---:|
-| total | {publicadas} ({falsas} falsas + {verdadeiras} verdadeiras) |
+| total | {publicadas} ({falsas} falsas + {verdadeiras} verdadeiras + {outras} que não são checagem) |
 | subconjunto pareado | {par_total} ({par_f} falsas + {par_v} verdadeiras) |
 
 ## Campos
 
-- `id`, `veredito` (`FALSO` ou `VERDADEIRO`).
+- `id`, `veredito`: `FALSO` ou `VERDADEIRO`. A partir da v1.1.0, poucas
+  instâncias têm `NAO_E_CHECAGEM`: conteúdo publicado no formato de checagem
+  sem veredito (explicativo ou patrocinado), fora do pareado.
+- `veredito_checador`: o veredito que o próprio checador publicou, quando há
+  marca explícita: o selo do fim do artigo no Boatos.org ("Fake news",
+  "Golpe", "Boato sem comprovação", "Enganoso", "Exagerado", "Real com erros")
+  ou a hashtag (#boato, #FAKE). As meias-verdades (Enganoso, Exagerado, Real
+  com erros) estão na classe `FALSO`. `fonte_do_veredito`: `selo`, `hashtag`,
+  `titulo` (palavra de desmentido no título) ou `texto_do_artigo` (veredito do checador localizado por leitura humana do artigo, quando não há selo nem hashtag).
 - `texto_entrada`: a entrada bruta. FALSO: a mensagem viral, como transcrita pelo
   checador, limpa da introdução do jornalista. VERDADEIRO: título + lide da matéria.
 - `ideia_central`: o texto refinado, uma frase neutra com a alegação central,
@@ -173,6 +208,7 @@ portais de checagem (classe FALSO) e da Agência Brasil (classe VERDADEIRO).
 
 - 111 entradas falsas da via LLM que não existem no artigo de origem (texto
   inventado pelo modelo), identificadas por medida pré-registrada.
+- {retiradas_rotulo} entradas que, pelo veredito do checador localizado no texto do artigo, são mensagens verdadeiras ou ainda em apuração (v1.1.0).
 - O texto integral dos artigos de checagem e os recortes literais da apuração.
 
 ## Limitações medidas
@@ -211,6 +247,8 @@ def main():
     par = res["pareado_publicado"]
     leiame = LEIAME.format(versao=VERSAO, doi=DOI, arquivo=ARQ_DADOS, publicadas=res["publicadas"],
                            falsas=res["por_classe"]["FALSO"], verdadeiras=res["por_classe"]["VERDADEIRO"],
+                           outras=res["publicadas"] - res["por_classe"]["FALSO"] - res["por_classe"]["VERDADEIRO"],
+                           retiradas_rotulo=res["retiradas_rotulo_do_checador"],
                            par_total=sum(par.values()), par_f=par["FALSO"], par_v=par["VERDADEIRO"])
     open(os.path.join(SAIDA, "LEIAME.md"), "w", encoding="utf-8").write(leiame)
     linhas = []

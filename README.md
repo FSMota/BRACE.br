@@ -33,16 +33,20 @@ execução.
 
 ### Números
 
-| | versão publicada (1.0.0) | versão dos experimentos (TCC) |
+| | versão publicada (1.1.0) | versão dos experimentos (TCC) |
 |---|---:|---:|
-| total | **27.891** (14.745 falsas + 13.146 verdadeiras) | 28.002 (14.856 + 13.146) |
-| subconjunto pareado (tema × ano × parte da divisão) | **23.676** (11.838 + 11.838) | 23.950 (11.975 + 11.975) |
-| treino / validação / teste (pareado) | 16.572 / 2.070 / 5.034 | 16.707 / 2.080 / 5.162 |
+| total | **27.871** (14.721 falsas + 13.146 verdadeiras + 4 que não são checagem) | 28.002 (14.856 + 13.146) |
+| subconjunto pareado (tema × ano × parte da divisão) | **23.646** (11.823 + 11.823) | 23.950 (11.975 + 11.975) |
+| treino / validação / teste (pareado) | 16.544 / 2.068 / 5.034 | 16.707 / 2.080 / 5.162 |
 | período | 2014 a 2026 | 2014 a 2026 |
 
 A versão publicada retira as 111 entradas falsas inventadas pelo LLM na
 extração e exclui do pareado as checagens de discurso, reequilibrando as
-células afetadas. O pareado exato dos experimentos vai no atributo
+células afetadas. A partir da 1.1.0, cada falsa leva o veredito publicado pelo
+próprio checador (`veredito_checador`: o selo do fim do artigo no Boatos.org ou
+a hashtag #boato), lido por `scripts/veredito_checador.py`; nos artigos sem essa marca, o pesquisador localizou o veredito no texto do checador
+(`scripts/aplicar_revisao_rotulos.py`), e as 20 mensagens verdadeiras ou ainda
+em apuração saíram da base. O pareado exato dos experimentos vai no atributo
 `subconjunto_pareado_tcc`; retirar as entradas inventadas altera a acurácia do
 modelo de referência em no máximo 0,15 ponto.
 
@@ -335,8 +339,8 @@ reinstalar o sistema. Os vetores BERTimbau e bge-m3 e o ajuste fino exigem GPU.
 
 ## 9. Dados e licenças
 
-Os dados não vão para o git. A base está no Zenodo, versão 1.0.0:
-**https://doi.org/10.5281/zenodo.23932000**. Este repositório fica com o
+Os dados não vão para o git. A base está no Zenodo, versão 1.1.0:
+**https://doi.org/10.5281/zenodo.23982799**. Este repositório fica com o
 código, a documentação e os resultados; `scripts/exportar_publicacao.py` gera
 a versão publicada a partir da base usada nos experimentos.
 
