@@ -1,0 +1,25 @@
+{
+ "n_pareado": 23950,
+ "classificador": "regressão logística, C=10",
+ "semente": 0,
+ "n_treino": 16708,
+ "n_teste": 5162,
+ "atributos": {
+  "tema": {
+   "validacao_cruzada_aleatoria": 48.78,
+   "divisao_temporal": 50.0
+  },
+  "ano": {
+   "validacao_cruzada_aleatoria": 48.31,
+   "divisao_temporal": 50.0
+  },
+  "ano_mes": {
+   "validacao_cruzada_aleatoria": 57.62,
+   "divisao_temporal": 50.0
+  },
+  "data_completa": {
+   "validacao_cruzada_aleatoria": 60.76,
+   "divisao_temporal": 50.0
+  }
+ }
+}
