@@ -74,9 +74,9 @@ cruzada exigiria cinco ajustes finos.}
 \setlength{\tabcolsep}{3.5pt}
 \begin{tabular}{lrrrrrrrr}
 \toprule
- & \multicolumn{4}{c}{Texto bruto} & \multicolumn{4}{c}{Texto refinado} \\
+ & \multicolumn{4}{c}{\textbf{Texto bruto}} & \multicolumn{4}{c}{\textbf{Texto refinado}} \\
 \cmidrule(lr){2-5}\cmidrule(lr){6-9}
-Modelo & BB & BF & FF & FB & BB & BF & FF & FB \\
+\textbf{Modelo} & \textbf{BB} & \textbf{BF} & \textbf{FF} & \textbf{FB} & \textbf{BB} & \textbf{BF} & \textbf{FF} & \textbf{FB} \\
 \midrule
 """ + "\n".join(linhas) + r"""
 \bottomrule

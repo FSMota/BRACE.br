@@ -1,0 +1,13 @@
+{
+  "completo": {
+    "acuracia_balanceada": 94.22,
+    "mediana_caracteres_falsas": 952.0,
+    "mediana_caracteres_verdadeiras": 5580.0
+  },
+  "cortado": {
+    "acuracia_balanceada": 54.65,
+    "mediana_caracteres_falsas": 315.0,
+    "mediana_caracteres_verdadeiras": 330.0
+  },
+  "n_pares": 3600
+}
