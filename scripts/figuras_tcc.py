@@ -253,10 +253,10 @@ def fig_fidelidade():
                 ax.text(esq + v / 2, i, f"{br(v, 0)}%", ha="center", va="center", fontsize=8,
                         color="white" if cat == "fiel" else TINTA)
             esq += v
-    ax.set_yticks([0, 1], ["frases das falsas", "frases das verdadeiras"])
+    ax.set_yticks([0, 1], ["Falsas", "Verdadeiras"])
     ax.invert_yaxis()
     ax.set_xlim(0, 100)
-    ax.set_xlabel("% das 100 frases refinadas de cada classe (anotação adjudicada)")
+    ax.set_xlabel("% das 100 frases refinadas de cada classe (após a decisão das divergências)")
     ax.grid(False)
     ax.legend(loc="lower center", bbox_to_anchor=(0.5, 1.0), ncol=4)
     salvar(fig, "fig_c3_fidelidade.pdf")
