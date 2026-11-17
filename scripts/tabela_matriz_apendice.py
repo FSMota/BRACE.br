@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Gera o apêndice do TCC com a matriz de modelos completa, direto dos resultados.
 
-    python scripts/tabela_matriz_apendice.py /caminho/do/TCC/Apendices/ApendiceB.tex
+    python scripts/tabela_matriz_apendice.py /caminho/do/TCC/Apendices/ApendiceC.tex
 
 Lê relatorios/matriz/apuracao.json e os resumos da matriz (versão dos experimentos).
 Nenhum valor é digitado à mão. Confere as faixas citadas no capítulo de resultados.
